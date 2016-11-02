@@ -1,0 +1,83 @@
+---
+title: "Recovery Units"
+author: "Michael Evans"
+date: "November 1, 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+data(rus)
+#n <- nrow(rus)
+library(plotly)
+library(dplyr)
+library(tidyr)
+load("C:/Users/mevans/repos/recovery_units/data.RData")
+```
+## Background
+
+The vast majority of species listed as Threatened or Endangered under the U.S. Endangered Species Act (ESA) have failed to recover.  The threats facing these species are increasingly diverse, and the agencies responsible for their recovery are challenged with limited budgets that do not match the growing number of listed species.  Therefore, a critical mission for advancing endangered species conservation is to identify and develop ESA implementation methods that can both improve efficiency and efficacy of species recovery.  To this end, the designation of species recovery units is a potentially underutilized resource.  
+
+Recovery units are defined as "a special unit of the listed entity that is geographically or otherwise identifiable, and is essential to the recovery of the entire listed entity."  As such, the effects of federal actions subject to section 7 consultations can be evaluated at the recovery unit level, including jeopardy and adverse modification of critical habitat.  Additionally, recovery actions and goals may differ among recovery units, potentially allowing for more targeted and efficient budgeting.  Finally, because recovery units can be delineated according to a wide range of factors - genetic diversity, developmental stages, and ecosystem diversity - they can be adapted to a wide range of taxa and threats.  Taken together, recovery units provide a tool that could be used both for more flexible and, when necessary, more stringent limits on adverse effects.
+
+Recovery units are a particularly appealing tool, because they already exists within the current ESA framework, requiring no new creation of policy.  Yet, only 31 out of 1309 species with recovery plans written by the Fish and Wildlife Service have recovery units defined.  Nearly 300 additional listed species currently do not have recovery plans written.  Thus, recovery units present a practical and immediate opportunity to improve endangered species conservation and recovery.
+
+## Proposed Project
+The goal of this project is to understand what has guided FWS current use of recovery units, and demonstrate their utility for improved protection and recovery of endangered species.  We propose to conduct analyses that will address the following objectives:
+
+#### Objective 1: Quantify patterns of recovery unit designation
+
+**Q1:** What are the factors explaining for which species recovery units are designated?
+
+(Taxonomic group, FWS office, time, status, priority, range, land use, etc.)
+
+#### Objective 2: Assess how recovery units are used in ESA implementation.
+
+**Q2:** Are recovery units used during the section 7 consultation process?</br>
+**Q3:** Is species recovery monitored within recovery units?</br>
+
+#### Objective 3: Estimate impacts on species protection and recovery
+
+**Q4:** Do species with recovery units recover 'better'?</br>
+**Q5:** Do recovery units lead to more restrictive regulation?</br>
+
+## Outcomes
+The results of this analysis will...Ultimately, these findings will allow Defenders to make specific policy recommendations to federal agencies as to which species recovery units can be used. The current backlog of # currently listed species without recovery plans provides a practically feasible, concrete set of species to which these recommendations can be applied.  
+
+##Initial Analyses
+```{r chisq, echo = FALSE, warning = FALSE}
+xtest <- chisq.test(group_cont[, 2:3])
+xtest_p <- chisq.test(group_cont[c(1:8,10), 2:3])
+
+wtest <- wilcox.test(x = species$Area, y = filter(compare, Units>0)$Area, alternative = "l", paired = FALSE)
+```
+The use of recovery units appear to be biased towards specific taxa, both when plant species are (X2 = `r round(xtest$statistic, 2)`, df = `r round(xtest$parameter, 2)`, p = `r round(xtest$p.value, 2)`) and are not considered (X2 = `r round(xtest_p$statistic, 2)`, df = `r round(xtest_p$parameter, 2)`, p = `r round(xtest_p$p.value, 2)`).  Specifically, Amphibians, Fishes, Insects, Mammals, and Reptiles are more frequently given recovery units. 
+
+```{r taxa_bars, echo = FALSE, warning = FALSE}
+plot_ly(filter(group_cont, Group != "Plants and Lichens"), x = ~Group)%>%
+  add_trace(type = "bar", x = ~Group, y = ~All.p, name = "All")%>%
+  add_trace(type = "bar", x = ~Group, y = ~RUs.p, name = "R Units")%>%
+  layout(title = "Distribution of Taxanomic Groups",
+         yaxis = list(title = "Proportion of Species"))
+```
+</br>
+Similarly, recovery units are applied to species with larger ranges, measured by the area encompassed by counties in which they are listed (W = `r round(wtest$statistic, 2)`, p = `r round(wtest$p.value, 2)`).
+
+```{r area_bars, echo = FALSE, warning = FALSE}
+plot_ly(alpha = 0.75)%>%
+  add_histogram(data = species, x = ~log(Area), histnorm = "probability", name = "All", xbins = list(start = 15, end = 35, size =0.5))%>%
+  add_histogram(data = filter(compare, Units>0), x = ~log(Area), histnorm = "probability", name = "RUs", xbins = list(start = 15, end = 35, size =0.5))%>%
+  layout(barmode = "overlay",
+         title = "Distribution of Range Sizes",
+         xaxis = list(title = "Range Size (log acres)"))
+```
+</br>
+A significantly higher proportion of formal section7 consultations involve species with recovery units `r `.  This may be because species that the service preemptively designates recovery units for species they anticipate frequent consultation, or because.  Examination of BIOPS will distinguish.
+
+```{r consult_box, echo = FALSE, warning = FALSE}
+plot_ly()%>%
+  add_trace(y = table(test$Scientific, test$consult_type)[,1]/table(test$Scientific), type = "box", name = "All")%>%
+  add_trace(y = compare$fcons[compare$Units>0]/compare$cons[compare$Units>0], type = "box", name = "RUs")%>%
+  layout(title = "Formal Consultation Rates",
+         yaxis = list(title = "Percent of Consultations"))
+```
