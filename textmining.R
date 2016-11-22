@@ -1,4 +1,5 @@
 load(".RData")
+library(ecosscraper)
 library(pdftools)
 library(stringr)
 library(rvest)
