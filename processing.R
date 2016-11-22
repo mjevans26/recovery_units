@@ -133,7 +133,7 @@ for(i in 1:nrow(compare)){
 
 #check for species in consultation df
 for(name in compare$Scientific){
-  if(!(name%in%test$Scientific)){paste(print(name%in%test$Scientific), print(name), sep = " ")}}
+  if(!(name%in%five_year_review_table$Species)){paste(print(name%in%five_year_review_table$Species), print(name), sep = " ")}}
 
 for(name in us$Office){
   if(!(name%in%office_cont$Office)){paste(print(name%in%office_cont$Office), print(name), sep = " ")}}
