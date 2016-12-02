@@ -79,12 +79,55 @@ species <- dplyr::group_by(esacounties, Scientific)%>%
   summarise(count = n())%>%
   arrange(count)
 
+species2 <- filter(TECP_domestic, Federal_Listing_Status == "Endangered"|Federal_Listing_Status == "Threatened", Lead_Region != "NMFS")%>%
+  select(Scientific_Name, Species_Group, Lead_Region, Federal_Listing_Status)%>%
+  inner_join(., species, by = c("Scientific_Name" = "Scientific"))
 
-dat$Group <- sapply(dat$Species_Taxonomic_Group, function(x)
+species2$Species_Group <- sapply(species2$Species_Group, function(x)
   if(x == "Ferns and Allies"|x == "Flowering Plants"|x == "Conifers and Cycads"|x == "Lichens"){
     "Plants and Lichens"}
   else if(x == "Snails"|x=="Clams"){
     "Molluscs"}else{x})
+
+species2[37, 5:6] <- c(2, 5429470554)
+species2[38, 5:6] <- c(1, 7083927512)
+species2[39, 5:6] <- c(30, 152222337622 - 7083927512 - 5429470554)
+#roseate tern
+species2[1131, "Area"] <- 88790046016
+species2[1130, 5:6] <- c(4, 126597256825 - 88790046016)
+#rana muscosa
+species2[1251, 5:6] <- c(20, 39862735170)
+species2[1252, 5:6] <- c(28, 64115867954 - 39862735170)
+#Loggerhead
+species2[177, 5:6] <- c(84, 168262400000)
+species2[178, 5:6] <- c(7, 40726910000)
+#remove threatened pop of gray wolf, piping plover, unknown green sea turtle pops 
+species2 <- species2[-c(173, 207, 212, 213, 215, 217), ]
+
+species2$Priority <- filter(spp_plans, Species_Listing_Status == "Threatened"|Species_Listing_Status=="Endangered")%>%
+                                     select(Species_Scientific_Name, Species_Recovery_Priority_Number)%>%
+                                      distinct()%>%
+                                     right_join(species2, by = c("Species_Scientific_Name" = "Scientific_Name"))%>%
+                                     select(Species_Recovery_Priority_Number)
+species2$Priority <- as.integer(gsub("C", "", species2$Priority2))
+species2$Priority2 <- NULL
+species2[2:4, ] <- as.factor(species2[2:4, ])
+
+TECP_domestic <- filter(TECP_table, U_S__or_ForeignListed == "US"|U_S__or_ForeignListed == "US/Foreign", 
+                        Federal_Listing_Status == "Threatened"|Federal_Listing_Status == "Endangered")
+
+species2 <- species2[!(species2$Scientific %in% compare$Scientific), ]
+
+species2 <- species2[species2$Scientific %in% TECP_domestic$Scientific_Name, ]
+
+t <- select(miss_recover, Scientific, number)%>%
+  distinct()
+
+for(i in species2$Scientific){
+  if (i %in% t$Scientific){
+    species2$Priority[species2$Scientific == i] <- t$number[t$Scientific==i]
+  }
+}
 
 anti_join(filter(compare, is.na(Region)), spp_plans, by = c("Scientific" = "Species_Scientific_Name"))
 
@@ -109,6 +152,7 @@ compare$admo <- as.data.frame(filter(test,!is.na(n_admo), n_admo>0)%>%
   right_join(compare, by = "Scientific")%>%
   select(admo))
 
+compare$frate <- compare$fcons/compare$cons
 
 for(i in 1:nrow(compare)){
   if(compare$Units[i]>0){

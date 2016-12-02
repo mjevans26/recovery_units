@@ -48,6 +48,10 @@ chisq.test()
 plot_ly(type = "box")%>%
   add_trace(y = table(test$Scientific, test$consult_type)[,1]/table(test$Scientific), name = "All")%>%
   add_trace(y = compare$fcons[compare$Units>0]/compare$cons[compare$Units>0], type = "box", name = "RUs")
+# Head-to-head
+plot_ly(type = "box")%>%
+  add_trace(y = compare$fcons[compare$Units>0]/compare$cons[compare$Units>0], type = "box", name = "RUs")%>%
+  add_trace(y = compare$fcons[compare$Units == 0]/compare$cons[compare$Units == 0], type = "box", name = "Non")
 
 #Gila trout vs. Apache Trout
 
