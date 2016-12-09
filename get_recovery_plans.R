@@ -44,7 +44,7 @@ goddamn$scholar <- integer(length = nrow(goddamn))
 #scrape Google Scholar (doesn't work because somehow google blocks this?)
 agent <- "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0"
 agent <- "Mozilla/5.0 (Windows NT 6.3; Trident/7.0; .NET4.0E; .NET4.0C; rv:11.0) like Gecko"
-for(i in sample(which(is.na(goddamn$scholar)), 20, replace = FALSE)){
+for(i in sample(which(is.na(goddamn$scholar)), 50, replace = FALSE)){
   text <- NA
   scientific <- str_split(goddamn[i, 1], " ")[[1]]
   scientific <- paste(scientific[!grepl("\\(", scientific)], collapse = "+")
