@@ -1,0 +1,3 @@
+doc3218.pdf:16:New Recovery Priority Number and Brief Rationale: The recovery number for both of these
+doc4110.pdf:18:              therefore the appropriate recovery number is 9.
+doc4365.pdf:31:recovery priority and 18 is the lowest (Service 1983). The new recovery number of 11 indicates

@@ -53,3 +53,5 @@ print(length(link))
 filter(five_year_review_table, Species%in%list)
 str_split(five_year_review_table$Doc_Link[1], "/")[[1]][4]
 lapply(list, function(x) download.file(url = paste("https://defend-esc-dev.org/esadocs/ive_year_review/")))
+
+#find priority number change in five year review

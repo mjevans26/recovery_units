@@ -82,4 +82,22 @@ plot_ly(type = "box")%>%
 #northern vs. mexican spotted owl
 
 #bonytail vs. humpback chub
+taxa_stats <- group_by(goddamn, Group)%>%summarise(Area_md = median(Area, na.rm = TRUE), 
+                                                   Area_mn = mean(Area, na.rm = TRUE),
+                                                   Area_sd = sd(Area),
+                                                   Prior_md = median(Priority, na.rm = TRUE), 
+                                                   Prior_mn = mean(Priority, na.rm = TRUE),
+                                                   Prior_sd = sd(Priority, na.rm = TRUE))
+boxplot(
+  compare$Area[compare$Group == "Plants" & compare$group == "R"] - taxa_stats$Area_md[taxa_stats$Group == "Plants"],
+  compare$Area[compare$Group == "Insects" & compare$group == "R"] - taxa_stats$Area_md[taxa_stats$Group == "Insects"],
+  compare$Area[compare$Group == "Amphibians" & compare$group == "R"] - taxa_stats$Area_md[taxa_stats$Group == "Amphibians"],
+  compare$Area[compare$Group == "Birds" & compare$group == "R"] - taxa_stats$Area_md[taxa_stats$Group == "Birds"],
+  compare$Area[compare$Group == "Reptiles" & compare$group == "R"] - taxa_stats$Area_md[taxa_stats$Group == "Reptiles"],
+  compare$Area[compare$Group == "Fish" & compare$group == "R"] - taxa_stats$Area_md[taxa_stats$Group == "Fish"],
+  compare$Area[compare$Group == "Mammals" & compare$group == "R"] - taxa_stats$Area_md[taxa_stats$Group == "Mammals"])
 
+for(i in c("Plants", "Insects", "Amphibians", "Birds", "Reptiles", "Fish", "Mammals", "Arachnids", "Crustaceans", "Molluscs")){
+  goddamn$Area_z[goddamn$Group == i] <- (goddamn$Area[goddamn$Group == i] - taxa_stats$Area_md[taxa_stats$Group == i])/taxa_stats$Area_sd[taxa_stats$Group == i]
+  goddamn$Priority_z[goddamn$Group == i] <- (goddamn$Priority[goddamn$Group == i] - taxa_stats$Prior_mn[taxa_stats$Group == i])/taxa_stats$Prior_sd[taxa_stats$Group == i]
+}

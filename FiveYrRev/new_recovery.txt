@@ -1,0 +1,655 @@
+doc1041.pdf	13	    B.     New Recovery Priority Number __3 (no change)____
+doc1061.pdf	14	New Recovery Priority Number_ No change
+doc1063.pdf	32	    3.2. New Recovery Priority Number_
+doc1064.pdf	34	    3.2. New Recovery Priority Number_
+doc1073.pdf	24	     B.      New Recovery Priority Number __8___
+doc1075.pdf	43	    3.2      New Recovery Priority Number_ No change.
+doc1076.pdf	42	    3.2     New Recovery Priority Number_ No change.
+doc1077.pdf	43	    3.2     New Recovery Priority Number_ No change.
+doc1080.pdf	31	        3.2     New Recovery Priority Number_
+doc1115.pdf	24	     B.       New Recovery Priority Number_ No change
+doc1117.pdf	34	       B.   New Recovery Priority Number_ 8c
+doc1120.pdf	7	                New Recovery Priority Number         N/A-_
+doc1121.pdf	7	                   New Recovery Priority Number        Not applicable-_
+doc1123.pdf	7	                B.     New Recovery Priority Number          N/A_
+doc1127.pdf	7	                     New Recovery Priority Number_
+doc1128.pdf	6	                        New Recovery Priority Number         N/A-_
+doc1129.pdf	7	          B.       New Recovery Priority Number        N/A-_
+doc1133.pdf	7	                 B.     New Recovery Priority Number_
+doc1134.pdf	8	           B.     New Recovery Priority Number             NA_
+doc1136.pdf	7	           B.      New Recovery Priority Number_
+doc1138.pdf	14	         3.2.     New Recovery Priority Number__15__
+doc1139.pdf	14	    3.2   New Recovery Priority Number __13____
+doc1139.pdf	14	          The new recovery priority number should be 13 because the degree of threat is now_
+doc1141.pdf	24	     III.B. New Recovery Priority Number_ 14, indicating a species with high recovery
+doc1142.pdf	17	     III.B. New Recovery Priority Number_ __14__
+doc1143.pdf	24	       III.B. New Recovery Priority Number_ No change to the recovery priority is
+doc1144.pdf	36	    3.2. New Recovery Priority Number_
+doc1145.pdf	12	     B.   New Recovery Priority Number_
+doc1146.pdf	14	        III.B. New Recovery Priority Number __8____
+doc1147.pdf	14	     III.B. New Recovery Priority Number __9_ (to correct an error in the previously_
+doc1148.pdf	26	III.B. New Recovery Priority Number_ N/A
+doc1149.pdf	22	III.B. New Recovery Priority Number_ N/A
+doc1152.pdf	13	     B.      New Recovery Priority Number_ 5 This recovery priority number reflects a
+doc1153.pdf	16	    3.2  New Recovery Priority Number_ Change to 14.
+doc1154.pdf	12	       3.2       New Recovery Priority Number_ No change.
+doc1156.pdf	14	B.      New Recovery Priority Number __8 (no change)___
+doc1157.pdf	16	        B.   New Recovery Priority Number __No change._
+doc1158.pdf	16	     III.B. New Recovery Priority Number_ 3C
+doc1159.pdf	14	     B.      New Recovery Priority Number_ No change.
+doc1160.pdf	38	III.B. New Recovery Priority Number_ N/A
+doc1161.pdf	14	         III.B. New Recovery Priority Number __2C___
+doc1165.pdf	16	    3.2    New Recovery Priority Number __8 (no change)__ (indicate if no change; see_
+doc1171.pdf	34	    3.2 New Recovery Priority Number_
+doc1617.pdf	16	    3.2   New Recovery Priority Number_ No change; it remains 3.
+doc1764.pdf	15	        3.2     New Recovery Priority Number_ No change recommended
+doc1775.pdf	9	    3.2      New Recovery Priority Number_
+doc1777.pdf	11	3.2_
+doc1785.pdf	11	       3.2      New Recovery Priority Number_
+doc1785.pdf	15	   3.2   New Recovery Priority Number                                            9_
+doc1785.pdf	24	3.2_
+doc1786.pdf	11	    3.2      New Recovery Priority Number_
+doc1791.pdf	9	    3.2     New Recovery Priority Number_ N/A
+doc1802.pdf	9	    3.2      New Recovery Priority Number_
+doc1812.pdf	11	       3.2      New Recovery Priority Number_
+doc1825.pdf	9	    3.2      New Recovery Priority Number_
+doc1841.pdf	11	3.2_
+doc1845.pdf	9	    3.2      New Recovery Priority Number_
+doc1852.pdf	9	    3.2      New Recovery Priority Number_
+doc1856.pdf	9	      B._
+doc1862.pdf	17	III.B. New Recovery Priority Number_ N/A
+doc1863.pdf	8	    3.2. New Recovery Priority Number_ 6C (no change)
+doc1864.pdf	21	III.B. New Recovery Priority Number_ No change
+doc1865.pdf	18	  III.B. New Recovery Priority Number_ 14 (no change)
+doc1867.pdf	23	III.B. New Recovery Priority Number_ No change.
+doc1868.pdf	19	III.B. New Recovery Priority Number_
+doc1869.pdf	19	III.B. New Recovery Priority Number_
+doc1870.pdf	9	      III.B. New Recovery Priority Number ___8__ (no change)_
+doc1871.pdf	11	     III.B. New Recovery Priority Number __8___
+doc1872.pdf	16	     III.B. New Recovery Priority Number_ A change to the recovery priority is proposed
+doc1873.pdf	13	    III.B. New Recovery Priority Number __14___
+doc1874.pdf	16	    3.2. New Recovery Priority Number_8
+doc1875.pdf	17	     B. New Recovery Priority Number_ No change.
+doc1876.pdf	11	     III.B.      New Recovery Priority Number ___2__ (No change)_
+doc1877.pdf	17	     B. New Recovery Priority Number_ 2 (no change)
+doc1884.pdf	15	     B.      New Recovery Priority Number_ 2c
+doc1887.pdf	4	New Recovery Priority Number_ No change (remains 8)
+doc1891.pdf	11	   3.2. New Recovery Priority Number_
+doc1892.pdf	11	    3.2. New Recovery Priority Number_
+doc1893.pdf	11	   3.2. New Recovery Priority Number_
+doc1894.pdf	28	     III.B. New Recovery Priority Number_
+doc1895.pdf	17	   3.2. New Recovery Priority Number __3 (no change) ____
+doc1896.pdf	28	   3.2. New Recovery Priority Number_ 9. (No change)
+doc1897.pdf	16	   3.2. New Recovery Priority Number_ 8C. This number indicates a species under a
+doc1898.pdf	23	   2.3. New Recovery Priority Number_ 6C (no change)
+doc1899.pdf	18	    3.2. New Recovery Priority Number_
+doc1900.pdf	14	        III.B. New Recovery Priority Number 8 This denotes a full species with a_
+doc1902.pdf	11	   3.2. New Recovery Priority Number_
+doc1903.pdf	22	   3.2. New Recovery Priority Number_
+doc1904.pdf	18	    3.2. New Recovery Priority Number_
+doc1908.pdf	49	    3.2 New Recovery Priority Number_
+doc1909.pdf	49	    3.2 New Recovery Priority Number_
+doc1912.pdf	34	     3.2.    New Recovery Priority Number_
+doc1924.pdf	12	   3.2. New Recovery Priority Number_ 6 (no change)
+doc1927.pdf	32	     III.B. New Recovery Priority Number_
+doc1928.pdf	32	     III.B. New Recovery Priority Number_
+doc1929.pdf	32	     III.B. New Recovery Priority Number_
+doc1930.pdf	21	III.B. New Recovery Priority Number_ 2C (no change)
+doc1931.pdf	12	    3.2. New Recovery Priority Number_ 6. This recovery priority number reflects a
+doc1933.pdf	19	III.B. New Recovery Priority Number_ 5C (no change)
+doc1934.pdf	18	    3.2. New Recovery Priority Number _5__
+doc1935.pdf	19	III.B. New Recovery Priority Number_ N/A
+doc1936.pdf	13	    3.2. New Recovery Priority Number_ 6. This recovery priority number reflects a
+doc1938.pdf	16	   3.2. New Recovery Priority Number_
+doc1939.pdf	22	III.B. New Recovery Priority Number_ 3C
+doc1940.pdf	24	       3.2 New Recovery Priority Number_
+doc1954.pdf	21	     III.B. New Recovery Priority Number_
+doc1955.pdf	15	    3.2. New Recovery Priority Number_ 8. This denotes a species with a moderate degree of
+doc1957.pdf	22	    3.2      NEW RECOVERY PRIORITY NUMBER_11
+doc1960.pdf	18	    3.2     New Recovery Priority Number_ 6; the degree of threat is high, the potential for
+doc1978.pdf	8	    3.2     New Recovery Priority Number_
+doc1992.pdf	28	       3.2.    New Recovery Priority Number_
+doc1993.pdf	23	III.B. New Recovery Priority Number_ No change
+doc1994.pdf	13	    3.2. New Recovery Priority Number_ No change
+doc1997.pdf	44	New Recovery Priority Number and Brief Rationale_ No Change
+doc1998.pdf	15	     3.2. New Recovery Priority Number_
+doc1999.pdf	41	New Recovery Priority Number and Brief Rationale_ No Change
+doc2000.pdf	31	   3.2. New Recovery Priority Number__3c__
+doc2001.pdf	8	      3.2 New Recovery Priority Number_ 5C
+doc2003.pdf	12	    3.2     New Recovery Priority Number_3
+doc2003.pdf	12	            priority number. We recommend a new Recovery Priority Number of 3 (rather_
+doc2007.pdf	16	    3.2      New Recovery Priority Number_2
+doc2008.pdf	22	    3.2     New Recovery Priority Number_ The spinedace is currently classified as 2
+doc2009.pdf	18	    3.2     New Recovery Priority Number_
+doc2011.pdf	8	    3.2     New Recovery Priority Number_ 8C
+doc2369.pdf	18	        B.      New Recovery Priority Number __5C____
+doc2371.pdf	15	      B.       New Recovery Priority Number_ 8c
+doc2377.pdf	26	      3.2 New Recovery Priority Number_ No change; recovery priority number
+doc2379.pdf	19	New Recovery Priority Number and Brief Rationale_ No change needed.
+doc2380.pdf	22	        III.B. New Recovery Priority Number __5___
+doc2381.pdf	12	      New Recovery Priority Number and Brief Rationale_ 8 (no change)
+doc2382.pdf	12	New Recovery Priority Number and Brief Rationale_ No change
+doc2383.pdf	16	New Recovery Priority Number and Brief Rationale_ 2C. The recovery priority of 2C is the
+doc2384.pdf	23	     III.B. New Recovery Priority Number_ 8 (no change)
+doc2385.pdf	18	New Recovery Priority Number_ N/A
+doc2386.pdf	13	New Recovery Priority Number and Brief Rationale_ No change
+doc2387.pdf	22	III.B. New Recovery Priority Number_
+doc2388.pdf	12	        III.B. New Recovery Priority Number_8
+doc2390.pdf	13	New Recovery Priority Number and Brief Rationale_ No change in recovery priority number.
+doc2391.pdf	19	III.B. New Recovery Priority Number_ N/A
+doc2392.pdf	24	III.B.      New Recovery Priority Number_ N/A
+doc2393.pdf	14	    3.2. New Recovery Priority Number_
+doc2395.pdf	17	New Recovery Priority Number and Brief Rationale_ The recovery priority number
+doc2396.pdf	26	New Recovery Priority Number and Brief Rationale_ No change.
+doc2397.pdf	17	New Recovery Priority Number ___9c__ (No change)_
+doc2399.pdf	21	    III.B. New Recovery Priority Number __3___
+doc2400.pdf	14	New Recovery Priority Number ___3C__ (No change)_
+doc2405.pdf	6	     3.2. New Recovery Priority Number_ No change; remains as 6.
+doc2407.pdf	14	    3.2    New Recovery Priority Number_ Retain as 8. No change is needed, the recovery
+doc2411.pdf	15	     B.     New Recovery Priority Number_8
+doc2412.pdf	32	    3.2  New Recovery Priority Number_
+doc2413.pdf	14	    B.       New Recovery Priority Number_ No change is required
+doc2414.pdf	36	    3.2   New Recovery Priority Number_
+doc2415.pdf	22	    3.2  New Recovery Priority Number_ 8C.
+doc2416.pdf	13	        B.      New Recovery Priority Number_ 2c
+doc2424.pdf	11	      3.2     New Recovery Priority Number_ N/A
+doc2433.pdf	11	    3.2     New Recovery Priority Number_ N/A
+doc2434.pdf	12	      3.2     New Recovery Priority Number_ N/A
+doc2435.pdf	12	      3.2      New Recovery Priority Number_ N/A
+doc2439.pdf	13	      3.2     New Recovery Priority Number_ N/A
+doc2442.pdf	12	      3.2      New Recovery Priority Number_ N/A
+doc2448.pdf	11	    3.2 New Recovery Priority Number_ N/A
+doc2454.pdf	11	        3.2     New Recovery Priority Number_ N/A
+doc2474.pdf	16	    3.2     New Recovery Priority Number_ N/A
+doc2508.pdf	19	B. New Recovery Priority Number _9c__
+doc2509.pdf	24	      3.2      New Recovery Priority Number_ We recommend that the Recovery Priority
+doc2517.pdf	31	New Recovery Priority Number and Brief Rationale_ No change is recommended. The
+doc2520.pdf	18	III.B. New Recovery Priority Number_
+doc2526.pdf	11	    3.2  New Recovery Priority Number_ N/A
+doc2527.pdf	11	       3.2     New Recovery Priority Number_ N/A
+doc2531.pdf	11	    3.2     New Recovery Priority Number_ N/A
+doc2532.pdf	13	    3.2     New Recovery Priority Number_ N/A
+doc2533.pdf	11	    3.2      New Recovery Priority Number_ N/A
+doc2534.pdf	11	      3.2    New Recovery Priority Number_ N/A
+doc2535.pdf	11	        3.2      New Recovery Priority Number_ N/A
+doc2536.pdf	9	        3.2     New Recovery Priority Number_ N/A
+doc2537.pdf	11	      3.2     New Recovery Priority Number_ N/A
+doc2538.pdf	9	    3.2  New Recovery Priority Number_ N/A
+doc2539.pdf	12	    3.2     New Recovery Priority Number_ N/A
+doc2541.pdf	12	      3.2     New Recovery Priority Number_ N/A
+doc2542.pdf	14	    3.2  New Recovery Priority Number_ N/A
+doc2543.pdf	16	New Recovery Priority Number and Brief Rationale_ No change.
+doc2547.pdf	13	New Recovery Priority Number 6C_
+doc2549.pdf	21	recovery priority number of 8. This new recovery priority number reflects a species under a_
+doc2550.pdf	25	New Recovery Priority Number and Brief Rationale_ No change to the recovery priority
+doc2554.pdf	16	New Recovery Priority Number and Brief Rationale_ 8C. The recovery priority of 8C is the
+doc2556.pdf	22	New Recovery Priority Number and Brief Rationale_ Change to an 8. This number indicates
+doc2557.pdf	26	New Recovery Priority Number and Brief Rationale_ No change is recommended.
+doc2558.pdf	26	New Recovery Priority Number and Brief Rationale_ No change
+doc2559.pdf	13	New Recovery Priority Number_8
+doc2560.pdf	18	New Recovery Priority Number and Brief Rationale_ This plant species continues to face a
+doc2562.pdf	17	New Recovery Priority Number and Brief Rationale_
+doc2563.pdf	17	New Recovery Priority Number and Brief Rationale_
+doc2564.pdf	18	New Recovery Priority Number and Brief Rationale_
+doc2565.pdf	18	New Recovery Priority Number and Brief Rationale_
+doc2566.pdf	27	New Recovery Priority Number and Brief Rationale_9
+doc2567.pdf	16	New Recovery Priority Number and Brief Rationale_
+doc2568.pdf	21	New Recovery Priority Number and Brief Rationale_ No change.
+doc2570.pdf	36	New Recovery Priority Number and Brief Rationale_ 8C
+doc2570.pdf	36	The new recovery priority number indicates that the species faces a moderate degree of threat_
+doc2571.pdf	33	New Recovery Priority Number and Brief Rationale_ We recommend the recovery priority
+doc2576.pdf	15	New Recovery Priority Number and Brief Rationale_ The recovery priority number should
+doc2577.pdf	13	New Recovery Priority Number and Brief Rationale_ 6. This recovery priority number
+doc2579.pdf	15	         B. New Recovery Priority Number_ 7C
+doc2584.pdf	14	      3.2      New Recovery Priority Number_ no change
+doc2585.pdf	16	    3.2       New Recovery Priority Number _NA_____
+doc2589.pdf	16	     B.   New Recovery Priority Number- 2_
+doc2590.pdf	18	        B.       New Recovery Priority Number_ 8C
+doc2592.pdf	21	New Recovery Priority Number and Brief Rationale_ The current number for the arroyo toad
+doc2600.pdf	12	         B.      New Recovery Priority Number _12___
+doc2600.pdf	12	                 We recommend a new recovery priority number of 12, indicating moderate threat_
+doc2611.pdf	13	    3.2     New Recovery Priority Number_ No change
+doc2620.pdf	26	3.2. New Recovery Priority Number_
+doc2625.pdf	16	    3.2  New Recovery Priority Number_ NA. The recovery priority number remains 8.
+doc2626.pdf	16	        3.2      New Recovery Priority Number_ NA (no change, remain 9)
+doc2627.pdf	24	    3.2    New Recovery Priority Number_5
+doc2629.pdf	29	New Recovery Priority Number and Brief Rationale_ We recommend that the recovery
+doc2630.pdf	19	New Recovery Priority Number and Brief Rationale_ No change is recommended at this
+doc2631.pdf	16	New Recovery Priority Number and Brief Rationale_ No Change
+doc2633.pdf	23	New Recovery Priority Number and Brief Rationale_
+doc2634.pdf	23	        3.2     New Recovery Priority Number_ 5 (no change)
+doc3015.pdf	11	3.2   New Recovery Priority Number_ No change
+doc3017.pdf	12	3.2 New Recovery Priority Number_ No change.
+doc3018.pdf	12	3.2   New Recovery Priority Number_ No change
+doc3057.pdf	7	    3.2  New Recovery Priority Number_ NA
+doc3072.pdf	15	    3.2  New Recovery Priority Number_ Change to 14.
+doc3073.pdf	42	    3.2  New Recovery Priority Number_ 9C
+doc3082.pdf	13	3.2   New Recovery Priority Number_ No change; remain at 2.
+doc3083.pdf	18	    3.2   New Recovery Priority Number_ No change is needed
+doc3092.pdf	19	    3.2      New Recovery Priority Number_ Retain as 8, which indicates that the species
+doc3093.pdf	34	    3.2  New Recovery Priority Number_
+doc3119.pdf	14	3.2 New Recovery Priority Number_ No Change
+doc3201.pdf	16	       B.       New Recovery Priority Number ___N/A___
+doc3202.pdf	11	       3.2     New Recovery Priority Number_ No change, remains 8
+doc3206.pdf	13	     B.     New Recovery Priority Number_ No change is needed.
+doc3208.pdf	14	New Recovery Priority Number and Brief Rationale_ 5. This recovery priority number
+doc3209.pdf	45	        III.B. New Recovery Priority Number __N/A___
+doc3210.pdf	18	       New Recovery Priority Number and Brief Rationale_ No change in Recovery Priority
+doc3211.pdf	24	New Recovery Priority Number and Brief Rationale_ 12C
+doc3212.pdf	4	priority number should be changed to 3. Please see the “New Recovery Priority Number and_
+doc3212.pdf	28	New Recovery Priority Number and Brief Rationale_ We recommend that the recovery
+doc3214.pdf	17	New Recovery Priority Number and Brief Rationale_ 6C.
+doc3215.pdf	39	        III.B. New Recovery Priority Number __N/A___
+doc3216.pdf	28	       New Recovery Priority Number _9_
+doc3216.pdf	28	       New Recovery Priority Number _9_
+doc3217.pdf	12	New Recovery Priority Number and Brief Rationale_ No change
+doc3218.pdf	16	New Recovery Priority Number and Brief Rationale_ The recovery number for both of these
+doc3219.pdf	12	New Recovery Priority Number and Brief Rationale_ N/A
+doc3221.pdf	39	New Recovery Priority Number and Brief Rationale_ No change in recovery priority
+doc3223.pdf	37	New Recovery Priority Number and Brief Rationale_
+doc3224.pdf	18	New Recovery Priority Number and Brief Rationale_ N/A
+doc3225.pdf	18	New Recovery Priority Number and Brief Rationale_ Not applicable.
+doc3227.pdf	16	New Recovery Priority Number and Brief Rationale_ No change
+doc3230.pdf	5	    3.2.     New Recovery Priority Number_ 14C
+doc3232.pdf	32	       3.2    New Recovery Priority Number_ No change; remain as 2.
+doc3233.pdf	28	3.2 New Recovery Priority Number_ No change; remain at 3.
+doc3234.pdf	11	    3.2 New Recovery Priority Number_
+doc3241.pdf	37	    3.2  New Recovery Priority Number_ 8C.
+doc3246.pdf	13	      B. New Recovery Priority Number_ 2C (upon name change). After the Service officially
+doc3249.pdf	16	        3.2      New Recovery Priority Number_ 8 (no change)
+doc3250.pdf	11	     B.   New Recovery Priority Number 5_
+doc3258.pdf	17	      B.     New Recovery Priority Number_ 5C
+doc3261.pdf	26	      B. New Recovery Priority Number _N/A__
+doc3269.pdf	21	      B. New Recovery Priority Number _N/A__
+doc3273.pdf	15	    3.2    New Recovery Priority Number_ Not applicable
+doc3276.pdf	31	    3.2     New Recovery Priority Number_ No change recommended
+doc3278.pdf	22	      B. New Recovery Priority Number _N/A__
+doc3279.pdf	12	      B.      New Recovery Priority Number_
+doc3280.pdf	24	    B. New Recovery Priority Number N/A_
+doc3281.pdf	32	New Recovery Priority Number and Brief Rationale_ The current number for the spectacled
+doc3292.pdf	12	       3.2      New Recovery Priority Number_
+doc3293.pdf	14	    3.2     New Recovery Priority Number_
+doc3297.pdf	13	        3.2     New Recovery Priority Number_
+doc3303.pdf	14	      3.2     New Recovery Priority Number_
+doc3308.pdf	17	       3.2     New Recovery Priority Number_
+doc3312.pdf	12	       3.2      New Recovery Priority Number_
+doc3319.pdf	16	         3.2    New Recovery Priority Number_
+doc3334.pdf	21	      3.2      New Recovery Priority Number_
+doc3336.pdf	12	    3.2     New Recovery Priority Number_
+doc3337.pdf	9	    3.2  New Recovery Priority Number_ N/A
+doc3339.pdf	9	        3.2     New Recovery Priority Number_ N/A
+doc3347.pdf	12	       3.2     New Recovery Priority Number_
+doc3348.pdf	14	       3.2     New Recovery Priority Number_
+doc3349.pdf	14	       3.2     New Recovery Priority Number_
+doc3350.pdf	17	      3.2     New Recovery Priority Number_
+doc3352.pdf	9	      3.2     New Recovery Priority Number_2
+doc3353.pdf	14	    3.2     New Recovery Priority Number_
+doc3354.pdf	14	        3.2     New Recovery Priority Number_
+doc3553.pdf	17	New Recovery Priority Number and Brief Rationale_
+doc3555.pdf	15	New Recovery Priority Number and Brief Rationale_ We recommend a change in the
+doc3556.pdf	25	III.B. New Recovery Priority Number __2___
+doc3557.pdf	25	New Recovery Priority Number and Brief Rationale_ 11C.
+doc3558.pdf	15	New Recovery Priority Number and Brief Rationale_ No change.
+doc3559.pdf	29	New Recovery Priority Number and Brief Rationale_ 11C
+doc3560.pdf	18	New Recovery Priority Number and Brief Rationale_
+doc3562.pdf	41	New Recovery Priority Number and Brief Rationale_
+doc3563.pdf	13	New Recovery Priority Number and Brief Rationale_ No change. If the new taxonomic
+doc3564.pdf	27	New Recovery Priority Number and Brief Rationale_
+doc3567.pdf	29	New Recovery Priority Number and Brief Rationale_ No Change
+doc3568.pdf	27	New Recovery Priority Number and Brief Rationale_ No Change
+doc3569.pdf	31	New Recovery Priority Number and Brief Rationale_ 12C. Eryngium aristulatum var.
+doc3571.pdf	36	New Recovery Priority Number and Brief Rationale_ No change.
+doc3573.pdf	29	3.2 New Recovery Priority Number_ No change, remain as 2C.
+doc3578.pdf	21	          3.2       New recovery priority number_ 5C
+doc3588.pdf	4	3.2     New Recovery Priority Number.............................................................................. 120_
+doc3588.pdf	125	3.2 New Recovery Priority Number_ Retain as a priority 3; no change is needed.
+doc3588.pdf	126	3.2 New Recovery Priority Number_ Retain as 3; no change is needed.
+doc3593.pdf	17	       B. New Recovery Priority Number_
+doc3594.pdf	33	3.2     New Recovery Priority Number_8
+doc3600.pdf	17	3.2      New Recovery Priority Number_ No change, remain as 5 for all four species.
+doc3601.pdf	27	3.2      New Recovery Priority Number_ No change; remain as 8.
+doc3602.pdf	31	3.2.    New Recovery Priority Number_ No change - remain as 2C.
+doc3606.pdf	19	New Recovery Priority Number and Brief Rationale_ N/A
+doc3614.pdf	24	New Recovery Priority Number and Brief Rationale_ No change.
+doc3615.pdf	19	New Recovery Priority Number and Brief Rationale_ The recovery priority number for
+doc3616.pdf	47	New Recovery Priority Number and Brief Rationale_ No Change.
+doc3617.pdf	25	New Recovery Priority Number and Brief Rationale_ No Change
+doc3618.pdf	29	New Recovery Priority Number and Brief Rationale_ 11C.
+doc3622.pdf	26	New Recovery Priority Number and Brief Rationale_ 7C
+doc3638.pdf	24	New Recovery Priority Number and Brief Rationale_ No change at this time. The recovery
+doc3641.pdf	21	New Recovery Priority Number and Brief Rationale_ Not applicable.
+doc3643.pdf	13	    3.2 New Recovery Priority Number_5
+doc3646.pdf	16	    3.2 New Recovery Priority Number_ Retain as 8.
+doc3779.pdf	16	   3.2     New Recovery Priority Number_
+doc3780.pdf	23	New Recovery Priority Number and Brief Rationale_ No Change
+doc3782.pdf	32	  3.2     New Recovery Priority Number and Brief Rationale_
+doc3786.pdf	22	    3.2     New Recovery Priority Number_
+doc3789.pdf	15	       3.2     New Recovery Priority Number_
+doc3790.pdf	13	       3.2     New Recovery Priority Number_
+doc3791.pdf	14	        3.2    New Recovery Priority Number_
+doc3792.pdf	13	       3.2     New Recovery Priority Number_
+doc3793.pdf	13	       3.2     New Recovery Priority Number_
+doc3794.pdf	15	       3.2     New Recovery Priority Number_
+doc3795.pdf	19	        3.2     New Recovery Priority Number_
+doc3796.pdf	16	       3.2     New Recovery Priority Number_
+doc3797.pdf	13	       3.2     New Recovery Priority Number_
+doc3798.pdf	15	       3.2      New Recovery Priority Number_ N/A
+doc3805.pdf	21	         3.2    New Recovery Priority Number_ NIA
+doc3809.pdf	24	       3.2     New Recovery Priority Number_
+doc3811.pdf	15	       3.2     New Recovery Priority Number_
+doc3813.pdf	13	      3.2     New Recovery Priority Number_
+doc3814.pdf	12	       3.2     New Recovery Priority Number_
+doc3815.pdf	14	       3.2     New Recovery Priority Number_
+doc3817.pdf	14	        3.2    New Recovery Priority Number_
+doc3820.pdf	15	       3.2     New Recovery Priority Number_
+doc3823.pdf	17	       3.2     New Recovery Priority Number_
+doc3828.pdf	21	3.2      New Recovery Priority Number_ No change; remain at a recovery priority of 8.
+doc3829.pdf	26	3.2     New Recovery Priority Number_ 5C
+doc3830.pdf	8	       B. New Recovery Priority Number_ 5c
+doc3831.pdf	26	    3.2   New Recovery Priority Number_ No change
+doc3840.pdf	14	       3.2     New Recovery Priority Number_
+doc3842_1.pdf	14	       3.2     New Recovery Priority Number_
+doc3842.pdf	14	       3.2     New Recovery Priority Number_
+doc3846.pdf	21	3.2    New Recovery Priority Number_ We recommend changing the recovery priority
+doc3848.pdf	23	      3.2      New Recovery Priority Number_ We do not recommend a change in the
+doc3849.pdf	18	  B. New Recovery Priority Number_ 11c. Based on the information gathered and
+doc3850.pdf	23	        B. New Recovery Priority Number ___5c___
+doc3851.pdf	11	    3.2  New Recovery Priority Number_
+doc3853_1.pdf	11	    3.2  New Recovery Priority Number_
+doc3853.pdf	11	    3.2  New Recovery Priority Number_
+doc3854.pdf	11	    3.2     New Recovery Priority Number_
+doc3858.pdf	11	    3.2     New Recovery Priority Number_
+doc3864.pdf	12	    3.2     New Recovery Priority Number_ N/A
+doc3866_1.pdf	12	        3.2     New Recovery Priority Number_ N/A
+doc3866.pdf	12	        3.2     New Recovery Priority Number_ N/A
+doc3868.pdf	16	        3.2    New Recovery Priority Number_
+doc3869.pdf	13	        3.2    New Recovery Priority Number_
+doc3870.pdf	17	        3.2    New Recovery Priority Number_
+doc3871_1.pdf	14	       3.2     New Recovery Priority Number_
+doc3871.pdf	14	       3.2     New Recovery Priority Number_
+doc3872.pdf	13	        3.2    New Recovery Priority Number_
+doc3873_1.pdf	9	    3.2     New Recovery Priority Number_ N/A
+doc3873.pdf	9	    3.2     New Recovery Priority Number_ N/A
+doc3875.pdf	13	       3.2     New Recovery Priority Number_
+doc3876.pdf	16	       3.2     New Recovery Priority Number_
+doc3877.pdf	15	       3.2     New Recovery Priority Number_
+doc3879.pdf	15	       3.2     New Recovery Priority Number_
+doc3880.pdf	15	    3.2 New Recovery Priority Number_
+doc3881.pdf	17	    3.2     New Recovery Priority Number _NA_____
+doc3884.pdf	24	New Recovery Priority Number and Brief Rationale_12
+doc3885.pdf	21	   3.2     New Recovery Priority Number_
+doc3886.pdf	24	New Recovery Priority Number and Brief Rationale_ No change. There does not appear to
+doc3887.pdf	33	New Recovery Priority Number and Brief Rationale_9
+doc3888.pdf	32	        III.B. New Recovery Priority Number __3C___
+doc3890.pdf	19	New Recovery Priority Number and Brief Rationale_
+doc3891.pdf	21	New Recovery Priority Number and Brief Rationale_ The Service has determined that the
+doc3893.pdf	22	New Recovery Priority Number and Brief Rationale_
+doc3894.pdf	22	New Recovery Priority Number and Brief Rationale_ No change
+doc3896.pdf	17	New Recovery Priority Number and Brief Rationale_
+doc3897_1.pdf	12	New Recovery Priority Number and Brief Rationale_ No change.
+doc3897.pdf	12	New Recovery Priority Number and Brief Rationale_ No change.
+doc3898.pdf	17	New Recovery Priority Number and Brief Rationale_ No change in recovery priority number.
+doc3900.pdf	12	New Recovery Priority Number and Brief Rationale_ We recommend maintaining the current
+doc3901.pdf	12	B.   New Recovery Priority Number_ 5 (see explanation in “Synthesis” above)
+doc3903.pdf	16	   3.2   New Recovery Priority Number_............................................................................... 12
+doc3903.pdf	26	       3.2     New Recovery Priority Number_ N/A
+doc3903.pdf	32	   3.2   New Recovery Priority Number_............................................................................... 10
+doc3903.pdf	45	   3.2   New Recovery Priority Number_............................................................................... 10
+doc3903.pdf	114	   3.2   New Recovery Priority Number_............................................................................... 10
+doc3903.pdf	122	      3.2     New Recovery Priority Number_ N/A
+doc3903.pdf	127	   3.2   New Recovery Priority Number_............................................................................... 11
+doc3903.pdf	136	      3.2     New Recovery Priority Number_ N/A
+doc3903.pdf	142	   3.2   New Recovery Priority Number_............................................................................... 10
+doc3903.pdf	150	    3.2      New Recovery Priority Number_ N/A
+doc3903.pdf	155	   3.2   New Recovery Priority Number_............................................................................... 11
+doc3903.pdf	165	       3.2     New Recovery Priority Number_ N/A
+doc3903.pdf	170	   3.2   New Recovery Priority Number_............................................................................... 10
+doc3903.pdf	178	    3.2     New Recovery Priority Number_ N/A
+doc3903.pdf	183	   3.2   New Recovery Priority Number_............................................................................... 11
+doc3903.pdf	192	       3.2     New Recovery Priority Number_ N/A
+doc3903.pdf	197	   3.2   New Recovery Priority Number_............................................................................... 11
+doc3903.pdf	211	   3.2   New Recovery Priority Number_............................................................................... 11
+doc3903.pdf	220	      3.2     New Recovery Priority Number_ N/A
+doc3903.pdf	225	   3.2   New Recovery Priority Number_............................................................................... 11
+doc3903.pdf	234	      3.2     New Recovery Priority Number_ N/A
+doc3903.pdf	239	   3.2   New Recovery Priority Number_............................................................................... 10
+doc3903.pdf	247	      3.2     New Recovery Priority Number_ N/A
+doc3903.pdf	252	   3.2   New Recovery Priority Number_............................................................................... 11
+doc3903.pdf	261	       3.2     New Recovery Priority Number_ N/A
+doc3903.pdf	266	   3.2   New Recovery Priority Number_............................................................................... 10
+doc3903.pdf	274	      3.2      New Recovery Priority Number_ N/A
+doc3903.pdf	279	   3.2   New Recovery Priority Number_............................................................................... 11
+doc3903.pdf	288	       3.2     New Recovery Priority Number_ N/A
+doc3903.pdf	293	   3.2   New Recovery Priority Number_............................................................................... 11
+doc3903.pdf	318	      3.2     New Recovery Priority Number_ N/A
+doc3903.pdf	323	   3.2   New Recovery Priority Number_................................................................................. 9
+doc3903.pdf	331	      3.2     New Recovery Priority Number_ N/A
+doc3903.pdf	336	   3.2   New Recovery Priority Number_............................................................................... 13
+doc3903.pdf	348	      3.2     New Recovery Priority Number_ N/A
+doc3903.pdf	354	   3.2   New Recovery Priority Number_............................................................................... 11
+doc3903.pdf	363	       3.2     New Recovery Priority Number_ N/A
+doc3903.pdf	368	   3.2   New Recovery Priority Number_............................................................................... 10
+doc3903.pdf	376	      3.2     New Recovery Priority Number_ N/A
+doc3903.pdf	381	   3.2   New Recovery Priority Number_............................................................................... 11
+doc3903.pdf	390	       3.2     New Recovery Priority Number_ N/A
+doc3903.pdf	395	   3.2   New Recovery Priority Number_............................................................................... 10
+doc3903.pdf	417	       3.2     New Recovery Priority Number_ N/A
+doc3903.pdf	422	   3.2   New Recovery Priority Number_............................................................................... 13
+doc3903.pdf	433	      3.2     New Recovery Priority Number_ N/A
+doc3903.pdf	439	   3.2   New Recovery Priority Number_............................................................................... 10
+doc3903.pdf	447	    3.2      New Recovery Priority Number_ N/A
+doc3903.pdf	453	   3.2   New Recovery Priority Number_............................................................................... 11
+doc3903.pdf	462	       3.2     New Recovery Priority Number_ N/A
+doc3903.pdf	467	   3.2   New Recovery Priority Number_............................................................................... 10
+doc3903.pdf	475	    3.2      New Recovery Priority Number_ N/A
+doc3903.pdf	481	   3.2   New Recovery Priority Number_............................................................................... 10
+doc3903.pdf	489	      3.2     New Recovery Priority Number_ N/A
+doc3903.pdf	494	   3.2   New Recovery Priority Number_............................................................................... 11
+doc3945_1.pdf	22	         3.2    New Recovery Priority Number_ No Change
+doc3945.pdf	22	         3.2    New Recovery Priority Number_ No Change
+doc3946_1.pdf	22	        3.2       New Recovery Priority Number_6
+doc3946.pdf	22	        3.2       New Recovery Priority Number_6
+doc3947.pdf	15	New Recovery Priority Number and Brief Rationale_ No change.
+doc3948.pdf	16	New Recovery Priority Number and Brief Rationale_ N/A
+doc3949_1.pdf	22	New Recovery Priority Number and Brief Rationale_ 5. We assign a new recovery priority
+doc3949.pdf	22	New Recovery Priority Number and Brief Rationale_ 5. We assign a new recovery priority
+doc3951.pdf	18	         3.2    New Recovery Priority Number_ N/A
+doc3953.pdf	22	       B.      New Recovery Priority Number_ NA
+doc3955.pdf	18	    B.    New Recovery Priority Number_
+doc3957.pdf	15	3.2      New Recovery Priority Number_ No change needed
+doc3958.pdf	15	3.2      New Recovery Priority Number_ No change needed
+doc3964.pdf	17	New Recovery Priority Number and Brief Rationale_ No change.
+doc3967.pdf	24	    3.2     New Recovery Priority Number_ 3C
+doc3970.pdf	18	   3.2      New Recovery Priority Number_ 8 (no change)
+doc3971.pdf	23	   3.2  New Recovery Priority Number_ No change is needed (Remains a 9C).
+doc3974.pdf	28	New Recovery Priority Number and Brief Rationale_ No Change
+doc3977_1.pdf	32	    3.2      New Recovery Priority Number_ No change is needed.
+doc3977.pdf	32	    3.2      New Recovery Priority Number_ No change is needed.
+doc3979.pdf	25	3.2    New Recovery Priority Numbers_ No change. Echinocereus viridiflorus var. davisii
+doc3985.pdf	21	New Recovery Priority Number and Brief Rationale_ It is recommended that the recovery
+doc3986.pdf	15	    3.2     New Recovery Priority Number_ 8C
+doc3987.pdf	27	        B.      New Recovery Priority Number _NA__
+doc3988.pdf	13	         3.2     New Recovery Priority Number_
+doc3989_1.pdf	12	              B.       New Recovery Priority Number_8
+doc3989.pdf	12	              B.       New Recovery Priority Number_8
+doc3994.pdf	16	New Recovery Priority Number and Brief Rationale_ No change is recommended at this
+doc3996.pdf	13	     B. New Recovery Priority Number_ No change.
+doc3998.pdf	7	New Recovery Priority Number and Brief Rationale_
+doc3999.pdf	8	New Recovery Priority Number and Brief Rationale_
+doc4000.pdf	7	New Recovery Priority Number and Brief Rationale_
+doc4002.pdf	35	New Recovery Priority Number and Brief Rationale_
+doc4004.pdf	31	III.B. New Recovery Priority Number_
+doc4006.pdf	15	New Recovery Priority Number and Brief Rationale_ No change in recovery priority number.
+doc4008.pdf	16	New Recovery Priority Number and Brief Rationale_ No change needed.
+doc4009.pdf	44	New Recovery Priority Number and Brief Rationale_ No change.
+doc4010.pdf	14	New Recovery Priority Number and Brief Rationale_ The Service has determined that the
+doc4011.pdf	25	New Recovery Priority Number and Brief Rationale_ We recommend that the recovery
+doc4012.pdf	28	New Recovery Priority Number and Brief Rationale_ No change.
+doc4013.pdf	6	New Recovery Priority Number and Brief Rationale_ Change from RPN 3 to RPN 2.
+doc4013.pdf	6	from a subspecies to a species, the new recovery priority number will be 2._
+doc4014.pdf	17	New Recovery Priority Number and Brief Rationale_ No change recommended.
+doc4015.pdf	16	New Recovery Priority Number and Brief Rationale_ No change needed.
+doc4016.pdf	19	New Recovery Priority Number and Brief Rationale_
+doc4017.pdf	18	New Recovery Priority Number and Brief Rationale_ No change is recommended.
+doc4018.pdf	12	New Recovery Priority Number and Brief Rationale_ No change in recovery priority number
+doc4028.pdf	18	New Recovery Priority Number and Brief Rationale_ 6c. We assign a new recovery priority
+doc4032.pdf	16	     B.  New Recovery Priority Number_5
+doc4036.pdf	25	3.2      New Recovery Priority Number_5
+doc4040.pdf	21	New Recovery Priority Number and Brief Rationale_ NA. We recommend that the recovery
+doc4044.pdf	9	    3.2     New Recovery Priority Number_
+doc4047.pdf	28	   3.2.       New Recovery Priority Number_
+doc4048.pdf	35	      3.2    New Recovery Priority Number_ 11C
+doc4049.pdf	26	   3.2     New Recovery Priority Number_
+doc4050.pdf	27	    3.2      New Recovery Priority Number __8 __
+doc4053.pdf	21	        3.2    New Recovery Priority Number_
+doc4054.pdf	14	        3.2     New Recovery Priority Number_
+doc4055.pdf	14	        3.2     New Recovery Priority Number_
+doc4056.pdf	14	        3.2     New Recovery Priority Number_
+doc4057.pdf	19	        3.2     New Recovery Priority Number_
+doc4058.pdf	18	        3.2     New Recovery Priority Number_
+doc4059.pdf	14	        3.2     New Recovery Priority Number_
+doc4060.pdf	17	      3.2     New Recovery Priority Number_
+doc4061.pdf	14	        3.2     New Recovery Priority Number_
+doc4062.pdf	22	      3.2     New Recovery Priority Number_
+doc4063.pdf	15	        3.2     New Recovery Priority Number_
+doc4064.pdf	14	        3.2     New Recovery Priority Number_
+doc4065.pdf	14	        3.2     New Recovery Priority Number_
+doc4066.pdf	14	        3.2     New Recovery Priority Number_
+doc4067.pdf	17	        3.2     New Recovery Priority Number_
+doc4068.pdf	11	        3.2     New Recovery Priority Number_
+doc4070.pdf	14	      3.2      New Recovery Priority Number_
+doc4071.pdf	12	        3.2     New Recovery Priority Number_
+doc4072.pdf	14	        3.2     New Recovery Priority Number_
+doc4073.pdf	13	        3.2     New Recovery Priority Number_
+doc4074.pdf	17	        3.2     New Recovery Priority Number_
+doc4075.pdf	13	        3.2     New Recovery Priority Number_
+doc4076.pdf	15	        3.2     New Recovery Priority Number_
+doc4077.pdf	13	        3.2     New Recovery Priority Number_
+doc4078.pdf	13	        3.2     New Recovery Priority Number_
+doc4079.pdf	14	        3.2     New Recovery Priority Number_
+doc4080.pdf	14	      3.2     New Recovery Priority Number_
+doc4081.pdf	19	        3.2     New Recovery Priority Number_
+doc4083.pdf	13	        3.2     New Recovery Priority Number_
+doc4084.pdf	14	        3.2     New Recovery Priority Number_
+doc4085.pdf	15	      3.2     New Recovery Priority Number_
+doc4086.pdf	16	        3.2     New Recovery Priority Number_
+doc4087.pdf	16	        3.2     New Recovery Priority Number_
+doc4088.pdf	12	        3.2     New Recovery Priority Number_
+doc4089.pdf	14	        3.2     New Recovery Priority Number_
+doc4090.pdf	24	      3.2     New Recovery Priority Number_
+doc4091.pdf	21	        3.2    New Recovery Priority Number_
+doc4092.pdf	11	    3.2 New Recovery Priority Number_
+doc4093.pdf	12	    3.2 New Recovery Priority Number_
+doc4094.pdf	14	    3.2    New Recovery Priority Number_
+doc4095.pdf	12	    3.2    New Recovery Priority Number_
+doc4096.pdf	11	    3.2    New Recovery Priority Number_
+doc4097.pdf	13	    3.2    New Recovery Priority Number_
+doc4098.pdf	12	    3.2 New Recovery Priority Number_
+doc4099.pdf	13	    3.2    New Recovery Priority Number_
+doc4100.pdf	13	    3.2    New Recovery Priority Number_
+doc4101.pdf	12	    3.2    New Recovery Priority Number_
+doc4102.pdf	12	    3.2 New Recovery Priority Number_
+doc4103.pdf	13	    3.2    New Recovery Priority Number_
+doc4105.pdf	23	New Recovery Priority Number and Brief Rationale_ No change.
+doc4106.pdf	24	3.2     New Recovery Priority Number_ We propose that the Big Bend gambusia, currently
+doc4106.pdf	24	        with a recovery priority number of 2, be assigned a new Recovery Priority Number of 5._
+doc4107.pdf	36	3.2 New Recovery Priority Number_
+doc4110.pdf	18	      3.2     New Recovery Priority Number_ No change
+doc4128.pdf	43	   3.2.     New Recovery Priority Number_
+doc4130.pdf	15	New Recovery Priority Number_ N/A
+doc4133.pdf	36	     3.2.    New Recovery Priority Number_
+doc4136.pdf	19	     B.  New Recovery Priority Number_
+doc4138.pdf	33	New Recovery Priority Number and Brief Rationale_ No Change
+doc4139.pdf	31	New Recovery Priority Number and Brief Rationale_ Change from RPN 3 to 9C
+doc4145.pdf	17	     B.  New Recovery Priority Number_ _5_.
+doc4146.pdf	21	     B.      New Recovery Priority Number_
+doc4147.pdf	13	     B. New Recovery Priority Number_ No change.
+doc4150.pdf	45	New Recovery Priority Number and Brief Rationale_ No change in recovery priority
+doc4151.pdf	21	New Recovery Priority Number and Brief Rationale_ The current Recovery Priority Number
+doc4152.pdf	15	New Recovery Priority Number_ N/A
+doc4153.pdf	12	    3.2     New Recovery Priority Number_ Not necessary.
+doc4155.pdf	18	New Recovery Priority Number_ N/A
+doc4157.pdf	24	        3.2      New Recovery Priority Number_
+doc4169.pdf	17	New Recovery Priority Number and Brief Rationale_ N/A
+doc4170.pdf	31	New Recovery Priority Number and Brief Rationale_ CHANGE TO 8C
+doc4171.pdf	18	       B. New Recovery Priority Number_ 5c
+doc4173.pdf	17	New Recovery Priority Number and Brief Rationale_
+doc4174.pdf	11	New Recovery Priority Number and Brief Rationale_ No change is recommended at this
+doc4190.pdf	18	New Recovery Priority Number and Brief Rationale_ N/A.
+doc4197.pdf	29	New Recovery Priority Number and Brief Rationale_
+doc4258.pdf	21	    3.2      New Recovery Priority Number_ We propose that the Leon Springs pupfish,
+doc4260.pdf	21	3.2     New Recovery Priority Number (RPN)_ We recommend changing the RPN from 2 to
+doc4261.pdf	24	3.2 New Recovery Priority Number_ No change is needed. The recovery priority number
+doc4262.pdf	8	3.2.    New Recovery Priority Number_ No change, remain as 9C.
+doc4266.pdf	33	New Recovery Priority Number and Brief Rationale_ No Change
+doc4267.pdf	49	   3.2.   New Recovery Priority Number_
+doc4271.pdf	31	     3.2.    New Recovery Priority Number_
+doc4271.pdf	32	Cumulatively, these factors suggest a new recovery priority number of 13 is appropriate_
+doc4276.pdf	11	     B.      New Recovery Priority Number_              N/A
+doc4319.pdf	43	3.2     NEW RECOVERY PRIORITY NUMBER_15
+doc4324.pdf	34	3.2     New Recovery Priority Number_ 5C
+doc4325.pdf	17	3.2     New Recovery Priority Number_5
+doc4329.pdf	17	     B.  New Recovery Priority Number_ N/A – see Synthesis
+doc4330.pdf	16	    3.2      New Recovery Priority Number_
+doc4331.pdf	14	     B.      New Recovery Priority Number_ 17 Based on the above analysis, we believe
+doc4332.pdf	18	    B. New Recovery Priority Number_ N/A. Recovery priority number
+doc4333.pdf	36	New Recovery Priority Number and Brief Rationale_ Change from 8 to 6
+doc4333.pdf	36	recommend a new recovery priority number of 6, indicating a high degree of threat, and a low_
+doc4334.pdf	24	New Recovery Priority Number and Brief Rationale_
+doc4335.pdf	28	New Recovery Priority Number and Brief Rationale_ No change.
+doc4336.pdf	29	    3.2.   New Recovery Priority Number_
+doc4337.pdf	38	    3.2     New Recovery Priority Number_ No change
+doc4338.pdf	4	      3.2 New Recovery Priority Number ................................................................................ 25_
+doc4338.pdf	29	     3.2      New Recovery Priority Number_ NA (no change, remains 9)
+doc4341.pdf	31	New Recovery Priority Number and Brief Rationale_ Change to 9C. This number indicates
+doc4344.pdf	21	         3.2     New Recovery Priority Number_
+doc4351.pdf	25	       B.      New Recovery Priority Number_
+doc4355.pdf	24	         3.2     New Recovery Priority Number_ We do not recommend a change in the
+doc4357.pdf	18	    B.      New Recovery Priority Number_
+doc4358.pdf	28	     B. New Recovery Priority Number_ No change.
+doc4359.pdf	16	         B. New Recovery Priority Number_ _8_ The Service recommends a change on the
+doc4365.pdf	31	New Recovery Priority Number and Brief Rationale_11
+doc4366.pdf	19	     B. New Recovery Priority Number_ No change.
+doc4367.pdf	13	       B.      New Recovery Priority Number _8____
+doc4370.pdf	28	3.2     New Recovery Priority Number_ No change needed. The recovery priority number
+doc4373.pdf	37	        3.2     New Recovery Priority Number_ 8c
+doc4434.pdf	16	3.2     New Recovery Priority Number_ No change needed; remain as 2C.
+doc4435.pdf	43	3.2   New Recovery Priority Number_ No change; remain as 3C.
+doc4436.pdf	35	3.2 New Recovery Priority Number_ No change; remain as 3.
+doc4438.pdf	16	3.2     New Recovery Priority Number_ No change; remain as 2.
+doc4441.pdf	17	     B.   New Recovery Priority Number __8___
+doc4442.pdf	25	3.2     New Recovery Priority Number (RPN)_ No change, remain as 8.
+doc4445.pdf	29	    3.2 New Recovery Priority Number (indicate if no change; see Appendix E)_ 8 (no
+doc4446.pdf	21	New Recovery Priority Number and Brief Rationale_ Not applicable.
+doc4447.pdf	15	    B. New Recovery Priority Number and Brief Rationale_ 8. In the Recovery Plan, we
+doc4448.pdf	18	B. New Recovery Priority Number_ 8c
+doc4449.pdf	11	       B. New Recovery Priority Number_ 9. Based on the information gathered in this 5
+doc4466.pdf	44	New Recovery Priority Number and Brief Rationale_ No change to Recovery Priority Number
+doc4474.pdf	24	       3.2     New Recovery Priority Number_ 7C (no change)
+doc4475.pdf	19	     B.       New Recovery Priority Number_ 14 (indicates a species with high potential for
+doc4479.pdf	21	      B.      New Recovery Priority Number_ 8c (no change)
+doc4480.pdf	23	       B. New Recovery Priority Number_ 2C
+doc4504.pdf	14	     B. New Recovery Priority Number_ 8_. Based on the information gathered for the five
+doc4510.pdf	21	New Recovery Priority Number and Brief Rationale_ No change
+doc4529.pdf	15	     B. New Recovery Priority Number_ No change.
+doc4585.pdf	38	3.2      New Recovery Priority Number_
+doc4593.pdf	11	       B. New Recovery Priority Number_8
+doc4600.pdf	15	3.2 New Recovery Priority Number_ Not applicable
+doc4602.pdf	31	3.2 New Recovery Priority Numbers_
+doc4604.pdf	26	3.2    New Recovery Priority Number_ 2C
+doc4605.pdf	34	New Recovery Priority Number and Brief Rationale_ No Change
+doc4606.pdf	34	New Recovery Priority Number and Brief Rationale_ No Change
+doc4627.pdf	31	New Recovery Priority Number and Brief Rationale_ No change. The recovery priority
+doc4642.pdf	9	     B.       New Recovery Priority Number_
+doc4643.pdf	9	     B.       New Recovery Priority Number_
+doc4644.pdf	9	     B.       New Recovery Priority Number_
+doc4645.pdf	9	     B.       New Recovery Priority Number_
+doc4646.pdf	9	     B.       New Recovery Priority Number_
+doc4652.pdf	15	       B. New Recovery Priority Number_8
+doc4652.pdf	15	           the new recovery priority number for erubia is 8, which indicates the species faces a_
+doc4743.pdf	14	3.2 New Recovery Priority Number _ N/A
+doc4762.pdf	18	   B. New Recovery Priority Number_ 8C
+doc4770.pdf	34	    3.2 New Recovery Priority Number_ Not applicable.
+doc757.pdf	22	         III.B. New Recovery Priority Number         6_
+doc786.pdf	9	     B.      New Recovery Priority Number __NA____
+doc849.pdf	5	    3.2 New Recovery Priority Number_ Recovery Priority is a Service ranking system
