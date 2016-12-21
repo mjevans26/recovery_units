@@ -12,6 +12,25 @@ for(i in badlist$Scientific){
   links <- rbind(links, data.frame(rep(i, length(r_plans)), r_plans))
 }
 
+#get_crit_hab
+ch_table <- data.frame("Date" = character(0), "Citation Page" = character(0), "Title" = character(0), "links" = character(0))
+for(i in unique(TECP_domestic$Species_Page[TECP_domestic$Species_Group!="Flowering Plants"])){
+  rm(tables)
+  url <- i
+  page <- read_html(url)
+  tables <- try(html_nodes(page, "table"))
+  if(length(grep("Critical Habitat", tables)) > 1){
+   tables <- tables[grepl("Critical Habitat", tables)][2]
+   tab <- html_table(tables)[[1]]
+   tab$Status <- NULL
+   a_nodes <- html_nodes(tables, "a")
+   hrefs <- html_attr(a_nodes, "href")
+   links <- paste("https://ecos.fws.gov", hrefs, sep = "")
+   if(length(links)!=nrow(tab)){links <- c(links,rep(NA,(nrow(tab) - length(links))))}
+   ch_table <- merge(ch_table, cbind(tab, links), all = TRUE)
+  }
+}
+
 species2$Date <- recovery_plan_table$Date[match(species2$Scientific, recovery_plan_table$Species)]
 
 #get_recovery_plan_date
@@ -43,7 +62,8 @@ goddamn$scholar <- integer(length = nrow(goddamn))
 
 #scrape Google Scholar (doesn't work because somehow google blocks this?)
 agent <- "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0"
-agent <- "Mozilla/5.0 (Windows NT 6.3; Trident/7.0; .NET4.0E; .NET4.0C; rv:11.0) like Gecko"
+agent <- "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36"
+agent <- "Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.133 Mobile Safari/535.19"
 for(i in sample(which(is.na(goddamn$scholar)), 50, replace = FALSE)){
   text <- NA
   scientific <- str_split(goddamn[i, 1], " ")[[1]]

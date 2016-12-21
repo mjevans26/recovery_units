@@ -1,655 +1,1659 @@
-doc1041.pdf	13	    B.     New Recovery Priority Number __3 (no change)____
-doc1061.pdf	14	New Recovery Priority Number_ No change
-doc1063.pdf	32	    3.2. New Recovery Priority Number_
-doc1064.pdf	34	    3.2. New Recovery Priority Number_
-doc1073.pdf	24	     B.      New Recovery Priority Number __8___
-doc1075.pdf	43	    3.2      New Recovery Priority Number_ No change.
-doc1076.pdf	42	    3.2     New Recovery Priority Number_ No change.
-doc1077.pdf	43	    3.2     New Recovery Priority Number_ No change.
-doc1080.pdf	31	        3.2     New Recovery Priority Number_
-doc1115.pdf	24	     B.       New Recovery Priority Number_ No change
-doc1117.pdf	34	       B.   New Recovery Priority Number_ 8c
-doc1120.pdf	7	                New Recovery Priority Number         N/A-_
-doc1121.pdf	7	                   New Recovery Priority Number        Not applicable-_
-doc1123.pdf	7	                B.     New Recovery Priority Number          N/A_
-doc1127.pdf	7	                     New Recovery Priority Number_
-doc1128.pdf	6	                        New Recovery Priority Number         N/A-_
-doc1129.pdf	7	          B.       New Recovery Priority Number        N/A-_
-doc1133.pdf	7	                 B.     New Recovery Priority Number_
-doc1134.pdf	8	           B.     New Recovery Priority Number             NA_
-doc1136.pdf	7	           B.      New Recovery Priority Number_
-doc1138.pdf	14	         3.2.     New Recovery Priority Number__15__
-doc1139.pdf	14	    3.2   New Recovery Priority Number __13____
-doc1139.pdf	14	          The new recovery priority number should be 13 because the degree of threat is now_
-doc1141.pdf	24	     III.B. New Recovery Priority Number_ 14, indicating a species with high recovery
-doc1142.pdf	17	     III.B. New Recovery Priority Number_ __14__
-doc1143.pdf	24	       III.B. New Recovery Priority Number_ No change to the recovery priority is
-doc1144.pdf	36	    3.2. New Recovery Priority Number_
-doc1145.pdf	12	     B.   New Recovery Priority Number_
-doc1146.pdf	14	        III.B. New Recovery Priority Number __8____
-doc1147.pdf	14	     III.B. New Recovery Priority Number __9_ (to correct an error in the previously_
-doc1148.pdf	26	III.B. New Recovery Priority Number_ N/A
-doc1149.pdf	22	III.B. New Recovery Priority Number_ N/A
-doc1152.pdf	13	     B.      New Recovery Priority Number_ 5 This recovery priority number reflects a
-doc1153.pdf	16	    3.2  New Recovery Priority Number_ Change to 14.
-doc1154.pdf	12	       3.2       New Recovery Priority Number_ No change.
-doc1156.pdf	14	B.      New Recovery Priority Number __8 (no change)___
-doc1157.pdf	16	        B.   New Recovery Priority Number __No change._
-doc1158.pdf	16	     III.B. New Recovery Priority Number_ 3C
-doc1159.pdf	14	     B.      New Recovery Priority Number_ No change.
-doc1160.pdf	38	III.B. New Recovery Priority Number_ N/A
-doc1161.pdf	14	         III.B. New Recovery Priority Number __2C___
-doc1165.pdf	16	    3.2    New Recovery Priority Number __8 (no change)__ (indicate if no change; see_
-doc1171.pdf	34	    3.2 New Recovery Priority Number_
-doc1617.pdf	16	    3.2   New Recovery Priority Number_ No change; it remains 3.
-doc1764.pdf	15	        3.2     New Recovery Priority Number_ No change recommended
-doc1775.pdf	9	    3.2      New Recovery Priority Number_
-doc1777.pdf	11	3.2_
-doc1785.pdf	11	       3.2      New Recovery Priority Number_
-doc1785.pdf	15	   3.2   New Recovery Priority Number                                            9_
-doc1785.pdf	24	3.2_
-doc1786.pdf	11	    3.2      New Recovery Priority Number_
-doc1791.pdf	9	    3.2     New Recovery Priority Number_ N/A
-doc1802.pdf	9	    3.2      New Recovery Priority Number_
-doc1812.pdf	11	       3.2      New Recovery Priority Number_
-doc1825.pdf	9	    3.2      New Recovery Priority Number_
-doc1841.pdf	11	3.2_
-doc1845.pdf	9	    3.2      New Recovery Priority Number_
-doc1852.pdf	9	    3.2      New Recovery Priority Number_
-doc1856.pdf	9	      B._
-doc1862.pdf	17	III.B. New Recovery Priority Number_ N/A
-doc1863.pdf	8	    3.2. New Recovery Priority Number_ 6C (no change)
-doc1864.pdf	21	III.B. New Recovery Priority Number_ No change
-doc1865.pdf	18	  III.B. New Recovery Priority Number_ 14 (no change)
-doc1867.pdf	23	III.B. New Recovery Priority Number_ No change.
-doc1868.pdf	19	III.B. New Recovery Priority Number_
-doc1869.pdf	19	III.B. New Recovery Priority Number_
-doc1870.pdf	9	      III.B. New Recovery Priority Number ___8__ (no change)_
-doc1871.pdf	11	     III.B. New Recovery Priority Number __8___
-doc1872.pdf	16	     III.B. New Recovery Priority Number_ A change to the recovery priority is proposed
-doc1873.pdf	13	    III.B. New Recovery Priority Number __14___
-doc1874.pdf	16	    3.2. New Recovery Priority Number_8
-doc1875.pdf	17	     B. New Recovery Priority Number_ No change.
-doc1876.pdf	11	     III.B.      New Recovery Priority Number ___2__ (No change)_
-doc1877.pdf	17	     B. New Recovery Priority Number_ 2 (no change)
-doc1884.pdf	15	     B.      New Recovery Priority Number_ 2c
-doc1887.pdf	4	New Recovery Priority Number_ No change (remains 8)
-doc1891.pdf	11	   3.2. New Recovery Priority Number_
-doc1892.pdf	11	    3.2. New Recovery Priority Number_
-doc1893.pdf	11	   3.2. New Recovery Priority Number_
-doc1894.pdf	28	     III.B. New Recovery Priority Number_
-doc1895.pdf	17	   3.2. New Recovery Priority Number __3 (no change) ____
-doc1896.pdf	28	   3.2. New Recovery Priority Number_ 9. (No change)
-doc1897.pdf	16	   3.2. New Recovery Priority Number_ 8C. This number indicates a species under a
-doc1898.pdf	23	   2.3. New Recovery Priority Number_ 6C (no change)
-doc1899.pdf	18	    3.2. New Recovery Priority Number_
-doc1900.pdf	14	        III.B. New Recovery Priority Number 8 This denotes a full species with a_
-doc1902.pdf	11	   3.2. New Recovery Priority Number_
-doc1903.pdf	22	   3.2. New Recovery Priority Number_
-doc1904.pdf	18	    3.2. New Recovery Priority Number_
-doc1908.pdf	49	    3.2 New Recovery Priority Number_
-doc1909.pdf	49	    3.2 New Recovery Priority Number_
-doc1912.pdf	34	     3.2.    New Recovery Priority Number_
-doc1924.pdf	12	   3.2. New Recovery Priority Number_ 6 (no change)
-doc1927.pdf	32	     III.B. New Recovery Priority Number_
-doc1928.pdf	32	     III.B. New Recovery Priority Number_
-doc1929.pdf	32	     III.B. New Recovery Priority Number_
-doc1930.pdf	21	III.B. New Recovery Priority Number_ 2C (no change)
-doc1931.pdf	12	    3.2. New Recovery Priority Number_ 6. This recovery priority number reflects a
-doc1933.pdf	19	III.B. New Recovery Priority Number_ 5C (no change)
-doc1934.pdf	18	    3.2. New Recovery Priority Number _5__
-doc1935.pdf	19	III.B. New Recovery Priority Number_ N/A
-doc1936.pdf	13	    3.2. New Recovery Priority Number_ 6. This recovery priority number reflects a
-doc1938.pdf	16	   3.2. New Recovery Priority Number_
-doc1939.pdf	22	III.B. New Recovery Priority Number_ 3C
-doc1940.pdf	24	       3.2 New Recovery Priority Number_
-doc1954.pdf	21	     III.B. New Recovery Priority Number_
-doc1955.pdf	15	    3.2. New Recovery Priority Number_ 8. This denotes a species with a moderate degree of
-doc1957.pdf	22	    3.2      NEW RECOVERY PRIORITY NUMBER_11
-doc1960.pdf	18	    3.2     New Recovery Priority Number_ 6; the degree of threat is high, the potential for
-doc1978.pdf	8	    3.2     New Recovery Priority Number_
-doc1992.pdf	28	       3.2.    New Recovery Priority Number_
-doc1993.pdf	23	III.B. New Recovery Priority Number_ No change
-doc1994.pdf	13	    3.2. New Recovery Priority Number_ No change
-doc1997.pdf	44	New Recovery Priority Number and Brief Rationale_ No Change
-doc1998.pdf	15	     3.2. New Recovery Priority Number_
-doc1999.pdf	41	New Recovery Priority Number and Brief Rationale_ No Change
-doc2000.pdf	31	   3.2. New Recovery Priority Number__3c__
-doc2001.pdf	8	      3.2 New Recovery Priority Number_ 5C
-doc2003.pdf	12	    3.2     New Recovery Priority Number_3
-doc2003.pdf	12	            priority number. We recommend a new Recovery Priority Number of 3 (rather_
-doc2007.pdf	16	    3.2      New Recovery Priority Number_2
-doc2008.pdf	22	    3.2     New Recovery Priority Number_ The spinedace is currently classified as 2
-doc2009.pdf	18	    3.2     New Recovery Priority Number_
-doc2011.pdf	8	    3.2     New Recovery Priority Number_ 8C
-doc2369.pdf	18	        B.      New Recovery Priority Number __5C____
-doc2371.pdf	15	      B.       New Recovery Priority Number_ 8c
-doc2377.pdf	26	      3.2 New Recovery Priority Number_ No change; recovery priority number
-doc2379.pdf	19	New Recovery Priority Number and Brief Rationale_ No change needed.
-doc2380.pdf	22	        III.B. New Recovery Priority Number __5___
-doc2381.pdf	12	      New Recovery Priority Number and Brief Rationale_ 8 (no change)
-doc2382.pdf	12	New Recovery Priority Number and Brief Rationale_ No change
-doc2383.pdf	16	New Recovery Priority Number and Brief Rationale_ 2C. The recovery priority of 2C is the
-doc2384.pdf	23	     III.B. New Recovery Priority Number_ 8 (no change)
-doc2385.pdf	18	New Recovery Priority Number_ N/A
-doc2386.pdf	13	New Recovery Priority Number and Brief Rationale_ No change
-doc2387.pdf	22	III.B. New Recovery Priority Number_
-doc2388.pdf	12	        III.B. New Recovery Priority Number_8
-doc2390.pdf	13	New Recovery Priority Number and Brief Rationale_ No change in recovery priority number.
-doc2391.pdf	19	III.B. New Recovery Priority Number_ N/A
-doc2392.pdf	24	III.B.      New Recovery Priority Number_ N/A
-doc2393.pdf	14	    3.2. New Recovery Priority Number_
-doc2395.pdf	17	New Recovery Priority Number and Brief Rationale_ The recovery priority number
-doc2396.pdf	26	New Recovery Priority Number and Brief Rationale_ No change.
-doc2397.pdf	17	New Recovery Priority Number ___9c__ (No change)_
-doc2399.pdf	21	    III.B. New Recovery Priority Number __3___
-doc2400.pdf	14	New Recovery Priority Number ___3C__ (No change)_
-doc2405.pdf	6	     3.2. New Recovery Priority Number_ No change; remains as 6.
-doc2407.pdf	14	    3.2    New Recovery Priority Number_ Retain as 8. No change is needed, the recovery
-doc2411.pdf	15	     B.     New Recovery Priority Number_8
-doc2412.pdf	32	    3.2  New Recovery Priority Number_
-doc2413.pdf	14	    B.       New Recovery Priority Number_ No change is required
-doc2414.pdf	36	    3.2   New Recovery Priority Number_
-doc2415.pdf	22	    3.2  New Recovery Priority Number_ 8C.
-doc2416.pdf	13	        B.      New Recovery Priority Number_ 2c
-doc2424.pdf	11	      3.2     New Recovery Priority Number_ N/A
-doc2433.pdf	11	    3.2     New Recovery Priority Number_ N/A
-doc2434.pdf	12	      3.2     New Recovery Priority Number_ N/A
-doc2435.pdf	12	      3.2      New Recovery Priority Number_ N/A
-doc2439.pdf	13	      3.2     New Recovery Priority Number_ N/A
-doc2442.pdf	12	      3.2      New Recovery Priority Number_ N/A
-doc2448.pdf	11	    3.2 New Recovery Priority Number_ N/A
-doc2454.pdf	11	        3.2     New Recovery Priority Number_ N/A
-doc2474.pdf	16	    3.2     New Recovery Priority Number_ N/A
-doc2508.pdf	19	B. New Recovery Priority Number _9c__
-doc2509.pdf	24	      3.2      New Recovery Priority Number_ We recommend that the Recovery Priority
-doc2517.pdf	31	New Recovery Priority Number and Brief Rationale_ No change is recommended. The
-doc2520.pdf	18	III.B. New Recovery Priority Number_
-doc2526.pdf	11	    3.2  New Recovery Priority Number_ N/A
-doc2527.pdf	11	       3.2     New Recovery Priority Number_ N/A
-doc2531.pdf	11	    3.2     New Recovery Priority Number_ N/A
-doc2532.pdf	13	    3.2     New Recovery Priority Number_ N/A
-doc2533.pdf	11	    3.2      New Recovery Priority Number_ N/A
-doc2534.pdf	11	      3.2    New Recovery Priority Number_ N/A
-doc2535.pdf	11	        3.2      New Recovery Priority Number_ N/A
-doc2536.pdf	9	        3.2     New Recovery Priority Number_ N/A
-doc2537.pdf	11	      3.2     New Recovery Priority Number_ N/A
-doc2538.pdf	9	    3.2  New Recovery Priority Number_ N/A
-doc2539.pdf	12	    3.2     New Recovery Priority Number_ N/A
-doc2541.pdf	12	      3.2     New Recovery Priority Number_ N/A
-doc2542.pdf	14	    3.2  New Recovery Priority Number_ N/A
-doc2543.pdf	16	New Recovery Priority Number and Brief Rationale_ No change.
-doc2547.pdf	13	New Recovery Priority Number 6C_
-doc2549.pdf	21	recovery priority number of 8. This new recovery priority number reflects a species under a_
-doc2550.pdf	25	New Recovery Priority Number and Brief Rationale_ No change to the recovery priority
-doc2554.pdf	16	New Recovery Priority Number and Brief Rationale_ 8C. The recovery priority of 8C is the
-doc2556.pdf	22	New Recovery Priority Number and Brief Rationale_ Change to an 8. This number indicates
-doc2557.pdf	26	New Recovery Priority Number and Brief Rationale_ No change is recommended.
-doc2558.pdf	26	New Recovery Priority Number and Brief Rationale_ No change
-doc2559.pdf	13	New Recovery Priority Number_8
-doc2560.pdf	18	New Recovery Priority Number and Brief Rationale_ This plant species continues to face a
-doc2562.pdf	17	New Recovery Priority Number and Brief Rationale_
-doc2563.pdf	17	New Recovery Priority Number and Brief Rationale_
-doc2564.pdf	18	New Recovery Priority Number and Brief Rationale_
-doc2565.pdf	18	New Recovery Priority Number and Brief Rationale_
-doc2566.pdf	27	New Recovery Priority Number and Brief Rationale_9
-doc2567.pdf	16	New Recovery Priority Number and Brief Rationale_
-doc2568.pdf	21	New Recovery Priority Number and Brief Rationale_ No change.
-doc2570.pdf	36	New Recovery Priority Number and Brief Rationale_ 8C
-doc2570.pdf	36	The new recovery priority number indicates that the species faces a moderate degree of threat_
-doc2571.pdf	33	New Recovery Priority Number and Brief Rationale_ We recommend the recovery priority
-doc2576.pdf	15	New Recovery Priority Number and Brief Rationale_ The recovery priority number should
-doc2577.pdf	13	New Recovery Priority Number and Brief Rationale_ 6. This recovery priority number
-doc2579.pdf	15	         B. New Recovery Priority Number_ 7C
-doc2584.pdf	14	      3.2      New Recovery Priority Number_ no change
-doc2585.pdf	16	    3.2       New Recovery Priority Number _NA_____
-doc2589.pdf	16	     B.   New Recovery Priority Number- 2_
-doc2590.pdf	18	        B.       New Recovery Priority Number_ 8C
-doc2592.pdf	21	New Recovery Priority Number and Brief Rationale_ The current number for the arroyo toad
-doc2600.pdf	12	         B.      New Recovery Priority Number _12___
-doc2600.pdf	12	                 We recommend a new recovery priority number of 12, indicating moderate threat_
-doc2611.pdf	13	    3.2     New Recovery Priority Number_ No change
-doc2620.pdf	26	3.2. New Recovery Priority Number_
-doc2625.pdf	16	    3.2  New Recovery Priority Number_ NA. The recovery priority number remains 8.
-doc2626.pdf	16	        3.2      New Recovery Priority Number_ NA (no change, remain 9)
-doc2627.pdf	24	    3.2    New Recovery Priority Number_5
-doc2629.pdf	29	New Recovery Priority Number and Brief Rationale_ We recommend that the recovery
-doc2630.pdf	19	New Recovery Priority Number and Brief Rationale_ No change is recommended at this
-doc2631.pdf	16	New Recovery Priority Number and Brief Rationale_ No Change
-doc2633.pdf	23	New Recovery Priority Number and Brief Rationale_
-doc2634.pdf	23	        3.2     New Recovery Priority Number_ 5 (no change)
-doc3015.pdf	11	3.2   New Recovery Priority Number_ No change
-doc3017.pdf	12	3.2 New Recovery Priority Number_ No change.
-doc3018.pdf	12	3.2   New Recovery Priority Number_ No change
-doc3057.pdf	7	    3.2  New Recovery Priority Number_ NA
-doc3072.pdf	15	    3.2  New Recovery Priority Number_ Change to 14.
-doc3073.pdf	42	    3.2  New Recovery Priority Number_ 9C
-doc3082.pdf	13	3.2   New Recovery Priority Number_ No change; remain at 2.
-doc3083.pdf	18	    3.2   New Recovery Priority Number_ No change is needed
-doc3092.pdf	19	    3.2      New Recovery Priority Number_ Retain as 8, which indicates that the species
-doc3093.pdf	34	    3.2  New Recovery Priority Number_
-doc3119.pdf	14	3.2 New Recovery Priority Number_ No Change
-doc3201.pdf	16	       B.       New Recovery Priority Number ___N/A___
-doc3202.pdf	11	       3.2     New Recovery Priority Number_ No change, remains 8
-doc3206.pdf	13	     B.     New Recovery Priority Number_ No change is needed.
-doc3208.pdf	14	New Recovery Priority Number and Brief Rationale_ 5. This recovery priority number
-doc3209.pdf	45	        III.B. New Recovery Priority Number __N/A___
-doc3210.pdf	18	       New Recovery Priority Number and Brief Rationale_ No change in Recovery Priority
-doc3211.pdf	24	New Recovery Priority Number and Brief Rationale_ 12C
-doc3212.pdf	4	priority number should be changed to 3. Please see the “New Recovery Priority Number and_
-doc3212.pdf	28	New Recovery Priority Number and Brief Rationale_ We recommend that the recovery
-doc3214.pdf	17	New Recovery Priority Number and Brief Rationale_ 6C.
-doc3215.pdf	39	        III.B. New Recovery Priority Number __N/A___
-doc3216.pdf	28	       New Recovery Priority Number _9_
-doc3216.pdf	28	       New Recovery Priority Number _9_
-doc3217.pdf	12	New Recovery Priority Number and Brief Rationale_ No change
-doc3218.pdf	16	New Recovery Priority Number and Brief Rationale_ The recovery number for both of these
-doc3219.pdf	12	New Recovery Priority Number and Brief Rationale_ N/A
-doc3221.pdf	39	New Recovery Priority Number and Brief Rationale_ No change in recovery priority
-doc3223.pdf	37	New Recovery Priority Number and Brief Rationale_
-doc3224.pdf	18	New Recovery Priority Number and Brief Rationale_ N/A
-doc3225.pdf	18	New Recovery Priority Number and Brief Rationale_ Not applicable.
-doc3227.pdf	16	New Recovery Priority Number and Brief Rationale_ No change
-doc3230.pdf	5	    3.2.     New Recovery Priority Number_ 14C
-doc3232.pdf	32	       3.2    New Recovery Priority Number_ No change; remain as 2.
-doc3233.pdf	28	3.2 New Recovery Priority Number_ No change; remain at 3.
-doc3234.pdf	11	    3.2 New Recovery Priority Number_
-doc3241.pdf	37	    3.2  New Recovery Priority Number_ 8C.
-doc3246.pdf	13	      B. New Recovery Priority Number_ 2C (upon name change). After the Service officially
-doc3249.pdf	16	        3.2      New Recovery Priority Number_ 8 (no change)
-doc3250.pdf	11	     B.   New Recovery Priority Number 5_
-doc3258.pdf	17	      B.     New Recovery Priority Number_ 5C
-doc3261.pdf	26	      B. New Recovery Priority Number _N/A__
-doc3269.pdf	21	      B. New Recovery Priority Number _N/A__
-doc3273.pdf	15	    3.2    New Recovery Priority Number_ Not applicable
-doc3276.pdf	31	    3.2     New Recovery Priority Number_ No change recommended
-doc3278.pdf	22	      B. New Recovery Priority Number _N/A__
-doc3279.pdf	12	      B.      New Recovery Priority Number_
-doc3280.pdf	24	    B. New Recovery Priority Number N/A_
-doc3281.pdf	32	New Recovery Priority Number and Brief Rationale_ The current number for the spectacled
-doc3292.pdf	12	       3.2      New Recovery Priority Number_
-doc3293.pdf	14	    3.2     New Recovery Priority Number_
-doc3297.pdf	13	        3.2     New Recovery Priority Number_
-doc3303.pdf	14	      3.2     New Recovery Priority Number_
-doc3308.pdf	17	       3.2     New Recovery Priority Number_
-doc3312.pdf	12	       3.2      New Recovery Priority Number_
-doc3319.pdf	16	         3.2    New Recovery Priority Number_
-doc3334.pdf	21	      3.2      New Recovery Priority Number_
-doc3336.pdf	12	    3.2     New Recovery Priority Number_
-doc3337.pdf	9	    3.2  New Recovery Priority Number_ N/A
-doc3339.pdf	9	        3.2     New Recovery Priority Number_ N/A
-doc3347.pdf	12	       3.2     New Recovery Priority Number_
-doc3348.pdf	14	       3.2     New Recovery Priority Number_
-doc3349.pdf	14	       3.2     New Recovery Priority Number_
-doc3350.pdf	17	      3.2     New Recovery Priority Number_
-doc3352.pdf	9	      3.2     New Recovery Priority Number_2
-doc3353.pdf	14	    3.2     New Recovery Priority Number_
-doc3354.pdf	14	        3.2     New Recovery Priority Number_
-doc3553.pdf	17	New Recovery Priority Number and Brief Rationale_
-doc3555.pdf	15	New Recovery Priority Number and Brief Rationale_ We recommend a change in the
-doc3556.pdf	25	III.B. New Recovery Priority Number __2___
-doc3557.pdf	25	New Recovery Priority Number and Brief Rationale_ 11C.
-doc3558.pdf	15	New Recovery Priority Number and Brief Rationale_ No change.
-doc3559.pdf	29	New Recovery Priority Number and Brief Rationale_ 11C
-doc3560.pdf	18	New Recovery Priority Number and Brief Rationale_
-doc3562.pdf	41	New Recovery Priority Number and Brief Rationale_
-doc3563.pdf	13	New Recovery Priority Number and Brief Rationale_ No change. If the new taxonomic
-doc3564.pdf	27	New Recovery Priority Number and Brief Rationale_
-doc3567.pdf	29	New Recovery Priority Number and Brief Rationale_ No Change
-doc3568.pdf	27	New Recovery Priority Number and Brief Rationale_ No Change
-doc3569.pdf	31	New Recovery Priority Number and Brief Rationale_ 12C. Eryngium aristulatum var.
-doc3571.pdf	36	New Recovery Priority Number and Brief Rationale_ No change.
-doc3573.pdf	29	3.2 New Recovery Priority Number_ No change, remain as 2C.
-doc3578.pdf	21	          3.2       New recovery priority number_ 5C
-doc3588.pdf	4	3.2     New Recovery Priority Number.............................................................................. 120_
-doc3588.pdf	125	3.2 New Recovery Priority Number_ Retain as a priority 3; no change is needed.
-doc3588.pdf	126	3.2 New Recovery Priority Number_ Retain as 3; no change is needed.
-doc3593.pdf	17	       B. New Recovery Priority Number_
-doc3594.pdf	33	3.2     New Recovery Priority Number_8
-doc3600.pdf	17	3.2      New Recovery Priority Number_ No change, remain as 5 for all four species.
-doc3601.pdf	27	3.2      New Recovery Priority Number_ No change; remain as 8.
-doc3602.pdf	31	3.2.    New Recovery Priority Number_ No change - remain as 2C.
-doc3606.pdf	19	New Recovery Priority Number and Brief Rationale_ N/A
-doc3614.pdf	24	New Recovery Priority Number and Brief Rationale_ No change.
-doc3615.pdf	19	New Recovery Priority Number and Brief Rationale_ The recovery priority number for
-doc3616.pdf	47	New Recovery Priority Number and Brief Rationale_ No Change.
-doc3617.pdf	25	New Recovery Priority Number and Brief Rationale_ No Change
-doc3618.pdf	29	New Recovery Priority Number and Brief Rationale_ 11C.
-doc3622.pdf	26	New Recovery Priority Number and Brief Rationale_ 7C
-doc3638.pdf	24	New Recovery Priority Number and Brief Rationale_ No change at this time. The recovery
-doc3641.pdf	21	New Recovery Priority Number and Brief Rationale_ Not applicable.
-doc3643.pdf	13	    3.2 New Recovery Priority Number_5
-doc3646.pdf	16	    3.2 New Recovery Priority Number_ Retain as 8.
-doc3779.pdf	16	   3.2     New Recovery Priority Number_
-doc3780.pdf	23	New Recovery Priority Number and Brief Rationale_ No Change
-doc3782.pdf	32	  3.2     New Recovery Priority Number and Brief Rationale_
-doc3786.pdf	22	    3.2     New Recovery Priority Number_
-doc3789.pdf	15	       3.2     New Recovery Priority Number_
-doc3790.pdf	13	       3.2     New Recovery Priority Number_
-doc3791.pdf	14	        3.2    New Recovery Priority Number_
-doc3792.pdf	13	       3.2     New Recovery Priority Number_
-doc3793.pdf	13	       3.2     New Recovery Priority Number_
-doc3794.pdf	15	       3.2     New Recovery Priority Number_
-doc3795.pdf	19	        3.2     New Recovery Priority Number_
-doc3796.pdf	16	       3.2     New Recovery Priority Number_
-doc3797.pdf	13	       3.2     New Recovery Priority Number_
-doc3798.pdf	15	       3.2      New Recovery Priority Number_ N/A
-doc3805.pdf	21	         3.2    New Recovery Priority Number_ NIA
-doc3809.pdf	24	       3.2     New Recovery Priority Number_
-doc3811.pdf	15	       3.2     New Recovery Priority Number_
-doc3813.pdf	13	      3.2     New Recovery Priority Number_
-doc3814.pdf	12	       3.2     New Recovery Priority Number_
-doc3815.pdf	14	       3.2     New Recovery Priority Number_
-doc3817.pdf	14	        3.2    New Recovery Priority Number_
-doc3820.pdf	15	       3.2     New Recovery Priority Number_
-doc3823.pdf	17	       3.2     New Recovery Priority Number_
-doc3828.pdf	21	3.2      New Recovery Priority Number_ No change; remain at a recovery priority of 8.
-doc3829.pdf	26	3.2     New Recovery Priority Number_ 5C
-doc3830.pdf	8	       B. New Recovery Priority Number_ 5c
-doc3831.pdf	26	    3.2   New Recovery Priority Number_ No change
-doc3840.pdf	14	       3.2     New Recovery Priority Number_
-doc3842_1.pdf	14	       3.2     New Recovery Priority Number_
-doc3842.pdf	14	       3.2     New Recovery Priority Number_
-doc3846.pdf	21	3.2    New Recovery Priority Number_ We recommend changing the recovery priority
-doc3848.pdf	23	      3.2      New Recovery Priority Number_ We do not recommend a change in the
-doc3849.pdf	18	  B. New Recovery Priority Number_ 11c. Based on the information gathered and
-doc3850.pdf	23	        B. New Recovery Priority Number ___5c___
-doc3851.pdf	11	    3.2  New Recovery Priority Number_
-doc3853_1.pdf	11	    3.2  New Recovery Priority Number_
-doc3853.pdf	11	    3.2  New Recovery Priority Number_
-doc3854.pdf	11	    3.2     New Recovery Priority Number_
-doc3858.pdf	11	    3.2     New Recovery Priority Number_
-doc3864.pdf	12	    3.2     New Recovery Priority Number_ N/A
-doc3866_1.pdf	12	        3.2     New Recovery Priority Number_ N/A
-doc3866.pdf	12	        3.2     New Recovery Priority Number_ N/A
-doc3868.pdf	16	        3.2    New Recovery Priority Number_
-doc3869.pdf	13	        3.2    New Recovery Priority Number_
-doc3870.pdf	17	        3.2    New Recovery Priority Number_
-doc3871_1.pdf	14	       3.2     New Recovery Priority Number_
-doc3871.pdf	14	       3.2     New Recovery Priority Number_
-doc3872.pdf	13	        3.2    New Recovery Priority Number_
-doc3873_1.pdf	9	    3.2     New Recovery Priority Number_ N/A
-doc3873.pdf	9	    3.2     New Recovery Priority Number_ N/A
-doc3875.pdf	13	       3.2     New Recovery Priority Number_
-doc3876.pdf	16	       3.2     New Recovery Priority Number_
-doc3877.pdf	15	       3.2     New Recovery Priority Number_
-doc3879.pdf	15	       3.2     New Recovery Priority Number_
-doc3880.pdf	15	    3.2 New Recovery Priority Number_
-doc3881.pdf	17	    3.2     New Recovery Priority Number _NA_____
-doc3884.pdf	24	New Recovery Priority Number and Brief Rationale_12
-doc3885.pdf	21	   3.2     New Recovery Priority Number_
-doc3886.pdf	24	New Recovery Priority Number and Brief Rationale_ No change. There does not appear to
-doc3887.pdf	33	New Recovery Priority Number and Brief Rationale_9
-doc3888.pdf	32	        III.B. New Recovery Priority Number __3C___
-doc3890.pdf	19	New Recovery Priority Number and Brief Rationale_
-doc3891.pdf	21	New Recovery Priority Number and Brief Rationale_ The Service has determined that the
-doc3893.pdf	22	New Recovery Priority Number and Brief Rationale_
-doc3894.pdf	22	New Recovery Priority Number and Brief Rationale_ No change
-doc3896.pdf	17	New Recovery Priority Number and Brief Rationale_
-doc3897_1.pdf	12	New Recovery Priority Number and Brief Rationale_ No change.
-doc3897.pdf	12	New Recovery Priority Number and Brief Rationale_ No change.
-doc3898.pdf	17	New Recovery Priority Number and Brief Rationale_ No change in recovery priority number.
-doc3900.pdf	12	New Recovery Priority Number and Brief Rationale_ We recommend maintaining the current
-doc3901.pdf	12	B.   New Recovery Priority Number_ 5 (see explanation in “Synthesis” above)
-doc3903.pdf	16	   3.2   New Recovery Priority Number_............................................................................... 12
-doc3903.pdf	26	       3.2     New Recovery Priority Number_ N/A
-doc3903.pdf	32	   3.2   New Recovery Priority Number_............................................................................... 10
-doc3903.pdf	45	   3.2   New Recovery Priority Number_............................................................................... 10
-doc3903.pdf	114	   3.2   New Recovery Priority Number_............................................................................... 10
-doc3903.pdf	122	      3.2     New Recovery Priority Number_ N/A
-doc3903.pdf	127	   3.2   New Recovery Priority Number_............................................................................... 11
-doc3903.pdf	136	      3.2     New Recovery Priority Number_ N/A
-doc3903.pdf	142	   3.2   New Recovery Priority Number_............................................................................... 10
-doc3903.pdf	150	    3.2      New Recovery Priority Number_ N/A
-doc3903.pdf	155	   3.2   New Recovery Priority Number_............................................................................... 11
-doc3903.pdf	165	       3.2     New Recovery Priority Number_ N/A
-doc3903.pdf	170	   3.2   New Recovery Priority Number_............................................................................... 10
-doc3903.pdf	178	    3.2     New Recovery Priority Number_ N/A
-doc3903.pdf	183	   3.2   New Recovery Priority Number_............................................................................... 11
-doc3903.pdf	192	       3.2     New Recovery Priority Number_ N/A
-doc3903.pdf	197	   3.2   New Recovery Priority Number_............................................................................... 11
-doc3903.pdf	211	   3.2   New Recovery Priority Number_............................................................................... 11
-doc3903.pdf	220	      3.2     New Recovery Priority Number_ N/A
-doc3903.pdf	225	   3.2   New Recovery Priority Number_............................................................................... 11
-doc3903.pdf	234	      3.2     New Recovery Priority Number_ N/A
-doc3903.pdf	239	   3.2   New Recovery Priority Number_............................................................................... 10
-doc3903.pdf	247	      3.2     New Recovery Priority Number_ N/A
-doc3903.pdf	252	   3.2   New Recovery Priority Number_............................................................................... 11
-doc3903.pdf	261	       3.2     New Recovery Priority Number_ N/A
-doc3903.pdf	266	   3.2   New Recovery Priority Number_............................................................................... 10
-doc3903.pdf	274	      3.2      New Recovery Priority Number_ N/A
-doc3903.pdf	279	   3.2   New Recovery Priority Number_............................................................................... 11
-doc3903.pdf	288	       3.2     New Recovery Priority Number_ N/A
-doc3903.pdf	293	   3.2   New Recovery Priority Number_............................................................................... 11
-doc3903.pdf	318	      3.2     New Recovery Priority Number_ N/A
-doc3903.pdf	323	   3.2   New Recovery Priority Number_................................................................................. 9
-doc3903.pdf	331	      3.2     New Recovery Priority Number_ N/A
-doc3903.pdf	336	   3.2   New Recovery Priority Number_............................................................................... 13
-doc3903.pdf	348	      3.2     New Recovery Priority Number_ N/A
-doc3903.pdf	354	   3.2   New Recovery Priority Number_............................................................................... 11
-doc3903.pdf	363	       3.2     New Recovery Priority Number_ N/A
-doc3903.pdf	368	   3.2   New Recovery Priority Number_............................................................................... 10
-doc3903.pdf	376	      3.2     New Recovery Priority Number_ N/A
-doc3903.pdf	381	   3.2   New Recovery Priority Number_............................................................................... 11
-doc3903.pdf	390	       3.2     New Recovery Priority Number_ N/A
-doc3903.pdf	395	   3.2   New Recovery Priority Number_............................................................................... 10
-doc3903.pdf	417	       3.2     New Recovery Priority Number_ N/A
-doc3903.pdf	422	   3.2   New Recovery Priority Number_............................................................................... 13
-doc3903.pdf	433	      3.2     New Recovery Priority Number_ N/A
-doc3903.pdf	439	   3.2   New Recovery Priority Number_............................................................................... 10
-doc3903.pdf	447	    3.2      New Recovery Priority Number_ N/A
-doc3903.pdf	453	   3.2   New Recovery Priority Number_............................................................................... 11
-doc3903.pdf	462	       3.2     New Recovery Priority Number_ N/A
-doc3903.pdf	467	   3.2   New Recovery Priority Number_............................................................................... 10
-doc3903.pdf	475	    3.2      New Recovery Priority Number_ N/A
-doc3903.pdf	481	   3.2   New Recovery Priority Number_............................................................................... 10
-doc3903.pdf	489	      3.2     New Recovery Priority Number_ N/A
-doc3903.pdf	494	   3.2   New Recovery Priority Number_............................................................................... 11
-doc3945_1.pdf	22	         3.2    New Recovery Priority Number_ No Change
-doc3945.pdf	22	         3.2    New Recovery Priority Number_ No Change
-doc3946_1.pdf	22	        3.2       New Recovery Priority Number_6
-doc3946.pdf	22	        3.2       New Recovery Priority Number_6
-doc3947.pdf	15	New Recovery Priority Number and Brief Rationale_ No change.
-doc3948.pdf	16	New Recovery Priority Number and Brief Rationale_ N/A
-doc3949_1.pdf	22	New Recovery Priority Number and Brief Rationale_ 5. We assign a new recovery priority
-doc3949.pdf	22	New Recovery Priority Number and Brief Rationale_ 5. We assign a new recovery priority
-doc3951.pdf	18	         3.2    New Recovery Priority Number_ N/A
-doc3953.pdf	22	       B.      New Recovery Priority Number_ NA
-doc3955.pdf	18	    B.    New Recovery Priority Number_
-doc3957.pdf	15	3.2      New Recovery Priority Number_ No change needed
-doc3958.pdf	15	3.2      New Recovery Priority Number_ No change needed
-doc3964.pdf	17	New Recovery Priority Number and Brief Rationale_ No change.
-doc3967.pdf	24	    3.2     New Recovery Priority Number_ 3C
-doc3970.pdf	18	   3.2      New Recovery Priority Number_ 8 (no change)
-doc3971.pdf	23	   3.2  New Recovery Priority Number_ No change is needed (Remains a 9C).
-doc3974.pdf	28	New Recovery Priority Number and Brief Rationale_ No Change
-doc3977_1.pdf	32	    3.2      New Recovery Priority Number_ No change is needed.
-doc3977.pdf	32	    3.2      New Recovery Priority Number_ No change is needed.
-doc3979.pdf	25	3.2    New Recovery Priority Numbers_ No change. Echinocereus viridiflorus var. davisii
-doc3985.pdf	21	New Recovery Priority Number and Brief Rationale_ It is recommended that the recovery
-doc3986.pdf	15	    3.2     New Recovery Priority Number_ 8C
-doc3987.pdf	27	        B.      New Recovery Priority Number _NA__
-doc3988.pdf	13	         3.2     New Recovery Priority Number_
-doc3989_1.pdf	12	              B.       New Recovery Priority Number_8
-doc3989.pdf	12	              B.       New Recovery Priority Number_8
-doc3994.pdf	16	New Recovery Priority Number and Brief Rationale_ No change is recommended at this
-doc3996.pdf	13	     B. New Recovery Priority Number_ No change.
-doc3998.pdf	7	New Recovery Priority Number and Brief Rationale_
-doc3999.pdf	8	New Recovery Priority Number and Brief Rationale_
-doc4000.pdf	7	New Recovery Priority Number and Brief Rationale_
-doc4002.pdf	35	New Recovery Priority Number and Brief Rationale_
-doc4004.pdf	31	III.B. New Recovery Priority Number_
-doc4006.pdf	15	New Recovery Priority Number and Brief Rationale_ No change in recovery priority number.
-doc4008.pdf	16	New Recovery Priority Number and Brief Rationale_ No change needed.
-doc4009.pdf	44	New Recovery Priority Number and Brief Rationale_ No change.
-doc4010.pdf	14	New Recovery Priority Number and Brief Rationale_ The Service has determined that the
-doc4011.pdf	25	New Recovery Priority Number and Brief Rationale_ We recommend that the recovery
-doc4012.pdf	28	New Recovery Priority Number and Brief Rationale_ No change.
-doc4013.pdf	6	New Recovery Priority Number and Brief Rationale_ Change from RPN 3 to RPN 2.
-doc4013.pdf	6	from a subspecies to a species, the new recovery priority number will be 2._
-doc4014.pdf	17	New Recovery Priority Number and Brief Rationale_ No change recommended.
-doc4015.pdf	16	New Recovery Priority Number and Brief Rationale_ No change needed.
-doc4016.pdf	19	New Recovery Priority Number and Brief Rationale_
-doc4017.pdf	18	New Recovery Priority Number and Brief Rationale_ No change is recommended.
-doc4018.pdf	12	New Recovery Priority Number and Brief Rationale_ No change in recovery priority number
-doc4028.pdf	18	New Recovery Priority Number and Brief Rationale_ 6c. We assign a new recovery priority
-doc4032.pdf	16	     B.  New Recovery Priority Number_5
-doc4036.pdf	25	3.2      New Recovery Priority Number_5
-doc4040.pdf	21	New Recovery Priority Number and Brief Rationale_ NA. We recommend that the recovery
-doc4044.pdf	9	    3.2     New Recovery Priority Number_
-doc4047.pdf	28	   3.2.       New Recovery Priority Number_
-doc4048.pdf	35	      3.2    New Recovery Priority Number_ 11C
-doc4049.pdf	26	   3.2     New Recovery Priority Number_
-doc4050.pdf	27	    3.2      New Recovery Priority Number __8 __
-doc4053.pdf	21	        3.2    New Recovery Priority Number_
-doc4054.pdf	14	        3.2     New Recovery Priority Number_
-doc4055.pdf	14	        3.2     New Recovery Priority Number_
-doc4056.pdf	14	        3.2     New Recovery Priority Number_
-doc4057.pdf	19	        3.2     New Recovery Priority Number_
-doc4058.pdf	18	        3.2     New Recovery Priority Number_
-doc4059.pdf	14	        3.2     New Recovery Priority Number_
-doc4060.pdf	17	      3.2     New Recovery Priority Number_
-doc4061.pdf	14	        3.2     New Recovery Priority Number_
-doc4062.pdf	22	      3.2     New Recovery Priority Number_
-doc4063.pdf	15	        3.2     New Recovery Priority Number_
-doc4064.pdf	14	        3.2     New Recovery Priority Number_
-doc4065.pdf	14	        3.2     New Recovery Priority Number_
-doc4066.pdf	14	        3.2     New Recovery Priority Number_
-doc4067.pdf	17	        3.2     New Recovery Priority Number_
-doc4068.pdf	11	        3.2     New Recovery Priority Number_
-doc4070.pdf	14	      3.2      New Recovery Priority Number_
-doc4071.pdf	12	        3.2     New Recovery Priority Number_
-doc4072.pdf	14	        3.2     New Recovery Priority Number_
-doc4073.pdf	13	        3.2     New Recovery Priority Number_
-doc4074.pdf	17	        3.2     New Recovery Priority Number_
-doc4075.pdf	13	        3.2     New Recovery Priority Number_
-doc4076.pdf	15	        3.2     New Recovery Priority Number_
-doc4077.pdf	13	        3.2     New Recovery Priority Number_
-doc4078.pdf	13	        3.2     New Recovery Priority Number_
-doc4079.pdf	14	        3.2     New Recovery Priority Number_
-doc4080.pdf	14	      3.2     New Recovery Priority Number_
-doc4081.pdf	19	        3.2     New Recovery Priority Number_
-doc4083.pdf	13	        3.2     New Recovery Priority Number_
-doc4084.pdf	14	        3.2     New Recovery Priority Number_
-doc4085.pdf	15	      3.2     New Recovery Priority Number_
-doc4086.pdf	16	        3.2     New Recovery Priority Number_
-doc4087.pdf	16	        3.2     New Recovery Priority Number_
-doc4088.pdf	12	        3.2     New Recovery Priority Number_
-doc4089.pdf	14	        3.2     New Recovery Priority Number_
-doc4090.pdf	24	      3.2     New Recovery Priority Number_
-doc4091.pdf	21	        3.2    New Recovery Priority Number_
-doc4092.pdf	11	    3.2 New Recovery Priority Number_
-doc4093.pdf	12	    3.2 New Recovery Priority Number_
-doc4094.pdf	14	    3.2    New Recovery Priority Number_
-doc4095.pdf	12	    3.2    New Recovery Priority Number_
-doc4096.pdf	11	    3.2    New Recovery Priority Number_
-doc4097.pdf	13	    3.2    New Recovery Priority Number_
-doc4098.pdf	12	    3.2 New Recovery Priority Number_
-doc4099.pdf	13	    3.2    New Recovery Priority Number_
-doc4100.pdf	13	    3.2    New Recovery Priority Number_
-doc4101.pdf	12	    3.2    New Recovery Priority Number_
-doc4102.pdf	12	    3.2 New Recovery Priority Number_
-doc4103.pdf	13	    3.2    New Recovery Priority Number_
-doc4105.pdf	23	New Recovery Priority Number and Brief Rationale_ No change.
-doc4106.pdf	24	3.2     New Recovery Priority Number_ We propose that the Big Bend gambusia, currently
-doc4106.pdf	24	        with a recovery priority number of 2, be assigned a new Recovery Priority Number of 5._
-doc4107.pdf	36	3.2 New Recovery Priority Number_
-doc4110.pdf	18	      3.2     New Recovery Priority Number_ No change
-doc4128.pdf	43	   3.2.     New Recovery Priority Number_
-doc4130.pdf	15	New Recovery Priority Number_ N/A
-doc4133.pdf	36	     3.2.    New Recovery Priority Number_
-doc4136.pdf	19	     B.  New Recovery Priority Number_
-doc4138.pdf	33	New Recovery Priority Number and Brief Rationale_ No Change
-doc4139.pdf	31	New Recovery Priority Number and Brief Rationale_ Change from RPN 3 to 9C
-doc4145.pdf	17	     B.  New Recovery Priority Number_ _5_.
-doc4146.pdf	21	     B.      New Recovery Priority Number_
-doc4147.pdf	13	     B. New Recovery Priority Number_ No change.
-doc4150.pdf	45	New Recovery Priority Number and Brief Rationale_ No change in recovery priority
-doc4151.pdf	21	New Recovery Priority Number and Brief Rationale_ The current Recovery Priority Number
-doc4152.pdf	15	New Recovery Priority Number_ N/A
-doc4153.pdf	12	    3.2     New Recovery Priority Number_ Not necessary.
-doc4155.pdf	18	New Recovery Priority Number_ N/A
-doc4157.pdf	24	        3.2      New Recovery Priority Number_
-doc4169.pdf	17	New Recovery Priority Number and Brief Rationale_ N/A
-doc4170.pdf	31	New Recovery Priority Number and Brief Rationale_ CHANGE TO 8C
-doc4171.pdf	18	       B. New Recovery Priority Number_ 5c
-doc4173.pdf	17	New Recovery Priority Number and Brief Rationale_
-doc4174.pdf	11	New Recovery Priority Number and Brief Rationale_ No change is recommended at this
-doc4190.pdf	18	New Recovery Priority Number and Brief Rationale_ N/A.
-doc4197.pdf	29	New Recovery Priority Number and Brief Rationale_
-doc4258.pdf	21	    3.2      New Recovery Priority Number_ We propose that the Leon Springs pupfish,
-doc4260.pdf	21	3.2     New Recovery Priority Number (RPN)_ We recommend changing the RPN from 2 to
-doc4261.pdf	24	3.2 New Recovery Priority Number_ No change is needed. The recovery priority number
-doc4262.pdf	8	3.2.    New Recovery Priority Number_ No change, remain as 9C.
-doc4266.pdf	33	New Recovery Priority Number and Brief Rationale_ No Change
-doc4267.pdf	49	   3.2.   New Recovery Priority Number_
-doc4271.pdf	31	     3.2.    New Recovery Priority Number_
-doc4271.pdf	32	Cumulatively, these factors suggest a new recovery priority number of 13 is appropriate_
-doc4276.pdf	11	     B.      New Recovery Priority Number_              N/A
-doc4319.pdf	43	3.2     NEW RECOVERY PRIORITY NUMBER_15
-doc4324.pdf	34	3.2     New Recovery Priority Number_ 5C
-doc4325.pdf	17	3.2     New Recovery Priority Number_5
-doc4329.pdf	17	     B.  New Recovery Priority Number_ N/A – see Synthesis
-doc4330.pdf	16	    3.2      New Recovery Priority Number_
-doc4331.pdf	14	     B.      New Recovery Priority Number_ 17 Based on the above analysis, we believe
-doc4332.pdf	18	    B. New Recovery Priority Number_ N/A. Recovery priority number
-doc4333.pdf	36	New Recovery Priority Number and Brief Rationale_ Change from 8 to 6
-doc4333.pdf	36	recommend a new recovery priority number of 6, indicating a high degree of threat, and a low_
-doc4334.pdf	24	New Recovery Priority Number and Brief Rationale_
-doc4335.pdf	28	New Recovery Priority Number and Brief Rationale_ No change.
-doc4336.pdf	29	    3.2.   New Recovery Priority Number_
-doc4337.pdf	38	    3.2     New Recovery Priority Number_ No change
-doc4338.pdf	4	      3.2 New Recovery Priority Number ................................................................................ 25_
-doc4338.pdf	29	     3.2      New Recovery Priority Number_ NA (no change, remains 9)
-doc4341.pdf	31	New Recovery Priority Number and Brief Rationale_ Change to 9C. This number indicates
-doc4344.pdf	21	         3.2     New Recovery Priority Number_
-doc4351.pdf	25	       B.      New Recovery Priority Number_
-doc4355.pdf	24	         3.2     New Recovery Priority Number_ We do not recommend a change in the
-doc4357.pdf	18	    B.      New Recovery Priority Number_
-doc4358.pdf	28	     B. New Recovery Priority Number_ No change.
-doc4359.pdf	16	         B. New Recovery Priority Number_ _8_ The Service recommends a change on the
-doc4365.pdf	31	New Recovery Priority Number and Brief Rationale_11
-doc4366.pdf	19	     B. New Recovery Priority Number_ No change.
-doc4367.pdf	13	       B.      New Recovery Priority Number _8____
-doc4370.pdf	28	3.2     New Recovery Priority Number_ No change needed. The recovery priority number
-doc4373.pdf	37	        3.2     New Recovery Priority Number_ 8c
-doc4434.pdf	16	3.2     New Recovery Priority Number_ No change needed; remain as 2C.
-doc4435.pdf	43	3.2   New Recovery Priority Number_ No change; remain as 3C.
-doc4436.pdf	35	3.2 New Recovery Priority Number_ No change; remain as 3.
-doc4438.pdf	16	3.2     New Recovery Priority Number_ No change; remain as 2.
-doc4441.pdf	17	     B.   New Recovery Priority Number __8___
-doc4442.pdf	25	3.2     New Recovery Priority Number (RPN)_ No change, remain as 8.
-doc4445.pdf	29	    3.2 New Recovery Priority Number (indicate if no change; see Appendix E)_ 8 (no
-doc4446.pdf	21	New Recovery Priority Number and Brief Rationale_ Not applicable.
-doc4447.pdf	15	    B. New Recovery Priority Number and Brief Rationale_ 8. In the Recovery Plan, we
-doc4448.pdf	18	B. New Recovery Priority Number_ 8c
-doc4449.pdf	11	       B. New Recovery Priority Number_ 9. Based on the information gathered in this 5
-doc4466.pdf	44	New Recovery Priority Number and Brief Rationale_ No change to Recovery Priority Number
-doc4474.pdf	24	       3.2     New Recovery Priority Number_ 7C (no change)
-doc4475.pdf	19	     B.       New Recovery Priority Number_ 14 (indicates a species with high potential for
-doc4479.pdf	21	      B.      New Recovery Priority Number_ 8c (no change)
-doc4480.pdf	23	       B. New Recovery Priority Number_ 2C
-doc4504.pdf	14	     B. New Recovery Priority Number_ 8_. Based on the information gathered for the five
-doc4510.pdf	21	New Recovery Priority Number and Brief Rationale_ No change
-doc4529.pdf	15	     B. New Recovery Priority Number_ No change.
-doc4585.pdf	38	3.2      New Recovery Priority Number_
-doc4593.pdf	11	       B. New Recovery Priority Number_8
-doc4600.pdf	15	3.2 New Recovery Priority Number_ Not applicable
-doc4602.pdf	31	3.2 New Recovery Priority Numbers_
-doc4604.pdf	26	3.2    New Recovery Priority Number_ 2C
-doc4605.pdf	34	New Recovery Priority Number and Brief Rationale_ No Change
-doc4606.pdf	34	New Recovery Priority Number and Brief Rationale_ No Change
-doc4627.pdf	31	New Recovery Priority Number and Brief Rationale_ No change. The recovery priority
-doc4642.pdf	9	     B.       New Recovery Priority Number_
-doc4643.pdf	9	     B.       New Recovery Priority Number_
-doc4644.pdf	9	     B.       New Recovery Priority Number_
-doc4645.pdf	9	     B.       New Recovery Priority Number_
-doc4646.pdf	9	     B.       New Recovery Priority Number_
-doc4652.pdf	15	       B. New Recovery Priority Number_8
-doc4652.pdf	15	           the new recovery priority number for erubia is 8, which indicates the species faces a_
-doc4743.pdf	14	3.2 New Recovery Priority Number _ N/A
-doc4762.pdf	18	   B. New Recovery Priority Number_ 8C
-doc4770.pdf	34	    3.2 New Recovery Priority Number_ Not applicable.
-doc757.pdf	22	         III.B. New Recovery Priority Number         6_
-doc786.pdf	9	     B.      New Recovery Priority Number __NA____
-doc849.pdf	5	    3.2 New Recovery Priority Number_ Recovery Priority is a Service ranking system
+baiji_5yearreview.txt-231-               _X __ No change is needed
+baiji_5yearreview.txt:232:       3.2     New Recovery Priority Number: N/A
+baiji_5yearreview.txt-233-       3.3     Listing and Reclassification Priority Number, N/A
+caribbeanmonkseal_5year.txt-482-                ____ No change is needed
+caribbeanmonkseal_5year.txt:483:3.2     New Recovery Priority Number:
+caribbeanmonkseal_5year.txt-484-        No change is needed until delisting actually takes place.
+doc1041.txt-525-           Summary:
+doc1041.txt:526:    B.     New Recovery Priority Number __3 (no change)___
+doc1041.txt-527-^L                                                                                    14
+doc1046.txt-322-             X No change is needed
+doc1046.txt:323:    3.2     New Recovery Priority Number
+doc1046.txt-324-            No change is recommended. According to the recovery priority table, both A.
+doc1061.txt-466-                 _XX_ No change is needed
+doc1061.txt:467:New Recovery Priority Number: No change
+doc1061.txt-468-   Brief Rationale: Not recommending a change in status
+doc1073.txt-838-             ____ No change is needed
+doc1073.txt:839:     B.      New Recovery Priority Number __8__
+doc1073.txt-840-             The black-capped vireo recovery priority is recommended to be changed from 2C
+doc1078.txt-101-        3.1.2 Threatened population………………………………………………                                              66
+doc1078.txt:102:    3.2 New Recovery Priority Number…………………………………………….                                             66
+doc1078.txt-103-4.0 RECOMMENDATIONS FOR FUTURE ACTIONS……………………………                                                  66
+doc1080.txt-934-                __X_ No change is needed
+doc1080.txt:935:        3.2     New Recovery Priority Number:
+doc1080.txt-936-                No change is needed.
+doc1115.txt-902-     A.       Recommended Classification: Reclassify from Endangered to Threatened
+doc1115.txt:903:     B.       New Recovery Priority Number: No change
+doc1115.txt-904-     C.       Reclassification (from Endangered to Threatened) Priority Number: 4
+doc1120.txt-189-         A.     RecommendedClassification:
+doc1120.txt:190:                New Recovery Priority Number         N/A-
+doc1120.txt-191-         RECOMMENDATIONS FOR FUTURE ACTIONS
+doc1121.txt-186-                    Delist
+doc1121.txt:187:              -X- No change^L                   New Recovery Priority Number        Not applicable-
+doc1121.txt-188-            RECOMMENDATIONS FOR FUTURE ACTIONS
+doc1123.txt-213-                       -X- No, no changeis needed
+doc1123.txt:214:                B.     New Recovery Priority Number          N/A
+doc1123.txt-215-        IV.     RECOMMENDATIONS FOR FUTURE ACTIONS
+doc1127.txt-208-                     RecommendedClassification
+doc1127.txt:209:                     New Recovery Priority Number
+doc1127.txt-210-    IV.      RECOMMENDATIONS FOR FUTURE ACTIONS
+doc1128.txt-169-                        RecommendedClassification:
+doc1128.txt:170:                        New Recovery Priority Number         N/A-
+doc1128.txt-171-        IV.    RECOMMENDATIONS FOR FUTURE ACTIONS
+doc1129.txt-191-                   RecommendedClassification
+doc1129.txt:192:          B.       New Recovery Priority Number        N/A-
+doc1129.txt-193-   IV.    RECOMMENDATIONS FOR FUTURE ACTIONS
+doc1133.txt-223-                        RecommendedClassification:
+doc1133.txt:224:                 B.     New Recovery Priority Number
+doc1133.txt-225-        IV.      RECOMMENDATIONS FOR FUTURE ACTIONS
+doc1134.txt-261-                  -X- No, no changeis needed
+doc1134.txt:262:           B.     New Recovery Priority Number             NA
+doc1134.txt-263-   IV.     RECOMMENDATIONS FOR FUTURE ACTIONS
+doc1136.txt-225-                   -X- No,    no change is needed
+doc1136.txt:226:           B.      New Recovery Priority Number
+doc1136.txt-227-A.
+doc1138.txt-479-                  ____ No, no change is needed
+doc1138.txt:480:         3.2.     New Recovery Priority Number:_15__
+doc1138.txt-481-                  This subspecies currently has a low degree of threat, a high potential for recovery,
+doc1139.txt-455-                                                  11
+doc1139.txt:456:^L    3.2   New Recovery Priority Number __13___
+doc1139.txt:457:          The new recovery priority number should be 13 because the degree of threat is now
+doc1139.txt-458-          low, the recovery potential is still high, it is a monotypic genus, and the status of the
+doc1140.txt-710-      III.A. Recommended Classification: Downlist to Threatened
+doc1140.txt:711:      III.B. New Recovery Priority Number __15__
+doc1140.txt-712-              The trend for Lotus dendroideus var. traskiae appears to be the documentation of
+doc1141.txt-906-     III.A. Recommended Classification: Downlist to threatened status.
+doc1141.txt:907:     III.B. New Recovery Priority Number: 14, indicating a species with high recovery
+doc1141.txt-908-     potential and low degree of threat. The number of Malacothamnus clementinus
+doc1142.txt-607-     III.A. Recommended Classification: Downlist to Threatened
+doc1142.txt:608:     III.B. New Recovery Priority Number: __14__
+doc1142.txt-609-     The trend for Castilleja grisea appears to be the documented increase in both the number
+doc1143.txt-917-       III.A. Recommended Classification: No change is needed.
+doc1143.txt:918:       III.B. New Recovery Priority Number: No change to the recovery priority is
+doc1143.txt-919-       proposed at this time. Lithophragma maximum continues to face a high degree of threat
+doc1145.txt-393-           X No change is needed
+doc1145.txt:394:     B.   New Recovery Priority Number
+doc1145.txt-395-           No change is recommended. The recovery number will remain a 9, as discussed
+doc1146.txt-486-                  ___X_No change is needed
+doc1146.txt:487:        III.B. New Recovery Priority Number __8___
+doc1146.txt-488-                  No change in the recovery priority is proposed here. The degree of threat is
+doc1147.txt-437-      X No change is needed
+doc1147.txt:438:     III.B. New Recovery Priority Number __9_ (to correct an error in the previously
+doc1147.txt-439-            assigned recovery number)
+doc1148.txt-974- X No change is needed
+doc1148.txt:975:III.B. New Recovery Priority Number: N/A
+doc1148.txt-976-We recommend that the recovery priority number remain 8, reflecting a moderate degree of
+doc1149.txt-796- X No change is needed
+doc1149.txt:797:III.B. New Recovery Priority Number: N/A
+doc1149.txt-798-We recommend that the recovery priority number remain 8.
+doc1152.txt-443-      X No, no change is needed
+doc1152.txt:444:     B.      New Recovery Priority Number: 5 This recovery priority number reflects a
+doc1152.txt-445-             species facing a high degree of threat, and with a low recovery potential. We
+doc1153.txt-512-         _X_ No change is needed
+doc1153.txt:513:    3.2  New Recovery Priority Number: Change to 14.
+doc1153.txt-514-         Brief Rationale: A recovery priority number of 14 indicates a species with no
+doc1154.txt-385-                 _X_ No change is needed
+doc1154.txt:386:       3.2       New Recovery Priority Number: No change.
+doc1154.txt-387-                 Brief Rationale: Recovery Priority 3, which is based on the Sonora tiger
+doc1156.txt-488-        __X_ No, no change is needed
+doc1156.txt:489:B.      New Recovery Priority Number __8 (no change)__
+doc1156.txt-490-C.      If applicable, indicate the Listing and Reclassification Priority Number (FWS only):
+doc1157.txt-577-             _X__ No change is needed
+doc1157.txt:578:        B.   New Recovery Priority Number __No change.
+doc1157.txt-579-V.   RECOMMENDATIONS FOR FUTURE ACTIONS
+doc1158.txt-514-             _X__ No change is needed
+doc1158.txt:515:     III.B. New Recovery Priority Number: 3C
+doc1158.txt-516-     Recovery priority number 3C should not be revised.
+doc1159.txt-370-     __X_ No, no change is needed
+doc1159.txt:371:     B.      New Recovery Priority Number: No change.
+doc1159.txt-372-IV.  RECOMMENDATIONS FOR FUTURE ACTIONS
+doc1161.txt-498-                 __X__ No change is needed
+doc1161.txt:499:         III.B. New Recovery Priority Number __2C__
+doc1161.txt-500-         The priority is based on designation as a full species with a high degree of threat, high
+doc1165.txt-560-           __X_ No change is needed
+doc1165.txt:561:    3.2    New Recovery Priority Number __8 (no change)__ (indicate if no change; see
+doc1165.txt-562-           Appendix E):
+doc1174.txt-693-         ____ No change is needed
+doc1174.txt:694:    3.2  New Recovery Priority Number: 14
+doc1174.txt-695-         Brief Rationale: Change to 14, which indicates a species with no imminent
+doc1617.txt-556-                                              15
+doc1617.txt:557:^L    3.2   New Recovery Priority Number: No change; it remains 3.
+doc1617.txt-558-          Brief Rationale: The MGRS meets the species recovery priority 3 category due
+doc1764.txt-556-                __X_ No change is needed
+doc1764.txt:557:        3.2     New Recovery Priority Number: No change recommended
+doc1764.txt-558-4.0     RECOMMENDATIONS FOR FUTURE ACTIONS
+doc1774.txt-325-                --..X.- No change is needed
+doc1774.txt:326:       3.2	     New Recovery Priority Number: N/A
+doc1774.txt-327-
+doc1776.txt-294-              ｾ       No change is needed
+doc1776.txt:295:      3.2       New Recovery Priority Number:
+doc1776.txt-296-                Brief Rationale:
+doc1778.txt-364-               -1L No change is needed
+doc1778.txt:365:       3.2     New Recovery Priority Number: N/A
+doc1778.txt-366-               Brief Rationale:
+doc1785.txt-337-               ..-X- No change is needed
+doc1785.txt:338:      3.2      New Recovery Priority Number:
+doc1785.txt-339-               Brief Rationale:
+doc1785.txt-416-   3.1   Recommended Classification                                             9
+doc1785.txt:417:   3.2   New Recovery Priority Number                                           9
+doc1785.txt-418-   3.3   Listing and Reclassification Priority Number                           9
+doc1785.txt-726-               -K- No change is needed
+doc1785.txt:727:      3.2      New Recovery Priority Number:
+doc1785.txt-728-               Brief Rationale:
+doc1786.txt-370-            ｾ       No change is needed
+doc1786.txt:371:    3.2       New Recovery Priority Number:
+doc1786.txt-372-              Brief Rationale:
+doc1790.txt-307-               .-2L No change is needed
+doc1790.txt:308:      3.2      New Recovery Priority Number:
+doc1790.txt-309-               Brief Rationale:
+doc1799.txt-275-               --2L No change is needed
+doc1799.txt:276:       3.2     New Recovery Priority Number:
+doc1799.txt-277-               Brief Rationale:
+doc1810.txt-277-               ｾ       No change is needed
+doc1810.txt:278:       3.2       New Recovery Priority Number:
+doc1810.txt-279-               Brief Rationale:
+doc1818.txt-310-            ..-X- No change is needed
+doc1818.txt:311:    3.2     New Recovery Priority Number:
+doc1818.txt-312-            Brief Rationale:
+doc1825.txt-263-            ｾ       No change is needed
+doc1825.txt:264:    3.2       New Recovery Priority Number:
+doc1825.txt-265-              Brief Rationale:
+doc1841.txt-331-              ｾ       No change is needed
+doc1841.txt:332:      3.2       New Recovery Priority Number:
+doc1841.txt-333-                Brief Rationale:
+doc1842.txt-268-        --K.. No change is needed
+doc1842.txt:269:                                      -7-^L       3.2     New Recovery Priority Number: N/A
+doc1842.txt-270-               Brief Rationale:
+doc1845.txt-332-             ~ No change is needed
+doc1845.txt:333:    3.2      New Recovery Priority Number:
+doc1845.txt-334-             Brief Rationale:
+doc1851.txt-283-                --lL No change is needed
+doc1851.txt:284:        3.2     New Recovery Priority Number:
+doc1851.txt-285-                Brief Rationale:
+doc1852.txt-266-            --2L No change is needed
+doc1852.txt:267:    3.2     New Recovery Priority Number:
+doc1852.txt-268-            Brief Rationale:
+doc1856.txt-261-            --K.... No, no change is needed
+doc1856.txt:262:     B.     New Recovery Priority Number N/A
+doc1856.txt-263-     C.     If applicable, indicate the Listing and Reclassification Priority Number
+doc1857.txt-313-            ..-X- No change is needed
+doc1857.txt:314:    3.2      New Recovery Priority Number:
+doc1857.txt-315-            Brief Rationale:
+doc1862.txt-604-  X No change is needed
+doc1862.txt:605:III.B. New Recovery Priority Number: N/A
+doc1862.txt-606-No change to the species’ recovery priority number is recommended, because there has been no
+doc1863.txt-241-                _ X__ No change is needed
+doc1863.txt:242:    3.2. New Recovery Priority Number: 6C (no change)
+doc1863.txt-243-4.0     RECOMMENDATIONS FOR FUTURE ACTIONS
+doc1864.txt-683-         X No change is needed
+doc1864.txt:684:III.B. New Recovery Priority Number: No change
+doc1864.txt-685-       The Amargosa niterwort is currently assigned a listing priority number of 8. In
+doc1865.txt-529-                    X No change is needed
+doc1865.txt:530:  III.B. New Recovery Priority Number: 14 (no change)
+doc1865.txt-531-          The Ash Meadows gumplant is currently assigned a listing priority number of 14. A
+doc1866.txt-335-             __X_ No change is needed
+doc1866.txt:336:     III.B. New Recovery Priority Number __2C_ (no change)
+doc1866.txt-337-     III.C. If a reclassification is recommended, indicate the Listing and Reclassification
+doc1867.txt-821- X No change is needed
+doc1867.txt:822:III.B. New Recovery Priority Number: No change.
+doc1867.txt-823-We recommend that the recovery priority number remain 2C.
+doc1868.txt-671- X No change is needed (Pseudobahia bahiifolia and Pseudobahia peirsonii)
+doc1868.txt:672:III.B. New Recovery Priority Number:
+doc1868.txt-673-Pseudobahia bahiifolia: 5C. We recommend that the recovery priority number be changed from
+doc1870.txt-309-             __X_ No change is needed
+doc1870.txt:310:      III.B. New Recovery Priority Number ___8__ (no change)
+doc1870.txt-311-                                                 8^LIV. RECOMMENDATIONS FOR FUTURE ACTIONS -
+doc1871.txt-381-              __X_ No change is needed
+doc1871.txt:382:     III.B. New Recovery Priority Number __8__
+doc1871.txt-383-     It is recommended that the recovery priority number remain 8 because the species
+doc1872.txt-578-            threats known at the time of listing.
+doc1872.txt:579:     III.B. New Recovery Priority Number: A change to the recovery priority is proposed
+doc1872.txt-580-            at this time. Recovery of this species seems less likely than previously thought,
+doc1873.txt-440-             __X_ No change is needed
+doc1873.txt:441:                                                12^L    III.B. New Recovery Priority Number __14__
+doc1873.txt-442-            The current status of Verbena californica has improved since the time of listing in
+doc1874.txt-526-          _X_ No change is needed
+doc1874.txt:527:    3.2. New Recovery Priority Number: 8
+doc1874.txt-528-    Although overcollection for commercial trade was a concern at the time of listing, there is no
+doc1875.txt-558-     __X_ No change is needed
+doc1875.txt:559:     B. New Recovery Priority Number: No change.
+doc1875.txt-560-IV. RECOMMENDATIONS FOR FUTURE ACTIONS.
+doc1876.txt-352-                 __X__No change is needed
+doc1876.txt:353:     III.B.      New Recovery Priority Number ___2__ (No change)
+doc1876.txt-354-                 It is recommended that the recovery priority number remain 2 because the species
+doc1877.txt-541-      X No change is needed
+doc1877.txt:542:     B. New Recovery Priority Number: 2 (no change)
+doc1877.txt-543-IV. RECOMMENDATIONS FOR FUTURE ACTIONS.
+doc1884.txt-566-             __x__ No change is needed
+doc1884.txt:567:     B.      New Recovery Priority Number: 2c
+doc1884.txt-568-     Rationale: Euphorbia telephioides remains subject to a high degree of habitat
+doc1886.txt-119-Thus, both S. wetlandicus and S. glaucus should retain their threatened status.
+doc1886.txt:120:New Recovery Priority Number: Until we make a final determination on the proposed the
+doc1886.txt-121-taxonomic revision discussed above (72 FR 53211, September 18, 2007), the combined entity
+doc1887.txt-143-         __________ Uplist to Endangered
+doc1887.txt:144:New Recovery Priority Number: No change (remains 8)
+doc1887.txt-145-Recommendations for Future Actions:
+doc1891.txt-374-              X No change is needed
+doc1891.txt:375:   3.2. New Recovery Priority Number
+doc1891.txt-376-   While protections for ash-grey (Indian) paintbrush have increased on national forest lands,
+doc1892.txt-356-                 __X_ No change is needed
+doc1892.txt:357:    3.2. New Recovery Priority Number
+doc1892.txt-358-    While protections for Bear Valley sandwort have increased on national forest lands, occupied
+doc1893.txt-401-               _ X__ No change is needed
+doc1893.txt:402:   3.2. New Recovery Priority Number
+doc1893.txt-403-        3C (no change)
+doc1895.txt-631-            __X No change is needed
+doc1895.txt:632:   3.2. New Recovery Priority Number __3 (no change) ___
+doc1895.txt-633-4. RECOMMENDATIONS FOR FUTURE ACTIONS
+doc1897.txt-558-                __X_ No change is needed
+doc1897.txt:559:   3.2. New Recovery Priority Number: 8C. This number indicates a species under a
+doc1897.txt-560-        moderate degree of threat and a high potential for recovery and reflects the taxonomic
+doc1898.txt-884-        __X_ No change is needed
+doc1898.txt:885:   2.3. New Recovery Priority Number: 6C (no change)
+doc1898.txt-886-4. RECOMMENDATIONS FOR FUTURE ACTIONS
+doc1899.txt-596-                _X_ No change is needed
+doc1899.txt:597:    3.2. New Recovery Priority Number:
+doc1899.txt-598-        N/A (retain existing recovery priority number of 9)
+doc1900.txt-403-                  X No change is needed
+doc1900.txt:404:        III.B. New Recovery Priority Number 8 This denotes a full species with a
+doc1900.txt-405-        moderate degree of threat and a high potential for recovery. This change in recovery
+doc1902.txt-367-                __X_ No change is needed
+doc1902.txt:368:   3.2. New Recovery Priority Number
+doc1902.txt-369-        While protections for southern mountain buckwheat have increased on national forest
+doc1903.txt-799-           __X No change is needed
+doc1903.txt:800:   3.2. New Recovery Priority Number
+doc1903.txt-801-           5 (no change). Based on this review, this plant still faces a high degree of threat
+doc1904.txt-628-                 _x__ No change is needed
+doc1904.txt:629:    3.2. New Recovery Priority Number
+doc1904.txt-630-        No Change. The subspecies condition for ascertaining its priority number has not
+doc1916.txt-740-           X No change is needed
+doc1916.txt:741:    3.2  New Recovery Priority Number
+doc1916.txt-742-         2c (No change)
+doc1920.txt-715-               __X__ No change is needed
+doc1920.txt:716:       3.2 New Recovery Priority Number: No change; remain as 2.
+doc1920.txt-717-4.0 RECOMMENDATIONS FOR FUTURE ACTIONS
+doc1924.txt-409-       __X_ No change is needed
+doc1924.txt:410:   3.2. New Recovery Priority Number: 6 (no change)
+doc1924.txt-411-4. RECOMMENDATIONS FOR FUTURE ACTIONS
+doc1930.txt-677- X No change is needed
+doc1930.txt:678:III.B. New Recovery Priority Number: 2C (no change)
+doc1930.txt-679-We recommend that the recovery priority number remain 2C because the species continues to
+doc1931.txt-369-                 X No change is needed
+doc1931.txt:370:    3.2. New Recovery Priority Number: 6. This recovery priority number reflects a
+doc1931.txt-371-    subspecies facing a high degree of threat and with a low recovery potential. The low number
+doc1933.txt-653-  X No change is needed
+doc1933.txt:654:III.B. New Recovery Priority Number: 5C (no change)
+doc1933.txt-655-IV.     RECOMMENDATIONS FOR FUTURE ACTIONS
+doc1934.txt-646-                __X_ No change is needed
+doc1934.txt:647:    3.2. New Recovery Priority Number _5_
+doc1934.txt-648-    This denotes a full species with a high degree of threat and low recovery potential.
+doc1935.txt-662- X No change is needed
+doc1935.txt:663:III.B. New Recovery Priority Number: N/A
+doc1935.txt-664-We recommend that the recovery priority number remain 3.
+doc1936.txt-421-        __X_ No change is needed
+doc1936.txt:422:    3.2. New Recovery Priority Number: 6. This recovery priority number reflects a
+doc1936.txt-423-    subspecies facing a high degree of threat and low recovery potential due to its small
+doc1938.txt-563-             X No change is needed
+doc1938.txt:564:   3.2. New Recovery Priority Number
+doc1938.txt-565-   No change is needed, the recovery priority number for this species should remain “2”,
+doc1939.txt-795-  X No change is needed
+doc1939.txt:796:III.B. New Recovery Priority Number: 3C
+doc1939.txt-797-We recommend that the recovery priority number be changed to 3C because the taxonomic unit
+doc1940.txt-843-       __X_ No, no change is needed
+doc1940.txt:844:       3.2 New Recovery Priority Number
+doc1940.txt-845-                      We recommend that the recovery priority number be changed from its
+doc1954.txt-738-            __X_No change is needed
+doc1954.txt:739:     III.B. New Recovery Priority Number
+doc1954.txt-740-            It is recommended that the priority number does not change from its current
+doc1955.txt-522-                ___ No change is needed
+doc1955.txt:523:    3.2. New Recovery Priority Number: 8. This denotes a species with a moderate degree of
+doc1955.txt-524-    threat and a high potential for recovery. Note, however, in choosing between a high potential
+doc1957.txt-824-                                          - 20 -
+doc1957.txt:825:^L    3.2      NEW RECOVERY PRIORITY NUMBER: 11
+doc1957.txt-826-             Brief Rationale: Wright fishhook cactus is a full species. Known threats had
+doc1960.txt-595-                                                17
+doc1960.txt:596:^L    3.2     New Recovery Priority Number: 6; the degree of threat is high, the potential for
+doc1960.txt-597-            recovery is low, and the listed entity is a subspecies (48 FR 43098).
+doc1978.txt-201-    __X_ No change needed
+doc1978.txt:202:    3.2     New Recovery Priority Number:
+doc1978.txt-203-    No change proposed.
+doc1991.txt-759-      __ No change is needed
+doc1991.txt:760:     III.B. New Recovery Priority Number: 9 (changed from 9C in the recovery plan).
+doc1991.txt-761-     Because less than 1 percent of the towhee’s range is located on private land, and the
+doc1993.txt-821- X No change is needed
+doc1993.txt:822:III.B. New Recovery Priority Number: No change
+doc1993.txt-823-We recommend that the recovery priority number remain 5C.
+doc1994.txt-427-               _X__ No change is needed
+doc1994.txt:428:    3.2. New Recovery Priority Number: No change
+doc1994.txt-429-4.0     RECOMMENDATIONS FOR FUTURE ACTIONS
+doc1998.txt-534-                 _x__ No change is needed
+doc1998.txt:535:    3.2. New Recovery Priority Number
+doc1998.txt-536-         No Change. The species condition for ascertaining its priority number has not changed
+doc2001.txt-257-      No change needed. Remain as endangered.
+doc2001.txt:258:      3.2 New Recovery Priority Number: 5C
+doc2001.txt-259-      We recommend changing the recovery priority number from a 5 to a 5C. The current
+doc2003.txt-406-               X No change is needed
+doc2003.txt:407:    3.2     New Recovery Priority Number: 3
+doc2003.txt-408-            Brief Rationale: We believe the degree of threat to Texas snowbells from
+doc2003.txt-411-            (Fritsch 1997), our Recovery Priority System (48 FR 43104) requires a change in
+doc2003.txt:412:            priority number. We recommend a new Recovery Priority Number of 3 (rather
+doc2003.txt-413-            than a 2).
+doc2007.txt-559-             _X_ No change is needed
+doc2007.txt:560:    3.2      New Recovery Priority Number: 2
+doc2007.txt-561-             Currently, information describing conflicts within Holy Ghost Canyon that
+doc2008.txt-784-            ____ No change is needed
+doc2008.txt:785:    3.2     New Recovery Priority Number: The spinedace is currently classified as 2
+doc2008.txt-786-            (high degree of threat/high potential for recovery). We recommend changing this
+doc2009.txt-596-            _X_ No change is needed
+doc2009.txt:597:    3.2     New Recovery Priority Number:
+doc2009.txt-598-            We recommend changing the Recovery Priority Number from 8 to 8C. The
+doc2011.txt-272-               x No change is needed
+doc2011.txt:273:    3.2     New Recovery Priority Number: 8C
+doc2011.txt-274-                                              7
+doc2369.txt-680-                __X__ No change is needed
+doc2369.txt:681:        B.      New Recovery Priority Number __5C___
+doc2369.txt-682-                Although adverse effects associated with development activities were identified
+doc2371.txt-504-               __x__ No change is needed
+doc2371.txt:505:      B.       New Recovery Priority Number: 8c
+doc2371.txt-506-      As the species is in conflict with development and growth, the conflict category ‘c’ has
+doc2379.txt-704-   √ No Change
+doc2379.txt:705:New Recovery Priority Number and Brief Rationale: No change needed.
+doc2379.txt-706-VI.    RECOMMENDATIONS FOR ACTIONS OVER THE NEXT 5 YEARS
+doc2380.txt-813-                __X_ No change is needed
+doc2380.txt:814:        III.B. New Recovery Priority Number __5__
+doc2380.txt-815-                No change is recommended in the recovery priority number assigned to
+doc2381.txt-395-              _X_ No change is needed
+doc2381.txt:396:      New Recovery Priority Number and Brief Rationale: 8 (no change)
+doc2381.txt-397-4.0   RECOMMENDATIONS FOR FUTURE ACTIONS
+doc2382.txt-432-__X__ No Change
+doc2382.txt:433:New Recovery Priority Number and Brief Rationale: No change
+doc2382.txt-434-VI. RECOMMENDATIONS FOR FUTURE ACTIONS
+doc2383.txt-632-   X      No Change
+doc2383.txt:633:New Recovery Priority Number and Brief Rationale: 2C. The recovery priority of 2C is the
+doc2383.txt-634-correct number for a species that faces a high degree of threat and with a high potential for
+doc2384.txt-863-              X No change is needed
+doc2384.txt:864:     III.B. New Recovery Priority Number: 8 (no change)
+doc2384.txt-865-     There have not been sufficient changes in the status of the beetle to warrant changing the
+doc2385.txt-636-        _X_ No change is needed
+doc2385.txt:637:New Recovery Priority Number: N/A
+doc2385.txt-638-Listing and Reclassification Priority Number: No change
+doc2386.txt-486-__X__ No Change
+doc2386.txt:487:New Recovery Priority Number and Brief Rationale: No change
+doc2386.txt-488-                                                  13
+doc2387.txt-768-in 1997.
+doc2387.txt:769:III.B. New Recovery Priority Number:
+doc2387.txt-770-We recommend the recovery priority number remain the same.
+doc2388.txt-375-             _ No change is needed
+doc2388.txt:376:        III.B. New Recovery Priority Number: 8
+doc2388.txt-377-        This denotes a full species with a moderate degree of threat and a high potential for
+doc2390.txt-477-__X_ No Change
+doc2390.txt:478:New Recovery Priority Number and Brief Rationale: No change in recovery priority number.
+doc2390.txt-479-                                                  13^LVI. RECOMMENDATIONS FOR ACTIONS OVER THE NEXT 5 YEARS
+doc2391.txt-644-                                                    18
+doc2391.txt:645:^LIII.B. New Recovery Priority Number: N/A
+doc2391.txt-646-We recommend that the recovery priority number remain 3.
+doc2392.txt-840-                 X No change is needed
+doc2392.txt:841:III.B.      New Recovery Priority Number: N/A
+doc2392.txt-842-We recommend that the recovery priority number remain 6, reflecting a high degree of threat and
+doc2393.txt-495-            __X__ No change is needed
+doc2393.txt:496:    3.2. New Recovery Priority Number
+doc2393.txt-497-    No change is needed.
+doc2394.txt-797-                 _X__ No change is needed
+doc2394.txt:798:        New Recovery Priority Number _9
+doc2394.txt-799-        No change is recommended at this time to the recovery priority number for the Myrtle’s
+doc2395.txt-577-  √ No Change
+doc2395.txt:578:New Recovery Priority Number and Brief Rationale: The recovery priority number
+doc2395.txt-579-should be changed to 2 (a recovery priority number of 3 designates a subspecies). The
+doc2396.txt-919- X No Change
+doc2396.txt:920:New Recovery Priority Number and Brief Rationale: No change.
+doc2396.txt-921-VI. RECOMMENDATIONS FOR ACTIONS OVER THE NEXT 5 YEARS
+doc2397.txt-630-       __X__No change is needed
+doc2397.txt:631:New Recovery Priority Number ___9c__ (No change)
+doc2397.txt-632-               It is recommended that the recovery priority number remain 9c. The species
+doc2399.txt-769-                                               18
+doc2399.txt:770:^L    III.B. New Recovery Priority Number __3__
+doc2399.txt-771-            Based on the preceding analysis, the Steamboat buckwheat continues to face a
+doc2400.txt-471-__X__No change is needed
+doc2400.txt:472:New Recovery Priority Number ___3C__ (No change)
+doc2400.txt-473-It is recommended that the recovery priority number remain 3c. The species continues to have a
+doc2403.txt-363-          trends. Additional information provided above under “Synthesis”.
+doc2403.txt:364:     B.   New Recovery Priority Number: N/A
+doc2403.txt-365-IV.  RECOMMENDATIONS FOR FUTURE ACTION
+doc2405.txt-188-    _X_ No change is needed
+doc2405.txt:189:                                               5^L     3.2. New Recovery Priority Number: No change; remains as 6.
+doc2405.txt-190-     Brief Rationale: Sentry milk-vetch is under a high degree of threat because it is an
+doc2407.txt-473-    3.1     Recommended Classification: Downlist to Threatened.
+doc2407.txt:474:    3.2    New Recovery Priority Number: Retain as 8. No change is needed, the recovery
+doc2407.txt-475-           priority number was recently changed from a 2 to an 8 which indicates the species
+doc2411.txt-543-     A.     Recommended Classification: Threatened
+doc2411.txt:544:     B.     New Recovery Priority Number: 8
+doc2411.txt-545-            This recommendation represents a change in the recovery priority number from 5
+doc2413.txt-486-     A.   Recommended Classification: No change is required
+doc2413.txt:487:                                            13^L    B.       New Recovery Priority Number: No change is required
+doc2413.txt-488-IV. RECOMMENDATIONS FOR FUTURE ACTIONS
+doc2415.txt-764-         _X_ No change is needed
+doc2415.txt:765:    3.2  New Recovery Priority Number: 8C.
+doc2415.txt-766-         Brief Rationale:
+doc2416.txt-428-                __X_ No change is needed
+doc2416.txt:429:        B.      New Recovery Priority Number: 2c
+doc2416.txt-430-        As the species is in conflict with development and growth, the conflict category ‘c’ has
+doc2424.txt-322-              __X__ No change is needed
+doc2424.txt:323:      3.2     New Recovery Priority Number: N/A
+doc2424.txt-324-              Brief Rationale:
+doc2431.txt-284-              __X__ No change is needed
+doc2431.txt:285:      3.2     New Recovery Priority Number: N/A
+doc2431.txt-286-              Brief Rationale:
+doc2433.txt-353-            __X__ No change is needed
+doc2433.txt:354:    3.2     New Recovery Priority Number: N/A
+doc2433.txt-355-            Brief Rationale:
+doc2434.txt-364-              __X_ No change is needed
+doc2434.txt:365:      3.2     New Recovery Priority Number: N/A
+doc2434.txt-366-              Brief Rationale:
+doc2435.txt-369-               __X__ No change is needed
+doc2435.txt:370:      3.2      New Recovery Priority Number: N/A
+doc2435.txt-371-               Brief Rationale:
+doc2439.txt-392-              __X_ No change is needed
+doc2439.txt:393:      3.2     New Recovery Priority Number: N/A
+doc2439.txt-394-              Brief Rationale:
+doc2442.txt-365-               __X__ No change is needed
+doc2442.txt:366:      3.2      New Recovery Priority Number: N/A
+doc2442.txt-367-               Brief Rationale:
+doc2448.txt-312-        __X__ No change is needed
+doc2448.txt:313:    3.2 New Recovery Priority Number: N/A
+doc2448.txt-314-        Brief Rationale:
+doc2451.txt-304-            __X__ No change is needed
+doc2451.txt:305:    3.2     New Recovery Priority Number: N/A
+doc2451.txt-306-            Brief Rationale:
+doc2452.txt-280-              __X__ No change is needed
+doc2452.txt:281:       3.2    New Recovery Priority Number: N/A
+doc2452.txt-282-              Brief Rationale:
+doc2454.txt-300-                                           -8-^L                __X__ No change is needed
+doc2454.txt:301:        3.2     New Recovery Priority Number: N/A
+doc2454.txt-302-                Brief Rationale:
+doc2457.txt-294-              __X__ No change is needed
+doc2457.txt:295:      3.2     New Recovery Priority Number: N/A
+doc2457.txt-296-              Brief Rationale:
+doc2463.txt-281-                __X__ No change is needed
+doc2463.txt:282:       3.2      New Recovery Priority Number: N/A
+doc2463.txt-283-                Brief Rationale:
+doc2473.txt-268-                                       -7-
+doc2473.txt:269:^L       3.2     New Recovery Priority Number: N/A
+doc2473.txt-270-               Brief Rationale:
+doc2474.txt-557-            __X__ No change is needed
+doc2474.txt:558:    3.2     New Recovery Priority Number: N/A
+doc2474.txt-559-            Brief Rationale:
+doc2475.txt-299-             __X__ No change is needed
+doc2475.txt:300:    3.2      New Recovery Priority Number: N/A
+doc2475.txt-301-             Brief Rationale:
+doc2476.txt-260-                                          -7-
+doc2476.txt:261:^L      3.2      New Recovery Priority Number: N/A
+doc2476.txt-262-               Brief Rationale:
+doc2479.txt-276-               __X__ No change is needed
+doc2479.txt:277:      3.2      New Recovery Priority Number:
+doc2479.txt-278-               Brief Rationale:
+doc2508.txt-684-boa to Threatened.
+doc2508.txt:685:B. New Recovery Priority Number _9c_
+doc2508.txt-686-Based on the information gathered and analyzed in the five factors analysis conducted in
+doc2509.txt-890-               _X_ No change is needed
+doc2509.txt:891:      3.2      New Recovery Priority Number: We recommend that the Recovery Priority
+doc2509.txt-892-               Number remain a 3; this means a high degree of threat, high recovery potential,
+doc2520.txt-633-  X No change is needed
+doc2520.txt:634:III.B. New Recovery Priority Number:
+doc2520.txt-635-We recommend the recovery priority number be changed to 8C because the species has a
+doc2526.txt-360-         __X_ No change is needed
+doc2526.txt:361:    3.2  New Recovery Priority Number: N/A
+doc2526.txt-362-         Brief Rationale:
+doc2527.txt-319-         __X_ No change is needed
+doc2527.txt:320:^L       3.2     New Recovery Priority Number: N/A
+doc2527.txt-321-               Brief Rationale:
+doc2528.txt-281-                 ___ No change is needed
+doc2528.txt:282:        3.2      New Recovery Priority Number: N/A
+doc2528.txt-283-                 Brief Rationale:
+doc2530.txt-313-            __X__ No change is needed
+doc2530.txt:314:    3.2     New Recovery Priority Number: N/A
+doc2530.txt-315-            Brief Rationale:
+doc2531.txt-344-            __X__ No change is needed
+doc2531.txt:345:    3.2     New Recovery Priority Number: N/A
+doc2531.txt-346-            Brief Rationale:
+doc2532.txt-398-            __X__ No change is needed
+doc2532.txt:399:    3.2     New Recovery Priority Number: N/A
+doc2532.txt-400-            Brief Rationale:
+doc2533.txt-343-             __X__ No change is needed
+doc2533.txt:344:    3.2      New Recovery Priority Number: N/A
+doc2533.txt-345-             Brief Rationale:
+doc2534.txt-350-             __X__ No change is needed
+doc2534.txt:351:      3.2    New Recovery Priority Number: N/A
+doc2534.txt-352-             Brief Rationale:
+doc2535.txt-306-         __X_ No change is needed
+doc2535.txt:307:                                       -8-^L        3.2      New Recovery Priority Number: N/A
+doc2535.txt-308-                 Brief Rationale:
+doc2536.txt-258-                ___ No change is needed
+doc2536.txt:259:        3.2     New Recovery Priority Number: N/A
+doc2536.txt-260-                Brief Rationale:
+doc2537.txt-333-              _X__ No change is needed
+doc2537.txt:334:      3.2     New Recovery Priority Number: N/A
+doc2537.txt-335-              Brief Rationale:
+doc2538.txt-250-         __X__ No change is needed
+doc2538.txt:251:    3.2  New Recovery Priority Number: N/A
+doc2538.txt-252-         Brief Rationale:
+doc2539.txt-355-            __X__ No change is needed
+doc2539.txt:356:    3.2     New Recovery Priority Number: N/A
+doc2539.txt-357-            Brief Rationale:
+doc2540.txt-306-            __X__ No change is needed
+doc2540.txt:307:    3.2     New Recovery Priority Number: N/A
+doc2540.txt-308-            Brief Rationale:
+doc2541.txt-367-                                         -9-
+doc2541.txt:368:^L      3.2     New Recovery Priority Number: N/A
+doc2541.txt-369-              Brief Rationale:
+doc2542.txt-456-         __X__ No change is needed
+doc2542.txt:457:    3.2  New Recovery Priority Number: N/A
+doc2542.txt-458-         Brief Rationale:
+doc2543.txt-631-  X      No Change
+doc2543.txt:632:New Recovery Priority Number and Brief Rationale: No change.
+doc2543.txt-633-VI. RECOMMENDATIONS FOR FUTURE ACTIONS
+doc2547.txt-447-  X     No Change
+doc2547.txt:448:New Recovery Priority Number 6C
+doc2547.txt-449-We recommend that the recovery priority number be changed to 6C. There is still a high degree
+doc2549.txt-814-therefore, that the recovery priority of the RRVS should be changed from its current 2C to a new
+doc2549.txt:815:recovery priority number of 8. This new recovery priority number reflects a species under a
+doc2549.txt-816-moderate degree of threat with a high potential for recovery.
+doc2550.txt-864-                                                   24
+doc2550.txt:865:^LNew Recovery Priority Number and Brief Rationale: No change to the recovery priority
+doc2550.txt-866-number is recommended at this time
+doc2554.txt-554-  X     No Change
+doc2554.txt:555:New Recovery Priority Number and Brief Rationale: 8C. The recovery priority of 8C is the
+doc2554.txt-556-correct number for a species that faces a moderate degree of threat and with a high potential for
+doc2556.txt-736-_ _X _ No Change
+doc2556.txt:737:New Recovery Priority Number and Brief Rationale: Change to an 8. This number indicates
+doc2556.txt-738-the taxon is a species that faces a moderate degree of threat and has a high potential for recovery.
+doc2557.txt-927-^L                                                                  2009 5-year Review for Berberis nevinii
+doc2557.txt:928:New Recovery Priority Number and Brief Rationale: No change is recommended.
+doc2557.txt-929-VI. RECOMMENDATIONS FOR ACTIONS OVER THE NEXT 5 YEARS
+doc2558.txt-936-  X No Change
+doc2558.txt:937:New Recovery Priority Number and Brief Rationale: No change
+doc2558.txt-938-VI. RECOMMENDATIONS FOR ACTIONS OVER THE NEXT 5 YEARS
+doc2559.txt-443-  X     No Change
+doc2559.txt:444:New Recovery Priority Number: 8
+doc2559.txt-445-We recommend that the recovery priority number be changed from 2 (high degree of threat and
+doc2560.txt-607-^L                                                            2009 5-year Review for Astragalus tricarinatus
+doc2560.txt:608:New Recovery Priority Number and Brief Rationale: This plant species continues to face a
+doc2560.txt-609-high degree of threat. Because the species’ biology is poorly understood and the threats are
+doc2562.txt-602-  X No Change
+doc2562.txt:603:New Recovery Priority Number and Brief Rationale:
+doc2562.txt-604-Despite being in danger of extinction throughout all or a significant portion of its range,
+doc2563.txt-611-  X No Change
+doc2563.txt:612:New Recovery Priority Number and Brief Rationale:
+doc2563.txt-613-Despite being in danger of extinction throughout all or a significant portion of its range,
+doc2564.txt-634-^L                                 2009 5-year Review for Acanthoscyphus (Oxytheca) parishii var. goodmaniana
+doc2564.txt:635:New Recovery Priority Number and Brief Rationale:
+doc2564.txt-636-Despite being in danger of extinction throughout all or a significant portion of its range,
+doc2565.txt-634-^L                                                                   2009 5-year Review for Erigeron parishii
+doc2565.txt:635:New Recovery Priority Number and Brief Rationale:
+doc2565.txt-636-While protections for Parish’s daisy have increased on national forest lands, occupied and
+doc2566.txt-952-^L                                            2009 5-year Review for Chloropyron maritimum subsp. maritimum
+doc2566.txt:953:New Recovery Priority Number and Brief Rationale: 9
+doc2566.txt-954-   Chloropyron maritimum subsp. maritimum is a subspecies that faces moderate threats and
+doc2567.txt-576-  X No Change
+doc2567.txt:577:New Recovery Priority Number and Brief Rationale:
+doc2567.txt-578-Despite being in danger of extinction throughout all or a significant portion of its range,
+doc2568.txt-793-  X No Change
+doc2568.txt:794:New Recovery Priority Number and Brief Rationale: No change.
+doc2568.txt-795-VI. RECOMMENDATIONS FOR ACTIONS OVER THE NEXT 5 YEARS
+doc2573.txt-739-  X No Change
+doc2573.txt:740:New Recovery Priority Number and Brief Rationale: No change.
+doc2573.txt-741-VI. RECOMMENDATIONS FOR ACTIONS OVER THE NEXT 5 YEARS
+doc2576.txt-559-  X     No Change
+doc2576.txt:560:New Recovery Priority Number and Brief Rationale: The recovery priority number should
+doc2576.txt-561-remain at 8 for Dudleya nesiotica. The recovery priority of 8 is the correct number for a species
+doc2577.txt-460-  X No Change
+doc2577.txt:461:New Recovery Priority Number and Brief Rationale: 6. This recovery priority number
+doc2577.txt-462-reflects a subspecies facing a high degree of threat and low recovery potential due to its small
+doc2579.txt-507-                                                   14
+doc2579.txt:508:^L         B. New Recovery Priority Number: 7C
+doc2579.txt-509-         The change from a recovery priority number of 7 to 7C is recommended because the
+doc2584.txt-437-               ___ No change is needed
+doc2584.txt:438:      3.2      New Recovery Priority Number: no change
+doc2584.txt-439-               Brief Rationale: The recovery priority number for the Hungerford’s crawling
+doc2585.txt-577-              __x_ No change is needed
+doc2585.txt:578:    3.2       New Recovery Priority Number _NA____
+doc2585.txt-579-              .
+doc2589.txt-588-           No change is needed.
+doc2589.txt:589:     B.   New Recovery Priority Number- 2
+doc2589.txt-590-          Recovery Priority Number changed from 8 to 2 to reflect “high” degree of threat,
+doc2590.txt-622-                 __x__ No change is needed
+doc2590.txt:623:        B.       New Recovery Priority Number: 8C
+doc2590.txt-624-        The change from a Recovery Priority Number (RPN) of 14 to 8C is recommended
+doc2592.txt-775-____ No Change
+doc2592.txt:776:New Recovery Priority Number and Brief Rationale: The current number for the arroyo toad
+doc2592.txt-777-is 8. This recovery priority number reflects a species that faces a moderate degree of imminent
+doc2600.txt-451-                 __X_ No change is needed
+doc2600.txt:452:         B.      New Recovery Priority Number _12__
+doc2600.txt:453:                 We recommend a new recovery priority number of 12, indicating moderate threat
+doc2600.txt-454-                 (primarily natural threats) and low potential for recovery for this subspecies
+doc2611.txt-435-            _X_ No change is needed
+doc2611.txt:436:    3.2     New Recovery Priority Number: No change
+doc2611.txt-437-            Brief Rationale: There is very little new information available since the
+doc2620.txt-986-analysis and review of the Gulf sturgeon relative to the DPS policy.
+doc2620.txt:987:3.2. New Recovery Priority Number
+doc2620.txt-988-No change (NMFS 8, USFWS 12).
+doc2625.txt-571-         __x__ No change is needed
+doc2625.txt:572:    3.2  New Recovery Priority Number: NA. The recovery priority number remains 8.
+doc2625.txt-573-         Brief Rationale:
+doc2626.txt-548-        3.1      Recommended Classification: Threatened, no change is needed
+doc2626.txt:549:        3.2      New Recovery Priority Number: NA (no change, remain 9)
+doc2626.txt-550-        3.3      Listing and Reclassification Priority Number: NA
+doc2627.txt-910-           __X_ No change is needed
+doc2627.txt:911:    3.2    New Recovery Priority Number: 5
+doc2627.txt-912-           The Recovery Priority Number has been changed from “8” to “5”
+doc2630.txt-691-__X_ No Change
+doc2630.txt:692:New Recovery Priority Number and Brief Rationale: No change is recommended at this
+doc2630.txt-693-time.
+doc2631.txt-584-_x__ No Change
+doc2631.txt:585:New Recovery Priority Number and Brief Rationale: No Change
+doc2631.txt-586-VI. RECOMMENDATIONS FOR ACTIONS OVER THE NEXT 5 YEARS
+doc2633.txt-829- X No Change
+doc2633.txt:830:New Recovery Priority Number and Brief Rationale:
+doc2633.txt-831-This taxon is a full species that still faces a high degree of threat but also has a high potential for
+doc2634.txt-785-                  X No change is needed
+doc2634.txt:786:        3.2     New Recovery Priority Number: 5 (no change)
+doc2634.txt-787-        Brief Rationale:
+doc3012.txt-314-                _X_ No change is needed
+doc3012.txt:315:        3.2     New Recovery Priority Number: 5
+doc3012.txt-316-                Brief Rationale: The threats remain high, but intensive management is
+doc3015.txt-315-                 X No change is needed
+doc3015.txt:316:3.2   New Recovery Priority Number: No change
+doc3015.txt-317-4.0   RECOMMENDATIONS FOR FUTURE ACTIONS – THESE ARE THE
+doc3016.txt-721-                 X No change is needed
+doc3016.txt:722:3.2   New Recovery Priority Number: No change
+doc3016.txt-723-4.0   RECOMMENDATIONS FOR FUTURE ACTIONS
+doc3017.txt-381-                X No change is needed
+doc3017.txt:382:3.2 New Recovery Priority Number: No change.
+doc3017.txt-383-                                              11
+doc3018.txt-358-             _X No change is needed
+doc3018.txt:359:3.2   New Recovery Priority Number: No change
+doc3018.txt-360-4.0   RECOMMENDATIONS FOR FUTURE ACTIONS - THESE ARE THE
+doc3057.txt-141-    3.1  Recommended Classification: Delist (due to extinction)
+doc3057.txt:142:    3.2  New Recovery Priority Number: NA
+doc3057.txt-143-    3.3  Delisting Priority Number: 6
+doc3058.txt-262-         __X__ No change is needed
+doc3058.txt:263:    3.2  New Recovery Priority Number: no change
+doc3058.txt-264-         Brief Rationale:
+doc3072.txt-560-               No change is needed
+doc3072.txt:561:    3.2  New Recovery Priority Number: Change to 14.
+doc3072.txt-562-         Brief Rationale: The UFB has been ranked an 8c since it was listed. The “c” for
+doc3082.txt-464-      measurable, threats-based standards, have not been met.
+doc3082.txt:465:3.2   New Recovery Priority Number: No change; remain at 2.
+doc3082.txt-466-3.3   Listing and Reclassification Priority Number: Not applicable.
+doc3083.txt-653-          _X_ No change is needed
+doc3083.txt:654:    3.2   New Recovery Priority Number: No change is needed
+doc3083.txt-655-    3.3   Listing and Reclassification Priority Number: N/A
+doc3092.txt-565-    3.1      Recommended Classification: No change is needed
+doc3092.txt:566:    3.2      New Recovery Priority Number: Retain as 8, which indicates that the species
+doc3092.txt-567-             has a moderate degree threat and a high recovery potential.
+doc3119.txt-466-    _X_ No change is needed
+doc3119.txt:467:3.2 New Recovery Priority Number: No Change
+doc3119.txt-468-    Brief Rationale: Based on the available information, we do not believe any change is
+doc3201.txt-587-                __X__ No change is needed
+doc3201.txt:588:       B.       New Recovery Priority Number ___N/A__
+doc3201.txt-589-IV.    RECOMMENDATIONS FOR FUTURE ACTIONS
+doc3202.txt-368-              ___X_ No change is needed
+doc3202.txt:369:                                                9^L       3.2     New Recovery Priority Number: No change, remains 8
+doc3202.txt-370-       3.3 Listing and Reclassification Priority Number: None
+doc3206.txt-486-     A.     Recommended Classification: No change is needed.
+doc3206.txt:487:     B.     New Recovery Priority Number: No change is needed.
+doc3206.txt-488-IV.  RECOMMENDATIONS FOR FUTURE ACTIONS
+doc3208.txt-497-  X No Change
+doc3208.txt:498:New Recovery Priority Number and Brief Rationale: 5. This recovery priority number
+doc3208.txt-499-reflects a species facing a high degree of threat and low recovery potential. We believe this
+doc3210.txt-632-          X No Change
+doc3210.txt:633:                                                  17^L       New Recovery Priority Number and Brief Rationale: No change in Recovery Priority
+doc3210.txt-634-       number recommended
+doc3211.txt-888-        __X_ No Change
+doc3211.txt:889:New Recovery Priority Number and Brief Rationale: 12C
+doc3211.txt-890-We recommend that the recovery priority number for Astragalus lentiginosus var.
+doc3212.txt-942-  √ No Change
+doc3212.txt:943:New Recovery Priority Number and Brief Rationale: We recommend that the recovery
+doc3212.txt-944-priority number be changed to 3. This number indicates that the taxon is a subspecies that faces
+doc3214.txt-613-  X No Change
+doc3214.txt:614:New Recovery Priority Number and Brief Rationale: 6C.
+doc3214.txt-615-Due to absence of known populations, there is now a low potential for recovery while the threat
+doc3217.txt-413-__X__ No Change
+doc3217.txt:414:New Recovery Priority Number and Brief Rationale: No change
+doc3217.txt-415-VI. RECOMMENDATIONS FOR FUTURE ACTIONS
+doc3218.txt-579-_X__ No Change
+doc3218.txt:580:New Recovery Priority Number and Brief Rationale: The recovery number for both of these
+doc3218.txt-581-species should be changed from 2C to 5C as the potential threat of extinction for either species is
+doc3219.txt-450-__X__ No Change
+doc3219.txt:451:New Recovery Priority Number and Brief Rationale: N/A
+doc3219.txt-452-                                                   12
+doc3220.txt-681-   X   No Change
+doc3220.txt:682:New Recovery Priority Number and Brief Rationale: Recommend that Recovery Priority
+doc3220.txt-683-Number remains unchanged, at 2.
+doc3224.txt-693- X    No Change
+doc3224.txt:694:New Recovery Priority Number and Brief Rationale: N/A
+doc3224.txt-695-VI. RECOMMENDATIONS FOR ACTIONS OVER THE NEXT 5 YEARS
+doc3225.txt-591-_X_ No Change
+doc3225.txt:592:New Recovery Priority Number and Brief Rationale: Not applicable.
+doc3225.txt-593-VI. RECOMMENDATIONS FOR ACTIONS OVER THE NEXT 5 YEARS
+doc3227.txt-548-  X      No Change
+doc3227.txt:549:New Recovery Priority Number and Brief Rationale: No change
+doc3227.txt-550-VI. RECOMMENDATIONS FOR ACTIONS OVER THE NEXT 5 YEARS
+doc3230.txt-152-                                              4
+doc3230.txt:153:^L    3.2.     New Recovery Priority Number: 14C
+doc3230.txt-154-    Brief Rationale:
+doc3234.txt-333-        ____ No change is needed
+doc3234.txt:334:    3.2 New Recovery Priority Number
+doc3234.txt-335-        No change is needed.
+doc3246.txt-483-      _X_ No change is needed
+doc3246.txt:484:      B. New Recovery Priority Number: 2C (upon name change). After the Service officially
+doc3246.txt-485-      adopts the change in nomenclature for the fragrant prickly-apple, the Recovery Priority
+doc3249.txt-502-                  X No change is needed
+doc3249.txt:503:        3.2      New Recovery Priority Number: 8 (no change)
+doc3249.txt-504-                 Brief Rationale:
+doc3250.txt-417-          above under “Synthesis”.
+doc3250.txt:418:     B.   New Recovery Priority Number 5
+doc3250.txt-419-                                         11
+doc3258.txt-606-                                                    15
+doc3258.txt:607:^L      B.     New Recovery Priority Number: 5C
+doc3258.txt-608-      As the species is in conflict with development and growth, the conflict category ‘c’ has
+doc3259.txt-300-            __X_ No change is needed
+doc3259.txt:301:    3.2     New Recovery Priority Number: N/A
+doc3259.txt-302-            Brief Rationale:
+doc3261.txt-997-      __X__ No change is needed
+doc3261.txt:998:      B. New Recovery Priority Number _N/A_
+doc3261.txt-999-IV. RECOMMENDATIONS FOR FUTURE ACTIONS
+doc3269.txt-837-      __X__ No change is needed
+doc3269.txt:838:      B. New Recovery Priority Number _N/A_
+doc3269.txt-839-IV. RECOMMENDATIONS FOR FUTURE ACTIONS
+doc3273.txt-526-           No change is needed
+doc3273.txt:527:    3.2    New Recovery Priority Number: Not applicable
+doc3273.txt-528-           Brief Rationale: Seventeen more populations have been identified since the 1999
+doc3278.txt-802-      __X__ No change is needed
+doc3278.txt:803:      B. New Recovery Priority Number _N/A_
+doc3278.txt-804-IV. RECOMMENDATIONS FOR FUTURE
+doc3279.txt-375-                                                11
+doc3279.txt:376:^L      B.      New Recovery Priority Number:
+doc3279.txt-377-              2C (FY 2009 Recovery Data Call), corresponding to “high” magnitude of threat,
+doc3280.txt-935-        X No change is needed
+doc3280.txt:936:    B. New Recovery Priority Number N/A
+doc3280.txt-937-IV. RECOMMENDATIONS FOR FUTURE ACTIONS
+doc3292.txt-371-                __X__ No change is needed
+doc3292.txt:372:       3.2      New Recovery Priority Number:
+doc3292.txt-373-                Brief Rationale:
+doc3293.txt-480-            __X__ No change is needed
+doc3293.txt:481:    3.2     New Recovery Priority Number:
+doc3293.txt-482-            Brief Rationale:
+doc3297.txt-410-                __X__ No change is needed
+doc3297.txt:411:        3.2     New Recovery Priority Number:
+doc3297.txt-412-                Brief Rationale:
+doc3303.txt-461-              __X__ No change is needed
+doc3303.txt:462:      3.2     New Recovery Priority Number:
+doc3303.txt-463-              Brief Rationale:
+doc3308.txt-561-               __X__ No change is needed
+doc3308.txt:562:       3.2     New Recovery Priority Number:
+doc3308.txt-563-               Brief Rationale:
+doc3312.txt-371-                __X__ No change is needed
+doc3312.txt:372:       3.2      New Recovery Priority Number:
+doc3312.txt-373-                Brief Rationale:
+doc3319.txt-500-             __X__ No change is needed
+doc3319.txt:501:                                         - 13 -^L         3.2    New Recovery Priority Number:
+doc3319.txt-502-                Brief Rationale:
+doc3334.txt-755-               __X__ No change is needed
+doc3334.txt:756:      3.2      New Recovery Priority Number:
+doc3334.txt-757-               Brief Rationale:
+doc3336.txt-380-            __X__ No change is needed
+doc3336.txt:381:    3.2     New Recovery Priority Number:
+doc3336.txt-382-            Brief Rationale:
+doc3337.txt-251-         __X_ No change is needed
+doc3337.txt:252:    3.2  New Recovery Priority Number: N/A
+doc3337.txt-253-         Brief Rationale:
+doc3338.txt-264-               __X_ No change is needed
+doc3338.txt:265:        3.2    New Recovery Priority Number: N/A
+doc3338.txt-266-               Brief Rationale:
+doc3339.txt-239-                __X_ No change is needed
+doc3339.txt:240:        3.2     New Recovery Priority Number: N/A
+doc3339.txt-241-                Brief Rationale:
+doc3340.txt-269-               __X_ No change is needed
+doc3340.txt:270:       3.2     New Recovery Priority Number: N/A
+doc3340.txt-271-               Brief Rationale:
+doc3341.txt-254-         __X_ No change is needed
+doc3341.txt:255:                                       -7-^L       3.2     New Recovery Priority Number: N/A
+doc3341.txt-256-               Brief Rationale:
+doc3346.txt-299-            __X__ No change is needed
+doc3346.txt:300:    3.2     New Recovery Priority Number:
+doc3346.txt-301-            Brief Rationale:
+doc3347.txt-362-            __X__ No change is needed
+doc3347.txt:363:                                        -9-^L       3.2     New Recovery Priority Number:
+doc3347.txt-364-               Brief Rationale:
+doc3348.txt-430-                                         - 11 -
+doc3348.txt:431:^L       3.2     New Recovery Priority Number:
+doc3348.txt-432-               Brief Rationale:
+doc3349.txt-429-                                         - 11 -^L               __X__ No change is needed
+doc3349.txt:430:       3.2     New Recovery Priority Number:
+doc3349.txt-431-               Brief Rationale:
+doc3350.txt-571-              __X__ No change is needed
+doc3350.txt:572:      3.2     New Recovery Priority Number:
+doc3350.txt-573-              Brief Rationale:
+doc3352.txt-250-              __X_ No change is needed
+doc3352.txt:251:      3.2     New Recovery Priority Number: 2
+doc3352.txt-252-              Brief Rationale: This priority ranking reflects the chachaguak’s status as a
+doc3353.txt-445-            __X__ No change is needed
+doc3353.txt:446:    3.2     New Recovery Priority Number:
+doc3353.txt-447-            Brief Rationale:
+doc3354.txt-449-                ____ No change is needed
+doc3354.txt:450:        3.2     New Recovery Priority Number:
+doc3354.txt-451-                Brief Rationale:
+doc3553.txt-561-   X No Change
+doc3553.txt:562:New Recovery Priority Number and Brief Rationale:
+doc3553.txt-563-We recommend no change in the recovery priority number of 8 at this time. The taxon is a
+doc3554.txt-783- X      No Change
+doc3554.txt:784:New Recovery Priority Number and Brief Rationale: N/A
+doc3554.txt-785-VI. RECOMMENDATIONS FOR FUTURE ACTIONS
+doc3555.txt-534-   X    No Change
+doc3555.txt:535:New Recovery Priority Number and Brief Rationale: We recommend a change in the
+doc3555.txt-536-recovery priority number to 14. This indicates that Helianthemum greenei is a species with a
+doc3556.txt-933-__X__No change is needed
+doc3556.txt:934:III.B. New Recovery Priority Number __2__
+doc3556.txt-935-The previous priority number “1” (Annual Data Call Report 2007) places the species in a
+doc3557.txt-903-   X No Change
+doc3557.txt:904:New Recovery Priority Number and Brief Rationale: 11C.
+doc3557.txt-905-We recommend a change in the recovery priority number for Ambrosia pumila from 5C
+doc3558.txt-523-_X__ No Change
+doc3558.txt:524:New Recovery Priority Number and Brief Rationale: No change.
+doc3558.txt-525-VI. RECOMMENDATIONS FOR ACTIONS OVER THE NEXT 5 YEARS
+doc3560.txt-628-____ No Change
+doc3560.txt:629:New Recovery Priority Number and Brief Rationale:
+doc3560.txt-630-At the time of initiating this five-year review, the recovery priority number for Eriogonum
+doc3563.txt-466-_X__ No Change
+doc3563.txt:467:New Recovery Priority Number and Brief Rationale: No change. If the new taxonomic
+doc3563.txt-468-classification Streptanthus glandulosus niger is accepted, we will propose a change in the
+doc3568.txt-989-  X No Change
+doc3568.txt:990:New Recovery Priority Number and Brief Rationale: No Change
+doc3568.txt-991-VI. RECOMMENDATIONS FOR ACTIONS OVER THE NEXT 5 YEARS
+doc3578.txt-715-            X No change is needed
+doc3578.txt:716:          3.2       New recovery priority number: 5C
+doc3578.txt-717-                    We recommend a change in recovery priority number for Schoenocrambe
+doc3593.txt-627-               proctorii and Vernonia proctorii.
+doc3593.txt:628:       B. New Recovery Priority Number:
+doc3593.txt-629-         8C for A. chaseae. At the time of listing, the A. chaseae was recognized as species with
+doc3600.txt-652-         __x_ No change is needed
+doc3600.txt:653:3.2      New Recovery Priority Number: No change, remain as 5 for all four species.
+doc3600.txt-654-Brief Rationale: The threats remain high, but intensive management is needed and the threats
+doc3606.txt-684- X No Change
+doc3606.txt:685:New Recovery Priority Number and Brief Rationale: N/A
+doc3606.txt-686-VI. RECOMMENDATIONS FOR FUTURE ACTIONS
+doc3614.txt-895-_X_ No Change
+doc3614.txt:896:New Recovery Priority Number and Brief Rationale: No change.
+doc3614.txt-897-                                                   24^L                                                       2011 5-Year Review for Sidalcea pedata
+doc3615.txt-738-  X      No Change
+doc3615.txt:739:New Recovery Priority Number and Brief Rationale: The recovery priority number for
+doc3615.txt-740-Malacothrix indecora should be changed to 8, which is the correct number for a species which
+doc3617.txt-909-_X_ No Change
+doc3617.txt:910:New Recovery Priority Number and Brief Rationale: No Change
+doc3617.txt-911-VI. RECOMMENDATIONS FOR ACTIONS OVER THE NEXT 5 YEARS
+doc3622.txt-960-__X_ No Change
+doc3622.txt:961:New Recovery Priority Number and Brief Rationale: 7C
+doc3622.txt-962-We recommend a change in the recovery priority number for Dodecahema leptoceras from 1C to
+doc3638.txt-940-  X     No Change
+doc3638.txt:941:New Recovery Priority Number and Brief Rationale: No change at this time. The recovery
+doc3638.txt-942-priority number for Cirsium scariosum var. loncholepis is 2 according to the Service’s 2009
+doc3641.txt-618-_X_ No Change
+doc3641.txt:619:New Recovery Priority Number and Brief Rationale: Not applicable.
+doc3641.txt-620-VI. RECOMMENDATIONS FOR ACTIONS OVER THE NEXT 5 YEARS
+doc3643.txt-417-           X     No change is needed
+doc3643.txt:418:    3.2 New Recovery Priority Number: 5
+doc3643.txt-419-        Brief Rationale: Threats to the scaleshell and its habitat are high and still present
+doc3646.txt-533-        ____ No change is needed
+doc3646.txt:534:    3.2 New Recovery Priority Number: Retain as 8.
+doc3646.txt-535-        Brief Rationale: No change in the Recovery Priority Number is needed – a
+doc3779.txt-552-    X No change is needed
+doc3779.txt:553:   3.2     New Recovery Priority Number
+doc3779.txt-554-   At the start of this 5-year review, the
+doc3780.txt-897-   X No Change
+doc3780.txt:898:New Recovery Priority Number and Brief Rationale: No Change
+doc3780.txt-899-We recommend no change in the recovery priority number of 6C at this time. The taxon is a
+doc3786.txt-700-        No change is needed
+doc3786.txt:701:    3.2     New Recovery Priority Number
+doc3786.txt-702-    We do not recommend changing the recovery priority number.
+doc3789.txt-453-               __X_ No change is needed
+doc3789.txt:454:       3.2     New Recovery Priority Number:
+doc3789.txt-455-               Brief Rationale:
+doc3790.txt-393-               __X_ No change is needed
+doc3790.txt:394:       3.2     New Recovery Priority Number:
+doc3790.txt-395-               Brief Rationale:
+doc3791.txt-415-               __X_ No change is needed
+doc3791.txt:416:        3.2    New Recovery Priority Number:
+doc3791.txt-417-               Brief Rationale:
+doc3792.txt-398-               __X_ No change is needed
+doc3792.txt:399:       3.2     New Recovery Priority Number:
+doc3792.txt-400-               Brief Rationale:
+doc3793.txt-402-               __X_ No change is needed
+doc3793.txt:403:       3.2     New Recovery Priority Number:
+doc3793.txt-404-               Brief Rationale:
+doc3794.txt-479-               __X_ No change is needed
+doc3794.txt:480:       3.2     New Recovery Priority Number:
+doc3794.txt-481-               Brief Rationale:
+doc3795.txt-658-                __X_ No change is needed
+doc3795.txt:659:        3.2     New Recovery Priority Number:
+doc3795.txt-660-                Brief Rationale:
+doc3796.txt-509-               __X_ No change is needed
+doc3796.txt:510:       3.2     New Recovery Priority Number:
+doc3796.txt-511-               Brief Rationale:
+doc3797.txt-391-               __X_ No change is needed
+doc3797.txt:392:       3.2     New Recovery Priority Number:
+doc3797.txt-393-               Brief Rationale:
+doc3798.txt-504-                __X__ No change is needed
+doc3798.txt:505:       3.2      New Recovery Priority Number: N/A
+doc3798.txt-506-                Brief Rationale:
+doc3805.txt-655-                   X No change is needed
+doc3805.txt:656:         3.2    New Recovery Priority Number: NIA
+doc3805.txt-657- 4.0     RECOMMENDATIONS FOR FUTURE ACTIONS
+doc3809.txt-788-               __X_ No change is needed
+doc3809.txt:789:       3.2     New Recovery Priority Number:
+doc3809.txt-790-               Brief Rationale:
+doc3811.txt-466-               __X_ No change is needed
+doc3811.txt:467:       3.2     New Recovery Priority Number:
+doc3811.txt-468-               Brief Rationale:
+doc3813.txt-346-              __X_ No change is needed
+doc3813.txt:347:      3.2     New Recovery Priority Number:
+doc3813.txt-348-              Brief Rationale:
+doc3814.txt-353-               __X_ No change is needed
+doc3814.txt:354:       3.2     New Recovery Priority Number:
+doc3814.txt-355-               Brief Rationale:
+doc3815.txt-412-               __X_ No change is needed
+doc3815.txt:413:       3.2     New Recovery Priority Number:
+doc3815.txt-414-               Brief Rationale:
+doc3817.txt-449-               __X_ No change is needed
+doc3817.txt:450:        3.2    New Recovery Priority Number:
+doc3817.txt-451-               Brief Rationale:
+doc3820.txt-463-               __X_ No change is needed
+doc3820.txt:464:       3.2     New Recovery Priority Number:
+doc3820.txt-465-               Brief Rationale:
+doc3823.txt-545-               __X_ No change is needed
+doc3823.txt:546:       3.2     New Recovery Priority Number:
+doc3823.txt-547-               Brief Rationale:
+doc3824.txt-685-               __X_ No change is needed
+doc3824.txt:686:       3.2     New Recovery Priority Number:
+doc3824.txt-687-               Brief Rationale:
+doc3828.txt-810-the next 5-year review.
+doc3828.txt:811:3.2      New Recovery Priority Number: No change; remain at a recovery priority of 8.
+doc3828.txt-812-This indicates that H. todsenii is a full species with a moderate degree of threat and a high
+doc3829.txt-952-        __X_ No change is needed
+doc3829.txt:953:3.2     New Recovery Priority Number: 5C
+doc3829.txt-954-Brief Rationale: We recommend the recovery priority number be changed from 2 (high degree
+doc3830.txt-229-                  X     No, no change is needed.
+doc3830.txt:230:       B. New Recovery Priority Number: 5c
+doc3830.txt-231-       Auerodendron pauciflorum remains subject to a high degree of threat due to development
+doc3831.txt-820-            __X_ No change is needed
+doc3831.txt:821:    3.2   New Recovery Priority Number: No change
+doc3831.txt-822-4.0 RECOMMENDATIONS FOR FUTURE ACTIONS
+doc3840.txt-439-               __X__ No change is needed
+doc3840.txt:440:       3.2     New Recovery Priority Number:
+doc3840.txt-441-               Brief Rationale:
+doc3842_1.txt-442-               __X_ No change is needed
+doc3842_1.txt:443:       3.2     New Recovery Priority Number:
+doc3842_1.txt-444-               Brief Rationale:
+doc3846.txt-767-        __x_ No change is needed
+doc3846.txt:768:                                                   19^L3.2    New Recovery Priority Number: We recommend changing the recovery priority
+doc3846.txt-769-       number for two of these species (T. cokendolpheri and C. baronia) to 5C because the
+doc3848.txt-780-                 X No change is needed
+doc3848.txt:781:      3.2      New Recovery Priority Number: We do not recommend a change in the
+doc3848.txt-782-               Recovery Priority Number. The degree of threat is moderate, with a high degree
+doc3849.txt-670-                  X No change is needed
+doc3849.txt:671:  B. New Recovery Priority Number: 11c. Based on the information gathered and
+doc3849.txt-672-     analyzed in the five factor analysis conducted in this review, we believe that the degree
+doc3850.txt-868-            cavefish should be considered for elevation to endangered status.
+doc3850.txt:869:        B. New Recovery Priority Number ___5c__
+doc3850.txt-870-            The degree of threat to Ozark cavefish caves and recharge zones is high as
+doc3851.txt-337-         __X__ No change is needed
+doc3851.txt:338:    3.2  New Recovery Priority Number:
+doc3851.txt-339-         Brief Rationale:
+doc3853_1.txt-335-         __X__ No change is needed
+doc3853_1.txt:336:    3.2  New Recovery Priority Number:
+doc3853_1.txt-337-         Brief Rationale:
+doc3854.txt-311-            __X__ No change is needed
+doc3854.txt:312:    3.2     New Recovery Priority Number:
+doc3854.txt-313-            Brief Rationale:
+doc3857.txt-287-            __X__ No change is needed
+doc3857.txt:288:    3.2     New Recovery Priority Number:
+doc3857.txt-289-            Brief Rationale:
+doc3858.txt-355-            __X__ No change is needed
+doc3858.txt:356:    3.2     New Recovery Priority Number:
+doc3858.txt-357-            Brief Rationale:
+doc3859.txt-285-                            __X__ No change is needed
+doc3859.txt:286:    3.2      New Recovery Priority Number:
+doc3859.txt-287-             Brief Rationale:
+doc3861.txt-314-         __X__ No change is needed
+doc3861.txt:315:    3.2  New Recovery Priority Number:
+doc3861.txt-316-         Brief Rationale:
+doc3864.txt-388-            _X__ No change is needed
+doc3864.txt:389:    3.2     New Recovery Priority Number: N/A
+doc3864.txt-390-            Brief Rationale:
+doc3865.txt-296-                __X_ No change is needed
+doc3865.txt:297:        3.2     New Recovery Priority Number: N/A
+doc3865.txt-298-                Brief Rationale:
+doc3866_1.txt-378-                _X__ No change is needed
+doc3866_1.txt:379:        3.2     New Recovery Priority Number: N/A
+doc3866_1.txt-380-                Brief Rationale:
+doc3868.txt-510-               __X_ No change is needed
+doc3868.txt:511:        3.2    New Recovery Priority Number:
+doc3868.txt-512-               Brief Rationale:
+doc3869.txt-385-               __X_ No change is needed
+doc3869.txt:386:        3.2    New Recovery Priority Number:
+doc3869.txt-387-               Brief Rationale:
+doc3870.txt-537-               __X_ No change is needed
+doc3870.txt:538:        3.2    New Recovery Priority Number:
+doc3870.txt-539-               Brief Rationale:
+doc3871_1.txt-405-               __X_ No change is needed
+doc3871_1.txt:406:       3.2     New Recovery Priority Number:
+doc3871_1.txt-407-               Brief Rationale:
+doc3872.txt-387-               __X__ No change is needed
+doc3872.txt:388:        3.2    New Recovery Priority Number:
+doc3872.txt-389-               Brief Rationale:
+doc3873_1.txt-262-            __X_ No change is needed
+doc3873_1.txt:263:    3.2     New Recovery Priority Number: N/A
+doc3873_1.txt-264-            Brief Rationale:
+doc3875.txt-402-               __X_ No change is needed
+doc3875.txt:403:       3.2     New Recovery Priority Number:
+doc3875.txt-404-               Brief Rationale:
+doc3876.txt-495-               __X__ No change is needed
+doc3876.txt:496:       3.2     New Recovery Priority Number:
+doc3876.txt-497-               Brief Rationale:
+doc3877.txt-455-               __X_ No change is needed
+doc3877.txt:456:       3.2     New Recovery Priority Number:
+doc3877.txt-457-               Brief Rationale:
+doc3879.txt-441-               __X_ No change is needed
+doc3879.txt:442:       3.2     New Recovery Priority Number:
+doc3879.txt-443-               Brief Rationale:
+doc3881.txt-583-            __x_ No change is needed
+doc3881.txt:584:    3.2     New Recovery Priority Number _NA____
+doc3881.txt-585-            .
+doc3884.txt-962-  X    No Change
+doc3884.txt:963:                                                 23^LNew Recovery Priority Number and Brief Rationale: 12
+doc3884.txt-964-The recovery priority number for Deinandra increscens ssp. villosa is currently listed as 3,
+doc3885.txt-825-       No change needed
+doc3885.txt:826:   3.2     New Recovery Priority Number
+doc3885.txt-827-   No change is warranted from current recovery priority number of 6c.
+doc3886.txt-911-__X__ No Change
+doc3886.txt:912:New Recovery Priority Number and Brief Rationale: No change. There does not appear to
+doc3886.txt-913-be an overall decline or increase in Alameda whipsnake populations or threats since the time of
+doc3890.txt-727-  X No change is needed
+doc3890.txt:728:New Recovery Priority Number and Brief Rationale:
+doc3890.txt-729-Currently, the recovery priority number for this species is 8C. A recovery priority number of 8C
+doc3891.txt-783-__X__ No Change
+doc3891.txt:784:New Recovery Priority Number and Brief Rationale: The Service has determined that the
+doc3891.txt-785-new priority number for Ceanothus ferrisiae should be upgraded from 14 to 8C, which indicates
+doc3892_1.txt-345-_X_ No Change
+doc3892_1.txt:346:New Recovery Priority Number and Brief Rationale: No change.
+doc3892_1.txt-347-VI. RECOMMENDATIONS FOR ACTIONS OVER THE NEXT 5 YEARS
+doc3893.txt-786- x No Change
+doc3893.txt:787:New Recovery Priority Number and Brief Rationale:
+doc3893.txt-788-There is no change.
+doc3894.txt-840-  X No Change
+doc3894.txt:841:New Recovery Priority Number and Brief Rationale: No change
+doc3894.txt-842-Listing and Reclassification Priority Number and Brief Rationale:
+doc3896.txt-576-_X_ No Change
+doc3896.txt:577:New Recovery Priority Number and Brief Rationale:
+doc3896.txt-578-No change in the recovery priority number or status is recommended.
+doc3897_1.txt-407-_X__ No Change
+doc3897_1.txt:408:New Recovery Priority Number and Brief Rationale: No change.
+doc3897_1.txt-409-                                                  12
+doc3898.txt-541-__X_ No Change
+doc3898.txt:542:New Recovery Priority Number and Brief Rationale: No change in recovery priority number.
+doc3898.txt-543-VI. RECOMMENDATIONS FOR ACTIONS OVER THE NEXT 5 YEARS
+doc3899.txt-347-  X No change is needed
+doc3899.txt:348:New Recovery Priority Number: No change. Due to the highly restricted range of the species
+doc3899.txt-349-and the likely perpetual threat of non-native invasive plants species to Calochortus tiburonensis
+doc3900.txt-419-___X_ No Change
+doc3900.txt:420:New Recovery Priority Number and Brief Rationale: We recommend maintaining the current
+doc3900.txt-421-Recovery Priority Number.
+doc3901.txt-466-A.   Recommended Classification: No change is needed.
+doc3901.txt:467:B.   New Recovery Priority Number: 5 (see explanation in “Synthesis” above)
+doc3901.txt-468-IV.  RECOMMENDATIONS FOR FUTURE ACTIONS – Continued efforts to
+doc3902.txt-332-_X_ No change is needed
+doc3902.txt:333:New Recovery Priority Number and Brief Rationale: The current number for the Eskimo
+doc3902.txt-334-curlew is 5. This recovery priority number reflects a species that faces a high degree of threat
+doc3903.txt-296-              __X_ No change is needed
+doc3903.txt:297:     3.2      New Recovery Priority Number: N/A
+doc3903.txt-298-              Brief Rationale: N/A
+doc3903.txt-416-   3.1   Recommended Classification:.................................................................................... 12
+doc3903.txt:417:   3.2   New Recovery Priority Number:............................................................................... 12
+doc3903.txt-418-   3.3   Listing and Reclassification Priority Number: ........................................................ 12
+doc3903.txt-760-               __X_ No change is needed
+doc3903.txt:761:       3.2     New Recovery Priority Number: N/A
+doc3903.txt-762-               Brief Rationale: N/A
+doc3903.txt-899-   3.1   Recommended Classification:.................................................................................... 10
+doc3903.txt:900:   3.2   New Recovery Priority Number:............................................................................... 10
+doc3903.txt-901-   3.3   Listing and Reclassification Priority Number: ........................................................ 10
+doc3945_1.txt-722-                __X__ No change is needed
+doc3945_1.txt:723:         3.2    New Recovery Priority Number: No Change
+doc3945_1.txt-724-                Brief Rationale:
+doc3946_1.txt-795-                    X No change is needed
+doc3946_1.txt:796:        3.2       New Recovery Priority Number: 6
+doc3946_1.txt-797-                  Brief Rationale:
+doc3947.txt-484-__X__ No Change
+doc3947.txt:485:New Recovery Priority Number and Brief Rationale: No change.
+doc3947.txt-486-VI.     RECOMMENDATIONS FOR ACTIONS OVER THE NEXT 5 YEARS
+doc3948.txt-590- X No change
+doc3948.txt:591:New Recovery Priority Number and Brief Rationale: N/A
+doc3948.txt-592-VI.      RECOMMENDATIONS FOR FUTURE ACTIONS OVER THE NEXT 5 YEARS
+doc3949_1.txt-926-   X   No Change
+doc3949_1.txt:927:New Recovery Priority Number and Brief Rationale: 5. We assign a new recovery priority
+doc3949_1.txt-928-number of 5. This number indicates that the taxon is a species facing a high degree of threat with
+doc3951.txt-677-                _X_ No change is needed
+doc3951.txt:678:         3.2    New Recovery Priority Number: N/A
+doc3951.txt-679-                Brief Rationale:
+doc3953.txt-820-               _ X No change is needed
+doc3953.txt:821:       B.      New Recovery Priority Number: NA
+doc3953.txt-822-IV.    RECOMMENDATIONS FOR FUTURE ACTIONS (listed in order of priority)
+doc3955.txt-671-                                                                                          17
+doc3955.txt:672:^L    B.    New Recovery Priority Number
+doc3955.txt-673-          Due to the few remaining populations, the decline in population sizes of existing
+doc3957.txt-489-         __X__ No change is needed
+doc3957.txt:490:3.2      New Recovery Priority Number: No change needed
+doc3957.txt-491-         Brief Rationale: A listed species with a recovery priority number of 2c is one that is
+doc3961.txt-781-__X_ No Change
+doc3961.txt:782:New Recovery Priority Number and Brief Rationale: No Change
+doc3961.txt-783-VI. RECOMMENDATIONS FOR ACTIONS OVER THE NEXT 5 YEARS
+doc3964.txt-594-__X__ No Change
+doc3964.txt:595:New Recovery Priority Number and Brief Rationale: No change.
+doc3964.txt-596-VI.     RECOMMENDATIONS FOR ACTIONS OVER THE NEXT 5 YEARS
+doc3967.txt-951-            ____ No change is needed
+doc3967.txt:952:    3.2     New Recovery Priority Number: 3C
+doc3967.txt-953-            Brief Rationale:
+doc3970.txt-666-     X      No change is needed
+doc3970.txt:667:   3.2      New Recovery Priority Number: 8 (no change)
+doc3970.txt-668-   Brief Rationale: Threats facing the species are moderate and ongoing across the entire
+doc3971.txt-866-         X    No change is needed
+doc3971.txt:867:   3.2  New Recovery Priority Number: No change is needed (Remains a 9C).
+doc3971.txt-868-        Brief Rationale
+doc3973.txt-804- X No change is needed
+doc3973.txt:805:New Recovery Priority Number and Brief Rationale:
+doc3973.txt-806-No change is recommended. The recovery number will remain a 9, as discussed above.
+doc3979.txt-852-                 X No change is needed
+doc3979.txt:853:3.2    New Recovery Priority Numbers: No change. Echinocereus viridiflorus var. davisii:
+doc3979.txt-854-to remain as 3; Escobaria minima to remain as 2.
+doc3985.txt-736-_X_ No Change
+doc3985.txt:737:New Recovery Priority Number and Brief Rationale: It is recommended that the recovery
+doc3985.txt-738-priority number not change.
+doc3986.txt-461-                   X      No change is needed
+doc3986.txt:462:    3.2     New Recovery Priority Number: 8C
+doc3986.txt-463-            Brief Rationale: Although the population appears to be stable, previously known and
+doc3987.txt-908-                __X_ No change is needed
+doc3987.txt:909:        B.      New Recovery Priority Number _NA_
+doc3987.txt-910-        The recovery priority number for P. ruthii should remain 5C, as the species has
+doc3988.txt-442-             No change is needed
+doc3988.txt:443:         3.2     New Recovery Priority Number
+doc3988.txt-444-         No change is recommended. The current recovery priority number for the Utah prairie
+doc3989_1.txt-425-              No change is needed
+doc3989_1.txt:426:              B.       New Recovery Priority Number: 8: Previous Priority Number is
+doc3989_1.txt-427-              8C; however based on current information, there is no justification in our
+doc3994.txt-575-_X_ No Change
+doc3994.txt:576:New Recovery Priority Number and Brief Rationale: No change is recommended at this
+doc3994.txt-577-time.
+doc3996.txt-477-          X No change is needed
+doc3996.txt:478:     B. New Recovery Priority Number: No change.
+doc3996.txt-479-IV. RECOMMENDATIONS FOR FUTURE ACTIONS
+doc3998.txt-223-        Malacothamnus clementinus on San Clemente Island.
+doc3998.txt:224:New Recovery Priority Number and Brief Rationale:
+doc3998.txt-225-No change is requested at this time. The Recovery Priority Number for Malacothamnus
+doc3999.txt-238-         traskiae on San Clemente Island.
+doc3999.txt:239:New Recovery Priority Number and Brief Rationale:
+doc3999.txt-240-No change requested at this time. The Recovery Priority Number for Acmispon dendroideus var.
+doc4000.txt-234-        grisea on San Clemente Island.
+doc4000.txt:235:New Recovery Priority Number and Brief Rationale:
+doc4000.txt-236-No change is requested at this time. The Recovery Priority Number for Castilleja grisea is 14,
+doc4006.txt-519-                                                 14
+doc4006.txt:520:^LNew Recovery Priority Number and Brief Rationale: No change in recovery priority number.
+doc4006.txt-521-VI. RECOMMENDATIONS FOR ACTIONS OVER THE NEXT 5 YEARS
+doc4007_1.txt-734-                _ X__ No change is needed
+doc4007_1.txt:735:New Recovery Priority Number and Brief Rationale: 3C (no change)
+doc4007_1.txt-736-VI. RECOMMENDATIONS FOR ACTIONS OVER THE NEXT 5 YEARS
+doc4008.txt-575-__X No Change
+doc4008.txt:576:New Recovery Priority Number and Brief Rationale: No change needed.
+doc4008.txt-577-VI. RECOMMENDATIONS FOR ACTIONS OVER THE NEXT 5 YEARS
+doc4010.txt-487-X___ No Change
+doc4010.txt:488:New Recovery Priority Number and Brief Rationale: The Service has determined that the
+doc4010.txt-489-new priority number for Sidalcea keckii should be upgraded from 8 to 5C, which indicates a high
+doc4011.txt-935-_X_ No Change
+doc4011.txt:936:New Recovery Priority Number and Brief Rationale: We recommend that the recovery
+doc4011.txt-937-priority number remain 8. The threats remain imminent, but moderate in magnitude, given the
+doc4012.txt-971-_X__ No Change
+doc4012.txt:972:New Recovery Priority Number and Brief Rationale: No change.
+doc4012.txt-973-                                                   28
+doc4013.txt-176-    (5) Complete a recovery outline for Monardella viminea.
+doc4013.txt:177:New Recovery Priority Number and Brief Rationale: Change from RPN 3 to RPN 2.
+doc4013.txt-178-The current recovery priority number is 3, indicating a high degree of threat and high potential
+doc4013.txt-179-for recovery of Monardella viminea. However, given the recent reclassification of M. viminea
+doc4013.txt:180:from a subspecies to a species, the new recovery priority number will be 2.
+doc4013.txt-181-                                                   6
+doc4014.txt-618-__X__ No Change
+doc4014.txt:619:New Recovery Priority Number and Brief Rationale: No change recommended.
+doc4014.txt-620-VI. RECOMMENDATIONS FOR ACTIONS OVER THE NEXT 5 YEARS
+doc4015.txt-571-__X_ No change
+doc4015.txt:572:New Recovery Priority Number and Brief Rationale: No change needed.
+doc4015.txt-573-VI. RECOMMENDATIONS FOR ACTIONS OVER THE NEXT 5 YEARS-
+doc4016.txt-654-__X_ No Change
+doc4016.txt:655:New Recovery Priority Number and Brief Rationale:
+doc4016.txt-656-3C
+doc4017.txt-628-__X__ No Change
+doc4017.txt:629:New Recovery Priority Number and Brief Rationale: No change is recommended.
+doc4017.txt-630-VI. RECOMMENDATIONS FOR ACTIONS OVER THE NEXT 5 YEARS
+doc4018.txt-435-__X_ No Change
+doc4018.txt:436:New Recovery Priority Number and Brief Rationale: No change in recovery priority number
+doc4018.txt-437-is recommended.
+doc4028.txt-598-_X__ No Change
+doc4028.txt:599:New Recovery Priority Number and Brief Rationale: 6c. We assign a new recovery priority
+doc4028.txt-600-number of 6c (previously 3). Based on a 1 to 18 ranking system where 1 is the highest-ranked
+doc4032.txt-549-            X_ No, no change is needed.
+doc4032.txt:550:     B.  New Recovery Priority Number: 5
+doc4032.txt-551-         Rationale: The original recovery priority number identified a moderate
+doc4036.txt-925-         _X__ No change is needed
+doc4036.txt:926:3.2      New Recovery Priority Number: 5.
+doc4036.txt-927-Brief Rationale: We recommend the recovery priority number be changed from a 2 (high
+doc4040.txt-770- X No change
+doc4040.txt:771:New Recovery Priority Number and Brief Rationale: NA. We recommend that the recovery
+doc4040.txt-772-priority number remain at 8.
+doc4044.txt-280-            No change to the status of the species is needed at this time.
+doc4044.txt:281:    3.2     New Recovery Priority Number
+doc4044.txt-282-            No change is needed.
+doc4047.txt-900-          No change is needed
+doc4047.txt:901:   3.2.       New Recovery Priority Number
+doc4047.txt-902-      No change in recovery priority number is recommended at this time. The recovery
+doc4050.txt-989-                   No change is needed
+doc4050.txt:990:    3.2      New Recovery Priority Number __8 _
+doc4050.txt-991-             Brief Rationale:
+doc4053.txt-709-               __X__ No change is needed
+doc4053.txt:710:        3.2    New Recovery Priority Number:
+doc4053.txt-711-               Brief Rationale:
+doc4054.txt-439-                __X__ No change is needed
+doc4054.txt:440:        3.2     New Recovery Priority Number:
+doc4054.txt-441-                Brief Rationale:
+doc4055.txt-434-                __X__ No change is needed
+doc4055.txt:435:        3.2     New Recovery Priority Number:
+doc4055.txt-436-                Brief Rationale:
+doc4056.txt-435-                __X__ No change is needed
+doc4056.txt:436:        3.2     New Recovery Priority Number:
+doc4056.txt-437-                Brief Rationale:
+doc4057.txt-690-                __X__ No change is needed
+doc4057.txt:691:        3.2     New Recovery Priority Number:
+doc4057.txt-692-                Brief Rationale:
+doc4058.txt-621-                __X__ No change is needed
+doc4058.txt:622:        3.2     New Recovery Priority Number:
+doc4058.txt-623-                Brief Rationale:
+doc4059.txt-454-                __X__ No change is needed
+doc4059.txt:455:        3.2     New Recovery Priority Number:
+doc4059.txt-456-                Brief Rationale:
+doc4060.txt-531-                                           16
+doc4060.txt:532:^L      3.2     New Recovery Priority Number:
+doc4060.txt-533-              Brief Rationale:
+doc4061.txt-431-                __X__ No change is needed
+doc4061.txt:432:        3.2     New Recovery Priority Number:
+doc4061.txt-433-                Brief Rationale:
+doc4062.txt-786-                                                21
+doc4062.txt:787:^L      3.2     New Recovery Priority Number:
+doc4062.txt-788-              Brief Rationale:
+doc4063.txt-454-                __X__ No change is needed
+doc4063.txt:455:        3.2     New Recovery Priority Number:
+doc4063.txt-456-                Brief Rationale:
+doc4064.txt-427-                __X__ No change is needed
+doc4064.txt:428:        3.2     New Recovery Priority Number:
+doc4064.txt-429-                Brief Rationale:
+doc4065.txt-419-                __X__ No change is needed
+doc4065.txt:420:        3.2     New Recovery Priority Number:
+doc4065.txt-421-                Brief Rationale:
+doc4066.txt-437-                __X__ No change is needed
+doc4066.txt:438:        3.2     New Recovery Priority Number:
+doc4066.txt-439-                Brief Rationale:
+doc4067.txt-576-                __X__ No change is needed
+doc4067.txt:577:        3.2     New Recovery Priority Number:
+doc4067.txt-578-                Brief Rationale:
+doc4068.txt-333-                __X_ No change is needed
+doc4068.txt:334:        3.2     New Recovery Priority Number:
+doc4068.txt-335-                Brief Rationale:
+doc4069.txt-705-                __X__ No change is needed
+doc4069.txt:706:        3.2     New Recovery Priority Number:
+doc4069.txt-707-                Brief Rationale:
+doc4070.txt-412-                                                13
+doc4070.txt:413:^L      3.2      New Recovery Priority Number:
+doc4070.txt-414-               Brief Rationale:
+doc4071.txt-367-                __X__ No change is needed
+doc4071.txt:368:        3.2     New Recovery Priority Number:
+doc4071.txt-369-                Brief Rationale:
+doc4072.txt-426-                __X__ No change is needed
+doc4072.txt:427:        3.2     New Recovery Priority Number:
+doc4072.txt-428-                Brief Rationale:
+doc4073.txt-418-                __X__ No change is needed
+doc4073.txt:419:        3.2     New Recovery Priority Number:
+doc4073.txt-420-                Brief Rationale:
+doc4074.txt-548-                __X__ No change is needed
+doc4074.txt:549:        3.2     New Recovery Priority Number:
+doc4074.txt-550-                Brief Rationale:
+doc4075.txt-393-                __X__ No change is needed
+doc4075.txt:394:        3.2     New Recovery Priority Number:
+doc4075.txt-395-                Brief Rationale:
+doc4076.txt-466-                __X__ No change is needed
+doc4076.txt:467:        3.2     New Recovery Priority Number:
+doc4076.txt-468-                Brief Rationale:
+doc4077.txt-407-                __X__ No change is needed
+doc4077.txt:408:        3.2     New Recovery Priority Number:
+doc4077.txt-409-                Brief Rationale:
+doc4078.txt-414-                __X__ No change is needed
+doc4078.txt:415:        3.2     New Recovery Priority Number:
+doc4078.txt-416-                Brief Rationale:
+doc4079.txt-410-                __X__ No change is needed
+doc4079.txt:411:        3.2     New Recovery Priority Number:
+doc4079.txt-412-                Brief Rationale:
+doc4080.txt-431-                                                 13
+doc4080.txt:432:^L      3.2     New Recovery Priority Number:
+doc4080.txt-433-              Brief Rationale:
+doc4081.txt-670-                __X__ No change is needed
+doc4081.txt:671:        3.2     New Recovery Priority Number:
+doc4081.txt-672-                Brief Rationale:
+doc4083.txt-414-                __X__ No change is needed
+doc4083.txt:415:        3.2     New Recovery Priority Number:
+doc4083.txt-416-                Brief Rationale:
+doc4084.txt-420-                __X__ No change is needed
+doc4084.txt:421:        3.2     New Recovery Priority Number:
+doc4084.txt-422-                Brief Rationale:
+doc4085.txt-477-                                           14
+doc4085.txt:478:^L      3.2     New Recovery Priority Number:
+doc4085.txt-479-              Brief Rationale:
+doc4086.txt-528-                __X__ No change is needed
+doc4086.txt:529:        3.2     New Recovery Priority Number:
+doc4086.txt-530-                Brief Rationale:
+doc4087.txt-530-                __X_ No change is needed
+doc4087.txt:531:        3.2     New Recovery Priority Number:
+doc4087.txt-532-                Brief Rationale:
+doc4088.txt-363-                __X__ No change is needed
+doc4088.txt:364:        3.2     New Recovery Priority Number:
+doc4088.txt-365-                Brief Rationale:
+doc4089.txt-420-                __X__ No change is needed
+doc4089.txt:421:        3.2     New Recovery Priority Number:
+doc4089.txt-422-                Brief Rationale:
+doc4090.txt-869-              __X__ No change is needed
+doc4090.txt:870:      3.2     New Recovery Priority Number:
+doc4090.txt-871-              Brief Rationale:
+doc4092.txt-369-        __X__ No change is needed
+doc4092.txt:370:    3.2 New Recovery Priority Number:
+doc4092.txt-371-        Brief Rationale:
+doc4093.txt-413-        __X__ No change is needed
+doc4093.txt:414:    3.2 New Recovery Priority Number:
+doc4093.txt-415-        Brief Rationale:
+doc4094.txt-469-           __X__ No change is needed
+doc4094.txt:470:    3.2    New Recovery Priority Number:
+doc4094.txt-471-           Brief Rationale:
+doc4095.txt-391-           __X__ No change is needed
+doc4095.txt:392:    3.2    New Recovery Priority Number:
+doc4095.txt-393-           Brief Rationale:
+doc4096.txt-332-        __X__ No change is needed
+doc4096.txt:333:                                             10^L    3.2    New Recovery Priority Number:
+doc4096.txt-334-           Brief Rationale:
+doc4097.txt-418-           __X__ No change is needed
+doc4097.txt:419:    3.2    New Recovery Priority Number:
+doc4097.txt-420-           Brief Rationale:
+doc4098.txt-404-        __X__ No change is needed
+doc4098.txt:405:    3.2 New Recovery Priority Number:
+doc4098.txt-406-        Brief Rationale:
+doc4099.txt-424-           __X__ No change is needed
+doc4099.txt:425:    3.2    New Recovery Priority Number:
+doc4099.txt-426-           Brief Rationale:
+doc4100.txt-445-           __X__ No change is needed
+doc4100.txt:446:    3.2    New Recovery Priority Number:
+doc4100.txt-447-           Brief Rationale:
+doc4101.txt-396-           __X__ No change is needed
+doc4101.txt:397:    3.2    New Recovery Priority Number:
+doc4101.txt-398-           Brief Rationale:
+doc4102.txt-405-        __X__ No change is needed
+doc4102.txt:406:    3.2 New Recovery Priority Number:
+doc4102.txt-407-        Brief Rationale:
+doc4103.txt-423-           __X__ No change is needed
+doc4103.txt:424:    3.2    New Recovery Priority Number:
+doc4103.txt-425-           Brief Rationale:
+doc4105.txt-850-____ No Change
+doc4105.txt:851:New Recovery Priority Number and Brief Rationale: No change.
+doc4105.txt-852-VI. RECOMMENDATIONS FOR ACTIONS OVER THE NEXT 5 YEARS
+doc4106.txt-764-         X    No change is needed
+doc4106.txt:765:3.2     New Recovery Priority Number: We propose that the Big Bend gambusia, currently
+doc4106.txt:766:        with a recovery priority number of 2, be assigned a new Recovery Priority Number of 5.
+doc4106.txt-767-        Brief Rationale: The Big Bend gambusia’s entire range is limited to one small spring
+doc4110.txt-634-              __X_ No change is needed
+doc4110.txt:635:      3.2     New Recovery Priority Number: No change
+doc4110.txt-636-              Brief Rationale: American hart’s-tongue fern is a variety of a full species that is
+doc4130.txt-500-        __X_ No Change
+doc4130.txt:501:New Recovery Priority Number: N/A
+doc4130.txt-502-                                                   14^LVI.     RECOMMENDATIONS FOR FUTURE ACTIONS
+doc4135.txt-270-        __X__ No change is needed
+doc4135.txt:271:    3.2 New Recovery Priority Number: no change
+doc4135.txt-272-        Brief Rationale:
+doc4136.txt-700-         _______X_______ No, no change is needed
+doc4136.txt:701:     B.  New Recovery Priority Number:
+doc4136.txt-702-         No change recommended at this time. However, if future surveys of the
+doc4145.txt-593-            X_     No, no change is needed.
+doc4145.txt:594:     B.  New Recovery Priority Number: _5_.
+doc4145.txt-595-         Rationale: The original recovery priority number identified a moderate
+doc4146.txt-723-             __X_ No change is needed
+doc4146.txt:724:     B.      New Recovery Priority Number
+doc4146.txt-725-             Yellowfin Madtom: __8__
+doc4147.txt-400-          X No change is needed
+doc4147.txt:401:     B. New Recovery Priority Number: No change.
+doc4147.txt-402-IV. RECOMMENDATIONS FOR FUTURE ACTIONS
+doc4151.txt-734-  X No Change
+doc4151.txt:735:New Recovery Priority Number and Brief Rationale: The current Recovery Priority Number
+doc4151.txt-736-is 14c, indicating a low degree of threat, a high recovery potential, and a potential conflict, in this
+doc4152.txt-524-                X No change is needed
+doc4152.txt:525:New Recovery Priority Number: N/A
+doc4152.txt-526-VI. RECOMMENDATIONS FOR FUTURE ACTIONS
+doc4153.txt-434-            ____X__ No change needed
+doc4153.txt:435:    3.2     New Recovery Priority Number: Not necessary.
+doc4153.txt-436-    3.3     Listing and Reclassification Priority Number: Not necessary.
+doc4155.txt-666-                __X_ No change is needed
+doc4155.txt:667:New Recovery Priority Number: N/A
+doc4155.txt-668-VI. RECOMMENDATIONS FOR FUTURE ACTIONS
+doc4157.txt-763-                 _ X_ No change is needed
+doc4157.txt:764:        3.2      New Recovery Priority Number
+doc4157.txt-765-                 No change is needed; remain a priority 2.
+doc4169.txt-571- X No change is needed
+doc4169.txt:572:New Recovery Priority Number and Brief Rationale: N/A
+doc4169.txt-573-V. RECOMMENDATIONS FOR ACTIONS OVER THE NEXT 5 YEARS
+doc4171.txt-388-                  X     No, no change is needed.
+doc4171.txt:389:       B. New Recovery Priority Number: 5c
+doc4171.txt-390-       Daphnopsis helleriana remains subject to a high degree of threat due to urban
+doc4173.txt-631-      No Change
+doc4173.txt:632:New Recovery Priority Number and Brief Rationale:
+doc4173.txt-633-We recommend no change in the recovery priority number of 15 at this time. The taxon is a
+doc4174.txt-347-_X_ No Change
+doc4174.txt:348:New Recovery Priority Number and Brief Rationale: No change is recommended at this
+doc4174.txt-349-time.
+doc4188.txt-694-___X__ No Change
+doc4188.txt:695:New Recovery Priority Number and Brief Rationale: No change recommended.
+doc4188.txt-696-VI. RECOMMENDATIONS FOR ACTIONS OVER THE NEXT 5 YEARS
+doc4190.txt-625-X No Change
+doc4190.txt:626:New Recovery Priority Number and Brief Rationale: N/A.
+doc4190.txt-627-                                                      18
+doc4258.txt-718-               X No change is needed
+doc4258.txt:719:    3.2      New Recovery Priority Number: We propose that the Leon Springs pupfish,
+doc4258.txt-720-             currently with a Recovery Priority Number of 2, be assigned a new Recovery
+doc4260.txt-739-                _X_ No change is needed
+doc4260.txt:740:3.2     New Recovery Priority Number (RPN): We recommend changing the RPN from 2 to
+doc4260.txt-741-8. A RPN of 2 means the degree of threat is high, the recovery potential is high, and the taxon is
+doc4261.txt-891-    __X_ No change is needed
+doc4261.txt:892:3.2 New Recovery Priority Number: No change is needed. The recovery priority number
+doc4261.txt-893-    should remain as a 2, given that the level of threat continues to be high, the recovery
+doc4262.txt-234-        __X_ No change is needed
+doc4262.txt:235:3.2.    New Recovery Priority Number: No change, remain as 9C.
+doc4262.txt-236-The Mexican spotted owl is currently classified as a 9C, a subspecies with a moderate degree of
+doc4264.txt-960-        __X_No change is needed
+doc4264.txt:961:3.2     New Recovery Priority Number
+doc4264.txt-962-        This species is re-assigned a Recovery Priority Number of 11.
+doc4274.txt-757-concerning, but do not warrant a change in classification of the species at this time.
+doc4274.txt:758:3.2      New Recovery Priority Number: No change is warranted
+doc4274.txt-759-3.3      Listing and Reclassification Priority Number: Not applicable
+doc4276.txt-392-                X      No change is needed.
+doc4276.txt:393:     B.      New Recovery Priority Number:              N/A
+doc4276.txt-394-                                                   11
+doc4325.txt-637-3.1     Recommended Classification: Uplist from threatened to endangered.
+doc4325.txt:638:3.2     New Recovery Priority Number: 5
+doc4325.txt-639-        We recommend reclassification from a 2, indicative of a high degree of threat with a
+doc4327.txt-701-          The Arkansas fatmucket should be reclassified to endangered.
+doc4327.txt:702:     B. New Recovery Priority Number __5___
+doc4327.txt-703-          The degree of threat to the Arkansas fatmucket is high because there is a continual
+doc4329.txt-581-     A.  Recommended Classification: Downlist to Threatened
+doc4329.txt:582:     B.  New Recovery Priority Number: N/A – see Synthesis
+doc4329.txt-583-     C.  Listing and Reclassification Priority Number: 6 – The Service has not been
+doc4330.txt-589-             _X_ No change is needed
+doc4330.txt:590:    3.2      New Recovery Priority Number
+doc4330.txt-591-             _X_ No change is needed
+doc4331.txt-506-                 X No change is needed.
+doc4331.txt:507:     B.      New Recovery Priority Number: 17 Based on the above analysis, we believe
+doc4331.txt-508-             that both the level of threat to the species, and the recovery potential are low.
+doc4332.txt-596-    species is limited.
+doc4332.txt:597:    B. New Recovery Priority Number: N/A. Recovery priority number
+doc4332.txt-598-IV. RECOMMENDATIONS FOR FUTURE ACTION
+doc4334.txt-923-  X No Change
+doc4334.txt:924:New Recovery Priority Number and Brief Rationale:
+doc4334.txt-925-No change to the recovery priority number is recommended at this time. Palos Verdes blue
+doc4344.txt-782-                 No change is needed
+doc4344.txt:783:         3.2     New Recovery Priority Number
+doc4344.txt-784-                 Not applicable
+doc4351.txt-887-                       _____X_____ No, no change is needed
+doc4351.txt:888:       B.      New Recovery Priority Number:
+doc4351.txt-889-                               N/A
+doc4355.txt-762-                   X No change is needed
+doc4355.txt:763:         3.2     New Recovery Priority Number: We do not recommend a change in the
+doc4355.txt-764-                 Recovery Priority Number. The degree of threat is high, with a high degree of
+doc4357.txt-633-              ____X____ No change is needed
+doc4357.txt:634:                                                16^L    B.      New Recovery Priority Number
+doc4357.txt-635-            We are not recommending a change in the recovery priority number.
+doc4359.txt-570-     potential.
+doc4359.txt:571:         B. New Recovery Priority Number: _8_ The Service recommends a change on the
+doc4359.txt-572-         species’ Recovery Priority Number (RPN). At the time of listing the RPN for Wheeler’s
+doc4366.txt-752-          X No change is needed
+doc4366.txt:753:     B. New Recovery Priority Number: No change.
+doc4366.txt-754-IV. RECOMMENDATIONS FOR FUTURE ACTIONS
+doc4367.txt-443-               original threats to the species have not been abated.
+doc4367.txt:444:       B.      New Recovery Priority Number _8___
+doc4367.txt-445-               Recovery Priority Number of 8 to reflect “moderate”
+doc4434.txt-566-                __x__ No change is needed
+doc4434.txt:567:3.2     New Recovery Priority Number: No change needed; remain as 2C.
+doc4434.txt-568-        Brief Rationale: A listed species with a recovery priority number of 2C is one that has a
+doc4438.txt-562-        __X_ No change is needed
+doc4438.txt:563:3.2     New Recovery Priority Number: No change; remain as 2.
+doc4438.txt-564-                                                  15
+doc4441.txt-648-          X__ No change is needed
+doc4441.txt:649:     B.   New Recovery Priority Number __8__
+doc4441.txt-650-          This species continues to support placement under “high” for degree of recovery
+doc4442.txt-822-                _X_ No change is needed
+doc4442.txt:823:3.2     New Recovery Priority Number (RPN): No change, remain as 8.
+doc4442.txt-824-We recommend maintaining the RPN of 8, indicating the degree of threat is moderate, the
+doc4446.txt-786-  X No Change
+doc4446.txt:787:New Recovery Priority Number and Brief Rationale: Not applicable.
+doc4446.txt-788-                                                    21
+doc4447.txt-525-                                                   13
+doc4447.txt:526:^L    B. New Recovery Priority Number and Brief Rationale: 8. In the Recovery Plan, we
+doc4447.txt-527-       designated the recovery priority number of 2; this indicates a species with a high degree
+doc4448.txt-622-                  X No, no change is needed.
+doc4448.txt:623:B. New Recovery Priority Number: 8c
+doc4448.txt-624-       Cóbana negra remains subject to a moderate degree of habitat destruction mainly due to
+doc4449.txt-353-                  __X No, no change is needed.
+doc4449.txt:354:       B. New Recovery Priority Number: 9. Based on the information gathered in this 5
+doc4449.txt-355-       year review, we consider that the Mona boa has a moderate degree of threat and a high
+doc4474.txt-858-               __X_ No change is needed
+doc4474.txt:859:       3.2     New Recovery Priority Number: 7C (no change)
+doc4474.txt-860-               Brief Rationale: The overall magnitude of threat to the continued existence of
+doc4475.txt-650-             __X_ No change is needed
+doc4475.txt:651:     B.       New Recovery Priority Number: 14 (indicates a species with high potential for
+doc4475.txt-652-              recovery and low degree of threat).
+doc4479.txt-834-              and attempt to control encroaching invasive species.
+doc4479.txt:835:      B.      New Recovery Priority Number: 8c (no change)
+doc4479.txt-836-      Relict trillium warrants the “c” ranking indicating conflict with construction and
+doc4480.txt-817-                  X No change is needed.
+doc4480.txt:818:       B. New Recovery Priority Number: 2C
+doc4480.txt-819-       Based on the information gathered for this review, we believe that the new recovery
+doc4504.txt-494-           X No, no change is needed.
+doc4504.txt:495:     B. New Recovery Priority Number: 8_. Based on the information gathered for the five
+doc4504.txt-496-        factor analysis conducted in this review, we believe that the degree of threat is moderate
+doc4510.txt-784-__X__ No Change
+doc4510.txt:785:New Recovery Priority Number and Brief Rationale: No change
+doc4510.txt-786-VI. RECOMMENDATIONS FOR ACTIONS OVER THE NEXT 5 YEARS
+doc4529.txt-572-     A. Recommended Classification: No change is needed.
+doc4529.txt:573:     B. New Recovery Priority Number: No change.
+doc4529.txt-574-IV. RECOMMENDATIONS FOR FUTURE ACTIONS
+doc4593.txt-367-                  X No, no change is needed.
+doc4593.txt:368:       B. New Recovery Priority Number: 8
+doc4593.txt-369-                                                  10
+doc4600.txt-480-    difficult to ascertain any trends that could recommend a change in classification.
+doc4600.txt:481:3.2 New Recovery Priority Number: Not applicable
+doc4600.txt-482-3.3 Listing and Reclassification Priority Number: Not applicable
+doc4604.txt-888-                                                   25
+doc4604.txt:889:^L3.2    New Recovery Priority Number: 2C
+doc4604.txt-890-       Brief Rationale:
+doc4642.txt-291-              __X__ No change is needed
+doc4642.txt:292:     B.       New Recovery Priority Number:
+doc4642.txt-293-              Black clubshell: 5; conflict no longer exists.
+doc4652.txt-430-           species is limited.
+doc4652.txt:431:       B. New Recovery Priority Number: 8
+doc4652.txt-432-           Recommendation: Based on the information gathered for this review, we believe that
+doc4652.txt:433:           the new recovery priority number for erubia is 8, which indicates the species faces a
+doc4652.txt-434-           moderate degree of threat but has a high recovery potential.
+doc4743.txt-482-    __X__ No change is needed
+doc4743.txt:483:3.2 New Recovery Priority Number : N/A
+doc4743.txt-484-    Brief Rationale: N/A
+doc4762.txt-610-                 __X__ No change is needed
+doc4762.txt:611:   B. New Recovery Priority Number: 8C
+doc4762.txt-612-   The change from a recovery priority number of 7C to 8C is recommended because
+doc4792.txt-578-         No change is needed.
+doc4792.txt:579:     B.  New Recovery Priority Number: 8
+doc4792.txt-580-         Degree of threat has been reduced to “moderate” due to discovery of an
+doc4802.txt-630-           recommended.
+doc4802.txt:631:     B. New Recovery Priority Number: 7
+doc4802.txt-632-           We recommend a change in the Recovery Priority Number from 13 to 7. This
+doc4803.txt-567-             development are currently known to be occurring.
+doc4803.txt:568:     B.      New Recovery Priority Number: 8
+doc4803.txt-569-             The recovery priority should be changed from 8C to 8, to indicate that the degree
+doc4813.txt-385-                  X     No, no change is needed.
+doc4813.txt:386:       B. New Recovery Priority Number: 11. Based on our current analysis of the 5-listing
+doc4813.txt-387-       factors, we only identified the Factor A and Factor E as a threats to C. ricartii. We
+doc4819.txt-521-                               X No change is needed
+doc4819.txt:522:     B.      New Recovery Priority Number – no change recommended
+doc4819.txt-523-IV.  RECOMMENDATIONS FOR FUTURE ACTIONS
+doc757.txt-686-                  X No change is needed
+doc757.txt:687:         III.B. New Recovery Priority Number         6
+doc757.txt-688-        In 1995, the Banbury Springs lanx was assigned a recovery priority number of 8,
+doc785.txt-303-                 X No change
+doc785.txt:304:       B.      New Recovery Priority Number: __NA___
+doc785.txt-305-IV.    RECOMMENDATIONS FOR FUTURE ACTIONS
+doc786.txt-312-               X No change
+doc786.txt:313:     B.      New Recovery Priority Number __NA___
+doc786.txt-314-IV.  RECOMMENDATIONS FOR FUTURE ACTIONS
+doc849.txt-179-            __x__ No change is needed
+doc849.txt:180:    3.2 New Recovery Priority Number: Recovery Priority is a Service ranking system
+doc849.txt-181-    published in the Federal Register on September 21, 1983 (48 FR 43098-43105). The
+final_indus_river_dolphin_5-year_review_2016.txt-616-                _X __ No change is needed
+final_indus_river_dolphin_5-year_review_2016.txt:617:        3.2     New Recovery Priority Number: N/A
+final_indus_river_dolphin_5-year_review_2016.txt-618-        3.3     Listing and Reclassification Priority Number, N/A
+finwhale_5yearreview.txt-534-        _X_ No change is needed
+finwhale_5yearreview.txt:535:    3.2 New Recovery Priority Number (indicate if no change; see Appendix E): 9
+finwhale_5yearreview.txt-536-        Brief Rationale: Based on threats assessments contained in the recovery plan,
+greenturtle_5yearreview.txt-101-        3.1.2 Threatened population………………………………………………                                              66
+greenturtle_5yearreview.txt:102:    3.2 New Recovery Priority Number…………………………………………….                                             66
+greenturtle_5yearreview.txt-103-4.0 RECOMMENDATIONS FOR FUTURE ACTIONS……………………………                                                  66
+gulfsturgeon_5yearreview.txt-986-analysis and review of the Gulf sturgeon relative to the DPS policy.
+gulfsturgeon_5yearreview.txt:987:3.2. New Recovery Priority Number
+gulfsturgeon_5yearreview.txt-988-No change (NMFS 8, USFWS 12).
+hawaiianmonkseal_5year.txt-355-            __X__ No change is needed
+hawaiianmonkseal_5year.txt:356:    3.2     New Recovery Priority Number: No change
+hawaiianmonkseal_5year.txt-357-4.0 RECOMMENDATIONS FOR FUTURE ACTIONS
+narightwhale_5yearreview.txt-915-__X_ No change is needed
+narightwhale_5yearreview.txt:916:3.2 New Recovery Priority Number:
+narightwhale_5yearreview.txt-917-No change.
+northpacificrightwhale_5yearreview.txt-670-                __X__ No change is needed
+northpacificrightwhale_5yearreview.txt:671:        3.2     New Recovery Priority Number: 7
+northpacificrightwhale_5yearreview.txt-672-                Brief Rationale: Due to insufficient data, low abundance, and uncertain threats,
+seiwhale_5yearreview.txt-515-         _X_ No change is needed
+seiwhale_5yearreview.txt:516:    3.2   New Recovery Priority Number: 9
+seiwhale_5yearreview.txt-517-         Brief Rationale: Based on an assessment of the threats contained in the recovery
+spermwhale_5yearreview-2009.txt-924-         _X_ No change is needed
+spermwhale_5yearreview-2009.txt:925:    3.2  New Recovery Priority Number: 11
+spermwhale_5yearreview-2009.txt:926:         Brief Rationale: The recommended new recovery priority number is 11, due to a
+spermwhale_5yearreview-2009.txt-927-         low magnitude of threat, low to moderate recovery potential and the presence of

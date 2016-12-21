@@ -84,10 +84,13 @@ plot_ly(type = "box")%>%
 #bonytail vs. humpback chub
 taxa_stats <- group_by(goddamn, Group)%>%summarise(Area_md = median(Area, na.rm = TRUE), 
                                                    Area_mn = mean(Area, na.rm = TRUE),
-                                                   Area_sd = sd(Area),
+                                                   Area_sd = sd(Area, na.rm = TRUE),
                                                    Prior_md = median(Priority, na.rm = TRUE), 
                                                    Prior_mn = mean(Priority, na.rm = TRUE),
-                                                   Prior_sd = sd(Priority, na.rm = TRUE))
+                                                   Prior_sd = sd(Priority, na.rm = TRUE),
+                                                   Scholar_md = median(scholar, na.rm = TRUE),
+                                                   Scholar_mn = mean(scholar, na.rm = TRUE),
+                                                   Scholar_sd = sd(scholar, na.rm = TRUE))
 boxplot(
   compare$Area[compare$Group == "Plants" & compare$group == "R"] - taxa_stats$Area_md[taxa_stats$Group == "Plants"],
   compare$Area[compare$Group == "Insects" & compare$group == "R"] - taxa_stats$Area_md[taxa_stats$Group == "Insects"],
@@ -98,6 +101,18 @@ boxplot(
   compare$Area[compare$Group == "Mammals" & compare$group == "R"] - taxa_stats$Area_md[taxa_stats$Group == "Mammals"])
 
 for(i in c("Plants", "Insects", "Amphibians", "Birds", "Reptiles", "Fish", "Mammals", "Arachnids", "Crustaceans", "Molluscs")){
-  goddamn$Area_z[goddamn$Group == i] <- (goddamn$Area[goddamn$Group == i] - taxa_stats$Area_md[taxa_stats$Group == i])/taxa_stats$Area_sd[taxa_stats$Group == i]
-  goddamn$Priority_z[goddamn$Group == i] <- (goddamn$Priority[goddamn$Group == i] - taxa_stats$Prior_mn[taxa_stats$Group == i])/taxa_stats$Prior_sd[taxa_stats$Group == i]
+  #goddamn$Area_z[goddamn$Group == i] <- (goddamn$Area[goddamn$Group == i] - taxa_stats$Area_md[taxa_stats$Group == i])/taxa_stats$Area_sd[taxa_stats$Group == i]
+  #goddamn$Priority_z[goddamn$Group == i] <- (goddamn$Priority[goddamn$Group == i] - taxa_stats$Prior_mn[taxa_stats$Group == i])/taxa_stats$Prior_sd[taxa_stats$Group == i]
+  goddamn$Scholar_z[goddamn$Group == i] <- (goddamn$scholar[goddamn$Group == i] - taxa_stats$Scholar_md[taxa_stats$Group == i])/taxa_stats$Scholar_sd[taxa_stats$Group == i]
 }
+
+that <- aggregate(scholar ~ cut(ymd, "5 year")*Group, goddamn, mean)
+
+for (i in nrow(goddamn)){
+  if(!is.na(goddamn$Year[i])){
+    #goddamn$Scholar_z[i] <- (goddamn$scholar[i] - median(goddamn$scholar[goddamn$Group == goddamn$Group[i] & goddamn$Year == goddamn$Year[i]], na.rm = TRUE))/sd(goddamn$scholar[goddamn$Group == goddamn$Group[i] & goddamn$Year == goddamn$Year[i]], na.rm = TRUE)
+    goddamn$Scholar_z[i] <- (goddamn$scholar[i] - median(goddamn$scholar[goddamn$Year == goddamn$Year[i]], na.rm=TRUE))/sd(goddamn$scholar[goddamn$Year == goddamn$Year[i]], na.rm=TRUE)
+    }else{
+    goddamn$Scholar_z[i] <- (goddamn$scholar[i] - median(goddamn$scholar[goddamn$Group == goddamn$Group[i]], na.rm = TRUE))/sd(goddamn$scholar[goddamn$Group == goddamn$Group[i]], na.rm = TRUE)
+  }
+} 
