@@ -90,7 +90,8 @@ taxa_stats <- group_by(goddamn, Group)%>%summarise(Area_md = median(Area, na.rm 
                                                    Prior_sd = sd(Priority, na.rm = TRUE),
                                                    Scholar_md = median(scholar, na.rm = TRUE),
                                                    Scholar_mn = mean(scholar, na.rm = TRUE),
-                                                   Scholar_sd = sd(scholar, na.rm = TRUE))
+                                                   Scholar_sd = sd(scholar, na.rm = TRUE),
+                                                   count_all = n())
 boxplot(
   compare$Area[compare$Group == "Plants" & compare$group == "R"] - taxa_stats$Area_md[taxa_stats$Group == "Plants"],
   compare$Area[compare$Group == "Insects" & compare$group == "R"] - taxa_stats$Area_md[taxa_stats$Group == "Insects"],
@@ -100,19 +101,34 @@ boxplot(
   compare$Area[compare$Group == "Fish" & compare$group == "R"] - taxa_stats$Area_md[taxa_stats$Group == "Fish"],
   compare$Area[compare$Group == "Mammals" & compare$group == "R"] - taxa_stats$Area_md[taxa_stats$Group == "Mammals"])
 
+z_score <- function(df, var, Group){
+  v <- c()
+  for (i in unique(Group)){
+    z <- (log(df$var[df$Group == i]) - mean(log(df$var[df$Group == i]), na.rm = TRUE))/sd(log(df$var[df$Group == i]), na.rm = TRUE) 
+    v<- append(v, z, after = length(v))
+  }
+  return(v)
+}
+
 for(i in c("Plants", "Insects", "Amphibians", "Birds", "Reptiles", "Fish", "Mammals", "Arachnids", "Crustaceans", "Molluscs")){
   #goddamn$Area_z[goddamn$Group == i] <- (goddamn$Area[goddamn$Group == i] - taxa_stats$Area_md[taxa_stats$Group == i])/taxa_stats$Area_sd[taxa_stats$Group == i]
   #goddamn$Priority_z[goddamn$Group == i] <- (goddamn$Priority[goddamn$Group == i] - taxa_stats$Prior_mn[taxa_stats$Group == i])/taxa_stats$Prior_sd[taxa_stats$Group == i]
-  goddamn$Scholar_z[goddamn$Group == i] <- (goddamn$scholar[goddamn$Group == i] - taxa_stats$Scholar_md[taxa_stats$Group == i])/taxa_stats$Scholar_sd[taxa_stats$Group == i]
+  temp$Total_z[temp$Group == i] <- (log(temp$Total[temp$Group == i]) - mean(log(temp$Total[temp$Group == i]), na.rm = TRUE))/sd(log(temp$Total[temp$Group == i]), na.rm = TRUE)
 }
+
+
 
 that <- aggregate(scholar ~ cut(ymd, "5 year")*Group, goddamn, mean)
 
-for (i in nrow(goddamn)){
-  if(!is.na(goddamn$Year[i])){
+for (i in c("1980", "1985", "1990", "1995", "2000", "2005", "2010","2015")){
+  #if(!is.na(goddamn$Year[i])){
     #goddamn$Scholar_z[i] <- (goddamn$scholar[i] - median(goddamn$scholar[goddamn$Group == goddamn$Group[i] & goddamn$Year == goddamn$Year[i]], na.rm = TRUE))/sd(goddamn$scholar[goddamn$Group == goddamn$Group[i] & goddamn$Year == goddamn$Year[i]], na.rm = TRUE)
-    goddamn$Scholar_z[i] <- (goddamn$scholar[i] - median(goddamn$scholar[goddamn$Year == goddamn$Year[i]], na.rm=TRUE))/sd(goddamn$scholar[goddamn$Year == goddamn$Year[i]], na.rm=TRUE)
-    }else{
-    goddamn$Scholar_z[i] <- (goddamn$scholar[i] - median(goddamn$scholar[goddamn$Group == goddamn$Group[i]], na.rm = TRUE))/sd(goddamn$scholar[goddamn$Group == goddamn$Group[i]], na.rm = TRUE)
-  }
+    #goddamn$Scholar_z[i] <- (goddamn$scholar[i] - median(goddamn$scholar[goddamn$Year == goddamn$Year[i]], na.rm=TRUE))/sd(goddamn$scholar[goddamn$Year == goddamn$Year[i]], na.rm=TRUE)
+    goddamn$Scholar_z[!is.na(goddamn$scholar) & is.na(goddamn$Scholar_z) & !is.na(goddamn$Year) & goddamn$Year == paste(i,"01-01",sep ="-")] <- (goddamn$scholar[!is.na(goddamn$scholar) & is.na(goddamn$Scholar_z) & !is.na(goddamn$Year) & goddamn$Year == paste(i,"01-01",sep ="-")] - median(goddamn$scholar[goddamn$Year == paste(i,"01-01",sep ="-")], na.rm=TRUE))/sd(goddamn$scholar[goddamn$Year == paste(i,"01-01",sep ="-")], na.rm=TRUE)
+    #}else{
+    #goddamn$Scholar_z[i] <- (goddamn$scholar[i] - median(goddamn$scholar[goddamn$Group == goddamn$Group[i]], na.rm = TRUE))/sd(goddamn$scholar[goddamn$Group == goddamn$Group[i]], na.rm = TRUE)
+  #}
 } 
+paste(i,"01-01",sep =)
+
+goddamn$Scholar_z[!is.na(goddamn$scholar) & is.na(goddamn$Scholar_z) & goddamn$Year == paste(i,"01-01",sep =)] <- (goddamn$scholar - median(goddamn$scholar[goddamn$Year == goddamn$Year[i]], na.rm=TRUE))/sd(goddamn$scholar[goddamn$Year == goddamn$Year[i]], na.rm=TRUE)

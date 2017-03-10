@@ -10,6 +10,18 @@ for(i in badlist$Scientific){
   r_plans <- hrefs[grepl("recovery_plan", hrefs)]
   print(r_plans)
   links <- rbind(links, data.frame(rep(i, length(r_plans)), r_plans))
+  
+}
+
+links <- data.frame("Species" = character(1773), "Revs" = integer(1773))
+p <- 1
+for (i in TECP_domestic$Scientific_Name){
+  url <- TECP_domestic$Species_Page[TECP_domestic$Scientific_Name == i][1]
+  page <- read_html(url)
+  t_nodes <- try(html_nodes(page, ".table-caption"))
+  x <- grep("Five Year Review", nodes)
+  links[p, 1:2] <- c(i, length(x))
+  p <- p +1
 }
 
 #get_crit_hab

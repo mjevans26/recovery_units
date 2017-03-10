@@ -18,20 +18,21 @@ species$Area <- as.vector(group_by(esacounties, Scientific)%>%
   right_join(species, by = "Scientific")%>%
   select(area))
 
-compare$Office <- as.vector(
-  select(spp_plans, Species_Scientific_Name, Plan_Lead_Office__FWS_)%>%
-    right_join(compare, by = c("Species_Scientific_Name" = "Scientific"))%>%
-    select(Plan_Lead_Office__FWS_)
-)[c(1:28,31:36,39:59),]
+goddamn2 <- as.data.frame(select(spp_plans, Species_Scientific_Name, Plan_Lead_Office__FWS_)%>%
+    group_by(Species_Scientific_Name)%>%
+    summarise(Office = first(Plan_Lead_Office__FWS_))%>%
+    right_join(goddamn, by = c("Species_Scientific_Name" = "Scientific")))
+
+temp <- as.data.frame(group_by(expenditures, scientific)%>%
+                        summarise(Total = mean(Fed_tot))%>%
+                        right_join(temp, by = c("scientific" = "Species_Scientific_Name")))
 
 
 plan_dates$Common <- sapply(plan_dates$Common_NameScientific_Name, function(x) 
-                                              str_trim(strsplit(x, "\n")[[1]][1])
-       )
+                                              str_trim(strsplit(x, "\n")[[1]][1]))
 
 plan_dates$Scientific <- sapply(plan_dates$Common_NameScientific_Name, function(x) 
-  str_trim(strsplit(x, "\n")[[1]][4])
-)
+  str_trim(strsplit(x, "\n")[[1]][4]))
 
 dat <- select(plan_dates, Plan_Name, Plan_Date, Scientific)%>%
   right_join(spp_plans, by = c("Scientific" = "Species_Scientific_Name", "Plan_Name" = "Plan_Title"))
