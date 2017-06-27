@@ -2,7 +2,7 @@
 title: "Use of Recovery Units"
 author: "Michael Evans, Jacob Malcom, Ya-Wei Li, Ryan Covington"
 date: "December 5, 2016"
-output: word_document
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
@@ -16,6 +16,7 @@ library(mclogit)
 library(party)
 library(plotly)
 library(pROC)
+library(shiny)
 library(stringr)
 library(tidyr)
 load("C:/Users/mevans/repos/recovery_units/data.RData")
@@ -41,6 +42,8 @@ As the justifcation for delineation of recovery units in the Recovery Planning G
 
 To assess the use of recovery units during ESA implementation we examined biological opinions (BIOPS) written by the Services during Section 7 consultations.  Due to the nationally low rates of jeopardy and/or adverse modification determinations (Malcom & Li, 2016), we use the proportion of consultations that were formal for each species to indicate the...  Finally, we also examined five year reviews to evaluate the recovery of listed species.  These documents provide updated status information for listed species, including recommendations as to whether changes in listing status or recovery prioritiation are warranted.  (i.e., Recommended delisting, increase in priority number, or downlisting from Endangered to Threatened).  We used changes in species' recovery priority numbers as a proximal indicator of status improvement, considering only changes reflecting either reduced threat level, or increased recovery potential.  For example, a change from 2 to 3 represents a reclassification from species to subspecies, and not an improvement in status.  Recommended downlistings also indicated status improvement.
 
+We scored BiOps on two categorical variables; whether a species' recovery units were mentioned, and whether recovery units were considered in reaching a jeopardy or non-jeopardy conclusion.  We determined that recovery units were considered in the conclusion if the amount or effect of expected take was compared relative to the size of a relevant recovery unit.  Alternatively, if the role of RUs in jeopardy determination was explicitly stated in an earlier section, we also determined that RUs were considered. 
+
 ### Analyses
 Chi-squared contingency tests were used to test for significant differences in the proportions of species with recovery units falling into taxonomic groups, and between FWS regions, relative to these distributions among all species with recovery plans.  We also tested for differences in the proportions of speces designated as being in conflict with development.
 
@@ -48,12 +51,12 @@ To test for differences in species range size among taxonomic groups, and geneti
 
 We used student's t-tests to compare characteristics of species with recovery units to the population of all species with recovery plans, testing for differences in mean recovery priority number, range size, and mean number of genetic citations.
 ```{r uni_tests, echo = FALSE, warning = FALSE}
-taxa_glm <- glm(group~Group, data = goddamn, family = binomial(link = "logit"))
-taxa_glm_nopl <- glm(group~Group, data = goddamn, subset = Group!="Plants", family = binomial(link = "logit"))
+#taxa_glm <- glm(group~Group, data = goddamn, family = binomial(link = "logit"))
+#taxa_glm_nopl <- glm(group~Group, data = goddamn, subset = Group!="Plants", family = #binomial(link = "logit"))
 taxa_test <- chisq.test(group_cont[, 2:3])
 taxa_test_p <- chisq.test(group_cont[c(1:8,10), 2:3])
 reg_test <- chisq.test(table(goddamn$Region), table(filter(goddamn, group == "R")$Region))
-reg_glm <- glm(group ~ Region, data = goddamn, family = binomial(link = "Logit"))
+#reg_glm <- glm(group ~ Region, data = goddamn, family = binomial(link = "Logit"))
 off_test <- chisq.test(field_offices$Plans, field_offices$Units)
 wtest <- t.test(x = log(goddamn$Area), y = log(filter(compare, Units>0)$Area), alternative = "l", paired = FALSE)
 scholar_test <- t.test(goddamn$Scholar_z[goddamn$group == "R"], goddamn$Scholar_z[goddamn$group == "A"])
@@ -91,11 +94,11 @@ ct_nopl <- ctree(group~Office+Group+Area_z+Priority+Status+Scholar_z, data = fil
 
 auc_nopl <- roc(response = goddamn$group, predictor = unlist(predict(ct_nopl, newdata = goddamn, type = "prob"))[seq(1,nrow(goddamn)*2,2)])
 
-practice <- rpart(data = filter(goddamn, !is.na(ymd)), group ~ Group+Area_z+Scholar_z+Priority+Status, control = rpart.control(cp = 0.01))
+#practice <- rpart(data = filter(goddamn, !is.na(ymd)), group ~ #Group+Area_z+Scholar_z+Priority+Status, control = rpart.control(cp = 0.01))
 
 ct_results <- data.frame(spec = c(1-auc$specificities, 1-auc_nogr$specificities, 1-auc_noof$specificities), 
            sens = c(auc$sensitivities, auc_nogr$sensitivities, auc_noof$sensitivities),
-           group = rep(c("ct", "ct_nogr", "ct_noof"), times = c(10,7,7)))
+           group = rep(c("ct", "ct_nogr", "ct_noof"), times = c(10,6,6)))
 ```
 
 The relationship between these chracteristics and recovery unit desination was further investigated by comparing characteristics between each species with recovery units and a paired set of 1 - 3 comparable listed species without recovery units.  We chose listed species with recovery plans that were similar taxonomically, prioritizing shared Genera, and no more distantly related than a shared Family.  We used conditional logistic regression to estimate the log odds of recovery unit designation as a function of the same set of predictor variable used in classification tree analyses.  First we fit univariate models for all predictors, and then a full model including all variables that were significant (p < 0.10) univariate predictors.  
@@ -107,7 +110,7 @@ mc_p <-mclogit(cbind(recov,Pair)~Priority, data = compare[!is.na(compare$Pair),]
 mc_a <-mclogit(cbind(recov,Pair)~Area_z, data = compare[!is.na(compare$Pair),])
 mc_st <-mclogit(cbind(recov,Pair)~Status, data = compare[!is.na(compare$Pair),])
 mc_c <- mclogit(cbind(recov,Pair)~Conflict, data = compare[!is.na(compare$Pair),])
-mc_e <- mclogit(cbind(recov,Pair)~Total_z, data = compare[!is.na(compare$Pair),])
+#mc_e <- mclogit(cbind(recov,Pair)~Total_z, data = compare[!is.na(compare$Pair),])
 mc_full <- mclogit(cbind(recov,Pair)~Conflict+Area_z+Scholar_z+Priority, data = compare[!is.na(compare$Pair),])
 mc_as <- mclogit(cbind(recov,Pair)~Area_z+Scholar_z, data = compare[!is.na(compare$Pair),])
 ```
@@ -122,28 +125,54 @@ fcon_test <- prop.test(c(sum(compare$fcons[compare$recov == 1]), nrow(filter(tes
                        c(sum(compare$cons[compare$recov == 1]), nrow(test)), 
                        alternative = "greater")
 ```
+
+We tested for differences in RU acknowledgement and consideration among taxa and FWS offices using Chi-square contingency tests.  When comparing these rates among FWS offices, we collapsed records by BiOp.  To determine whether recency of RU designation affected the probability that RUs were used in BiOps, we modeled mention rate as a function of days elapsed between a BiOp and RU designation (date of recovery plan).
+```{r echo = FALSE, warning = FALSE, cache = TRUE}
+taxon_biop <- chisq.test(biops$Mention, biops$Taxon)
+office_biop <- chisq.test(biops$Mention, biops$FWS_OFFICE)
+time_biop <- glm(formula = Mention ~ TIME, data = biops, family = binomial(link = "logit"))
+coeffs <- coef(summary(time_biop))
+df <- cbind(as.data.frame(curve(exp(coeffs[1,1] + coeffs[2,1]*x*365), from = 0, to = 10)), 
+      as.data.frame(curve(exp(coeffs[1,1] + (coeffs[2,1]+coeffs[2,2])*x*365), from = 0, to = 10)$y),
+      as.data.frame(curve(exp(coeffs[1,1] + (coeffs[2,1]-coeffs[2,2])*x*365), from = 0, to = 10)$y)
+)
+
+colnames(df) <- c("x", "y", "yU", "yL")
+```
+
 ##Results
 
 #### Recovery Unit Characteristics and Patterns
-We identified `r nrow(filter(compare, recov == 1))` Threatened or Endangered species with designated recovery units.  Number of units per species ranged from `r min(compare$Units[compare$recov == 1], na.rm = TRUE)` to `r max(compare$Units[compare$recov == 1], na.rm = TRUE)`.  Units were as small as 7 ac and as large as 12,492,233 ac.  The rate of recovery unit designation has remained consistently low, between 0 and 3 species per year since 1995, with the exception of a peak in 2003, in which 8 species were given recovery units.
+We identified 42 recovery plans designationg recovery units for `r nrow(goddamn[goddamn$group == "R",])` Threatened or Endangered species.  Number of units per species ranged from `r min(compare$Units[compare$recov == 1], na.rm = TRUE)` to `r max(compare$Units[compare$recov == 1], na.rm = TRUE)`.  Units were as small as 7 ac and as large as 12,492,233 ac.  The rate of recovery unit designation has remained consistently low, between 0 and 3 species per year since 1995, with the exception of a peak in 2003, in which 8 species were given recovery units.
 
 ```{r ru_table, echo = FALSE, warning = FALSE}
-filter(compare, recov == 1)%>%
-  mutate(RPN = paste(Priority, Conflict, sep = ""))%>%
-  select(Scientific, Common, Status, RPN, Date, Units)
+fluidPage(
+  fluidRow(
+    column(12,
+           p(class = "caption",
+             tags$b("Table 1."),
+             " Counts of new oil and gas wells reported by state oil and gas commissions constructed after Spetember 1", tags$sup("st"), "2015, and located within Lesser -rairie-chicken range."),
+           DT::datatable(goddamn[goddamn$group == "R",c(1,4,6,8)],
+                        #fillContainer = TRUE,
+                        colnames = c("Species", "Taxon", "Status",
+                                     "Date"),
+                        
+                        options = list(dom = 't'))
+    )
+  )
+)
 
-filter(compare, recov == 1)%>%
+
+
+
+timeline <- filter(goddamn, group == "R")%>%
   mutate(Year = cut(ymd, "1 year"))%>%
   group_by(Year)%>%
   summarise(num = n())%>%
   right_join(data.frame(Year = paste(as.character(seq(1995,2016,1)),"01-01", sep = "-")))%>%
-  as.data.frame()%>%
-  ggplot(aes(x = Year, y = num))+
-  geom_point()+
-  #geom_line(aes(x = Year, y = num))+
-  scale_x_discrete(labels = as.character(seq(1995,2016,1)))+
-  labs( x = "Year", y = "Plans with Recovery Units", title = "Timeline of Recovery Unit Designation")+
-  theme_minimal()+theme(panel.grid.major.x=element_blank(), legend.background = element_rect(color = "white"))+ylim(c(0, 8))
+  as.data.frame()
+  
+plot_ly(timeline, x = ~Year, y = ~num, type = "scatter", mode = "lines")
 ```
 
 Designation of recovery units differed significantly among taxa (X2 = `r round(taxa_test$statistic, 2)`, df = `r round(taxa_test$parameter, 2)`, p = `r round(taxa_test$p.value, 2)`).  The odds of designation for plants were significantly lower than those of Amphibians, Fish, Mammals, and Reptiles.  No other odds ratios were significant (Table ##) and were not considered (X2 = `r round(taxa_test_p$statistic, 2)`, df = `r round(taxa_test_p$parameter, 2)`, p = `r round(taxa_test_p$p.value, 2)`).  Specifically, amphibians, fishes, insects, mammals, and reptiles are more frequently given recovery units relative to their frequency among listed species with recovery plans. 
@@ -162,9 +191,9 @@ ggplot( data = filter(taxa_stats)%>%gather("group", "count", count_all, count_re
 #         yaxis = list(title = "Proportion of Species"))
 ```
 </br>
-Species range size differed significantly among taxonomic groups, indicated by an ANOVA using the log of range area as the response variable (F9,1352 = `r round(summary(area_aov)[[1]]$"F value"[1], 4)`, p = `r summary(area_aov)[[1]]$"Pr(>F)"[1]`).  Thus, we used standardized z-scores of area per taxonomic group to account for differences in means among taxa when performing statistical tests using range size. Similarly, the number of genentic citations differed between years (F9,500 = `r round(summary(scholar_aov)[[1]]$"F value"[1], 4)`, p = `rsummary(scholar_aov)[[1]]$"Pr(>F)"[1]`), and we transformed raw citation numbers to z-scores calculated within 5-year bins. 
+Species range size differed significantly among taxonomic groups, indicated by an ANOVA using the log of range area as the response variable (F9,1352 = `r round(summary(area_aov)[[1]]$"F value"[1], 4)`, p = `r summary(area_aov)[[1]]$"Pr(>F)"[1]`).  Thus, we used standardized z-scores of area per taxonomic group to account for differences in means among taxa when performing statistical tests using range size. Similarly, the number of genentic citations differed between years (F9,500 = `r round(summary(scholar_aov)[[1]]$"F value"[1], 4)`, p = `r summary(scholar_aov)[[1]]$"Pr(>F)"[1]`), and we transformed raw citation numbers to z-scores calculated within 5-year bins. 
 
-Mean range size relative to taxonomic means was greater among species with recovery units (x = `r mean(compare$Area[compare$recov == 1], na.rm = TRUE)`ac, z = `r mean(compare$Area_z[compare$recov == 1], na.rm = TRUE)`) than among all species with recovery plans (x = `r mean(goddamn$Area, na.rm = TRUE)`ac, z = `r mean(goddamn$Area_z, na.rm = TRUE)`, t = `r round(area_test$statistic, 2)`, df = `r area_test$parameter`, p = `r round(area_test$p.value, 2)`).
+Mean range size relative to taxonomic means was greater among species with recovery units (x = `r mean(compare$Area[compare$recov == 1], na.rm = TRUE)`ac, z = `r mean(compare$Area_z[compare$recov == 1], na.rm = TRUE)`) than among all species with recovery plans (x = `r round(mean(goddamn$Area, na.rm = TRUE),2)`ac, z = `r round(mean(goddamn$Area_z, na.rm = TRUE),2)`, t = `r round(area_test$statistic, 2)`, df = `r area_test$parameter`, p = `r round(area_test$p.value, 2)`).
 
 ```{r area_bars, echo = FALSE, warning = FALSE}
 #ggplot(data = goddamn, aes(x = Area_z, y = ..density.., fill = group))+
@@ -192,6 +221,7 @@ ggplot(data = goddamn, aes(y = Area_z, x = group, color = group, fill = group))+
 ```
 </br> 
 Mean number of genetic citations relative to five year means were higher (t = `r scholar_test$statistic` df = `r round(scholar_test$parameter, 2)`, p = `r round(scholar_test$p.value, 2)`) for recovery unit species (`r round(mean(sqrt(compare$scholar[compare$recov==1]),na.rm=TRUE), 4)`) than for all species with recovery plans(`r round(mean(sqrt(goddamn$scholar),na.rm=TRUE), 4)`).
+
 ```{r scholar_bars, echo = FALSE, warning = FALSE}
 ggplot(data = goddamn, aes(y = Scholar_z, x = group, color = group, fill = group))+
   scale_color_manual(name = NULL, values =c("orange", "blue"), labels = NULL, guide = FALSE)+
@@ -210,8 +240,9 @@ Finally, there were no differences in frequencies of recovery unit designation a
 Classification trees built using all species exhibited better predictive performance of recovery unit designation (AUC = `r auc_ct$auc`) than trees build excluding plant species (`r auc_nopl$auc`).  When plant species were excluded, the resulting tree indicated that species with range sizes above the 71st percentile of their taxonomic group, and genetic citation rates above the 72nd percentile for a five year period had a 0.70 probability of having recovery units designated.  Taxonomic group and FWS region were important predictors for species falling below the range size and citation rate thresholds.  We identified a classification probability threshold of `r round(auc$thresholds[3], 3)` as providing the maximum ratio of sensitivity and specificity.
 
 ```{r tree_plot, echo = FALSE, warning = FALSE}
-plot(ct_nogrof, type = "extend", inner_panel = node_inner(ct_nogrof, id = FALSE), terminal_panel = node_barplot(ct_nogrof, id = FALSE, fill = c("blue", "orange")))
+#plot(ct_nogrof, type = "extend", inner_panel = node_inner(ct_nogrof, id = FALSE), #terminal_panel = node_barplot(ct_nogrof, id = FALSE, fill = c("blue", "orange")))
 ```
+
 ```{r roc_plot, echo = FALSE, warning = FALSE}
 ggplot(data = ct_results, aes(x = spec, y = sens, color = group))+
   geom_line(lwd = 1)+
@@ -224,7 +255,7 @@ plot(auc, xlim = c(1,0), ylim = c(0,1))
 plot(auc_noof, add = T, lty = 2, col = "blue")
 plot(auc_nogr, add = T, lty = 3, col = "green4")
 plot(auc_nogrof, add = T, lty = 6, col = "red")
-legend(0.25, 0.2, c("Full", "No Office", "No Taxa", "No Office & Taxa"), lty = c(1,2,3,6), col = c("black", "blue", "green4", "red"))
+legend(0.25, 0.3, c("Full", "No Office", "No Taxa", "No Office & Taxa"), lty = c(1,2,3,6), col = c("black", "blue", "green4", "red"))
 
 ```
 </br>
@@ -232,11 +263,25 @@ Results from conditional logistic regression corroborated results from classific
 </br>
 
 #### Use of Recovery Units in ESA Implementation
-Recovery plans for 21 of 32 species with recovery units provided an explicit refernce to recovery units as 'essential for species recovery' as stated in the planning guidebook.  Except for three species (<em>Rana draytonii</em>, <em>Gopherus agassizii</em>, and <em>Lessingia germanorum</em>), all plans provided some justification for the designation of recovery units in terms of their role and importance in facilitating persisence and recovery of the entire species.  Justifications fell into two major categories; addressing variance of threats and necessary recovery actions between units, and addressing the '3Rs' of conservation (Redundancy, Representation, and Resilience).  Of the 29 plans providing justification, 24 plans referenced the importance of preserving either geographic and/or genetic variability and representation.  
+Of the 42 recovery plans designating recovery units, 23 provided an explicit refernce to recovery units as 'essential for species recovery' as stated in the planning guidebook.  Except for three species (<em>Rana draytonii</em>, <em>Gopherus agassizii</em>, and <em>Lessingia germanorum</em>), all plans provided some justification for the designation of recovery units in terms of their role and importance in facilitating persisence and recovery of the entire species.  Justifications fell into two major categories; addressing variance of threats and necessary recovery actions between units, and addressing the '3Rs' of conservation (Redundancy, Representation, and Resilience).  Of the 39 plans providing justification, 30 plans referenced the importance of preserving either geographic and/or genetic variability and representation.  
 
-Recovery plans for all but 2 species with recovery units (<em>Rana draytonii</em>, <em>Cynomys parvidens</em>) provide unit-specific recovery actions and/or criteria in.  Threats were less frequently ennumerated on a per unit basis (10/32).  
+All but 6 recovery plans (<em>Rana draytonii</em>, <em>Cynomys parvidens</em>) provide unit-specific recovery actions and/or criteria in.  Threats were less frequently ennumerated on a per unit basis (10/32).  
 
-Additionally, 8 out of 32 recovery plans provided guidance on the role of recovery units during Section 7 consultation, explicitly referring to the use of recovery units in jeopardy analysis.
+Additionally, 10 recovery plans provided guidance on the role of recovery units during Section 7 consultation, explicitly referring to the use of recovery units in jeopardy analysis.
+
+We read `r nrow(biops)` BiOps that could have considered RUs in jeopardy determinations.  Of these `r nrow(biops[biops$Mention == "Y",])/nrow(biops) * 100`% mentioned the existence of recovery units for the relevant species.  Of these BiOps in which recovery units were acknowledged, `r nrow(biops[biops$Mention == "Y" & biops$Analysis == "Y",])/nrow(biops[biops$Mention == "Y",]) * 100`% considered RUs in jeopardy analyses.  Overall, `r nrow(biops[biops$Analysis == "Y",])/nrow(biops) * 100`% of BiOps that could have used RUs when analyzing effects for the purpose of determining jeopardy did so.
+
+These rates varied by taxa (X2 = `r round(taxon_biop$statistic, 2)`, df = `r round(taxon_biop$parameter, 2)`, p = `r round(taxon_biop$p.value, 3)`) and FWS office (X2 = `r round(office_biop$statistic, 2)`, df = `r round(office_biop$parameter, 2)`, p = `r round(office_biop$p.value, 3)`).  Additionally, the probability of RUs being mentioned in BiOps decreased significantly (B = `r round(coeffs[2,1], 2)`, p = `r round(coeffs[2,4], 2)`) as more time had passed since RUs were designated, such that on average every year that passed reduced the log odds by (`r 365 * time_biop$coefficients[2]`). 
+
+```{r echo = FALSE, warning = FALSE}
+
+plot_ly(data = df, type = "scatter", mode = "lines")%>%
+  add_trace(name = "Estimate", x = ~x, y = ~y, line = list(color = "blue"))%>%
+  add_trace(name = "Upper", x = ~x, y = ~yU, line = list(color = "red", dash = "dash"))%>%
+  add_trace(name = "Lower", x = ~x, y = ~yL, line = list(color = "red", dash = "dash"))%>%
+  layout(xaxis = list(title = "Years since RU designation"),
+         yaxis = list(title = "Odds of RU mention"))
+```
 
 #### Impact of Recovery Units on Recovery
 Of the `r length(goddamn$group[goddamn$group == "R"])` species with designated RUs, 24 had five-year reviews conducted after the recovery plan designating RUs was written.  Of these 24, RUs were explicitly mentioned for all but one species (<em>Manduca blackburnii</em>).  Additionally, for each of these species the population statuses and recovery criteria were evaluated and reported by recovery unit.  We used a sample of 560 five year reviews for all species with recovery plans.  These The rate of improvement indicated by changes in recovery priority number among species with recovery units (0.174), was significantly higher than the rate observed among all five year reviews (0.086), as determined by bootstrapping (p < 0.01).  Species with recovery units have a significantly higher (p < 0.001) rate of formal section 7 consultation (`r round(mean(compare$frate, na.rm = TRUE), 2)`) than all listed species (`r round(mean(ps$Freq, na.rm = TRUE),2)`).  

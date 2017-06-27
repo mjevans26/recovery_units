@@ -43,6 +43,44 @@ for(i in unique(TECP_domestic$Species_Page[TECP_domestic$Species_Group!="Floweri
   }
 }
 
+spp_agmt <- data.frame(Type = character(0), Plan = character(0), Spp = character(0))
+for(i in 1:nrow(TECP_domestic)){
+  url <- TECP_domestic$Species_Page[i]
+  species <- TECP_domestic$Scientific_Name[i]
+  page <- read_html(url)
+  tables <- try(html_nodes(page, "table"))
+  if(length(grep("(CCAA)", tables)) > 0){
+    CCAA_table <- html_table(tables[grep("(CCAA)", tables)])[[1]][1]
+    CCAA_df <- data.frame(Type = rep("CCAA", nrow(CCAA_table)), 
+                          Plan = CCAA_table[,1],
+                          Spp = rep(species, nrow(CCAA_table)))
+    spp_agmt <- rbind(spp_agmt, CCAA_df)
+  }
+  if(length(grep("(CCA)", tables)) > 0){
+    CCA_table <- html_table(tables[grep("(CCA)", tables)])[[1]][1]
+    CCA_df <- data.frame(Type = rep("CCA", nrow(CCA_table)), 
+                          Plan = CCA_table[,1],
+                          Spp = rep(species, nrow(CCA_table)))
+    spp_agmt <- rbind(spp_agmt, CCA_df)
+  }
+  if(length(grep("(HCP)", tables)) > 0){
+    HCP_table <- html_table(tables[grep("(HCP)", tables)])[[1]][1]
+    HCP_df <- data.frame(Type = rep("HCP", nrow(HCP_table)), 
+                          Plan = HCP_table[,1],
+                          Spp = rep(species, nrow(HCP_table)))
+    spp_agmt <- rbind(spp_agmt, HCP_df)
+  }
+  if(length(grep("(SHA)", tables)) > 0){
+    SHA_table <- html_table(tables[grep("(SHA)", tables)])[[1]][1]
+    SHA_df <- data.frame(Type = rep("SHA", nrow(SHA_table)), 
+                         Plan = SHA_table[,1],
+                         Spp = rep(species, nrow(SHA_table)))
+    spp_agmt <- rbind(spp_agmt, SHA_df)
+  }
+  rm(tables)
+}
+
+
 species2$Date <- recovery_plan_table$Date[match(species2$Scientific, recovery_plan_table$Species)]
 
 #get_recovery_plan_date
